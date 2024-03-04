@@ -74,12 +74,28 @@ void imprimir(TipoLista lista){
         printf("Lista vazia!!!");
     }else{
         for(i=0; i<lista.fim; i++){
-            printf("ID: %d", lista.itens[i].id);
-            printf("\nNome: %s", lista.itens[i].nome);
-            printf("\n\n");
+            printf("ID: [%d]", lista.itens[i].id);
+            printf(" - Nome: %s", lista.itens[i].nome);
+            printf("\n");
         }
     }
 }
+
+int trocar(TipoLista *lista, int id1, int id2){
+    int pos_id1, pos_id2;
+    TipoItem aux;
+    pos_id1 = buscar(*lista, id1);
+    pos_id2 = buscar(*lista, id2);
+    if((pos_id1==-1) || (pos_id2 == -1)){
+        return 0;
+    }else{
+        aux = lista->itens[pos_id2];
+        lista->itens[pos_id2] = lista->itens[pos_id1];
+        lista->itens[pos_id1] = aux;
+        return 1;
+    }
+}
+
 
 int main(){
 
@@ -110,15 +126,17 @@ int main(){
 
     imprimir(lista);
 
-    remover(&lista, 3);
+    if(trocar(&lista, 1, 3) == 1){
+        printf("Troca de elementos realizada com sucesso!\n");
+    }else{
+        printf("ERRO ao trocar os elementos.\n");
+    }
 
     imprimir(lista);
 
-    //inserirFinal(&lista, item);
-    //inserirFinal(&lista, item);
-    //inserirFinal(&lista, item);
-    //inserirFinal(&lista, item);
+    //remover(&lista, 3);
 
+    //imprimir(lista);
 
 
     return 0;
