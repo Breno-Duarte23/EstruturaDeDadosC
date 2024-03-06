@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1709687704 source:c:\users\breno duarte\documents\github\estruturadedadosc\desafioaula02lista\main.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	<locale.h>
+

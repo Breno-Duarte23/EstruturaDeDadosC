@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1709684071 source:c:\users\breno duarte\documents\github\estruturadedadosc\aulaestruturadedados01\main.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+
