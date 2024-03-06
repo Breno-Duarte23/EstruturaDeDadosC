@@ -96,6 +96,32 @@ int trocar(TipoLista *lista, int id1, int id2){
     }
 }
 
+int editar(TipoLista *lista, int id){
+    char nome[30];
+    int tamanho;
+    int pos_item = buscar(*lista, id);
+    if(pos_item==-1){
+        return 0;
+    }else{
+        printf("Informe o novo nome: ");
+        fgets(lista->itens[pos_item].nome, 30, stdin);
+        tamanho = strlen(lista->itens[pos_item].nome);
+        lista->itens[pos_item].nome[tamanho-1] = '\0';
+        return 1;
+    }
+}
+
+ void imprimirItem(TipoLista lista, int id){
+    int pos_item = buscar(lista, id);
+    if(pos_item != -1){
+        printf("[%d] ", lista.itens[pos_item].id);
+        printf("%s", lista.itens[pos_item].nome);
+    }
+}
+
+void zerarLista(TipoLista *lista){
+    criarLista(lista);
+}
 
 int main(){
 
@@ -134,6 +160,10 @@ int main(){
 
     imprimir(lista);
 
+
+    zerarLista(&lista);
+    imprimir(lista);
+
     //remover(&lista, 3);
 
     //imprimir(lista);
@@ -141,4 +171,5 @@ int main(){
 
     return 0;
 }
+
 
