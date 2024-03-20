@@ -10,6 +10,7 @@ typedef struct celula *apontador;
 typedef struct celula{
     TipoItem item;
     apontador *prox;
+    apontador *ant;
 }celula;
 
 typedef struct{
@@ -19,6 +20,7 @@ typedef struct{
 void criar(TipoLista *lista){
     lista->primeiro = (apontador) malloc(sizeof(celula));
     lista->primeiro->prox = NULL;
+    lista->primeiro->ant = NULL;
     lista->ultimo = lista->primeiro;
 }
 
@@ -30,10 +32,24 @@ int vazia(TipoLista lista){
 
 void inserirFinal(TipoLista *lista, TipoItem item){
     if(buscar(*lista, item.id)==0){
-        lista->ultimo->prox = (apontador) malloc(sizeof(celula));
-        lista->ultimo = lista->ultimo->prox;
-        lista->ultimo->prox = NULL;
+        apontador novo = (apontador) malloc(sizeof(celula));
+        lista->ultimo->prox = novo;
+        novo->ant = lista->ultimo;
+        novo->prox = NULL;
+        lista->ultimo = novo;
         lista->ultimo->item = item;
+    }
+}
+
+void inserirDepois(TipoLista *lista, TipoItem item, int antecessor){
+    apontador aux = buscar(*lista, antecessor);
+    if (aux!=0){
+        if(buscar(*lista, item.id)==0){
+            apontador novo = (apontador) malloc(sizeof(celula));
+            novo->item = item;
+            novo->prox = aux->prox;
+            aux->prox = novo;
+        }
     }
 }
 
@@ -45,6 +61,18 @@ void imprimir(TipoLista lista){
         while(aux!=NULL){
             printf("[%d] ", aux->item.id);
             aux = aux->prox;
+        }
+    }
+}
+
+void imprimirDecrescente(TipoLista lista){
+    if(vazia(lista)==1){
+        printf("A lista esta vazia!!!");
+    }else{
+        apontador aux = lista.ultimo;
+        while(aux != lista.primeiro){
+            printf("[%d] ", aux->item.id);
+            aux = aux->ant;
         }
     }
 }
@@ -73,70 +101,45 @@ int buscar(TipoLista lista, int id){
     aux = lista.primeiro->prox;
     while(aux!=NULL){
         if(aux->item.id == id)
-            return 1;
+            return aux;
         aux = aux->prox;
     }
     return 0;
 }
 
-void inserirPosicao(TipoLista *lista, TipoItem item, int chave){
-    apontador anterior, novo;
-    anterior = lista->primeiro;
+void trocar(TipoLista *lista, int id1, int id2){
+    if((buscar(*lista, id1)!=0) && (buscar(*lista, id2)!=0)){
+        apontador ant1, aux1, ant2, aux2, aux;
+        aux1 = buscar(*lista, id1);
+        aux2 = buscar(*lista, id2);
+        ant1 = buscarAnterior(*lista, id1);
+        ant2 = buscarAnterior(*lista, id2);
 
-    if(buscar(*lista, chave)== 0){
-        printf("Chave nao encontrada na lista.\n");
-        return;
+        aux = aux2->prox;
+        ant1->prox = aux2;
+        aux2->prox = aux1->prox;
+        ant2->prox = aux1;
+        aux1->prox = aux;
     }
-    novo = (apontador) malloc(sizeof(celula));
-    novo->item = item;
-    novo->prox = anterior->prox;
-    anterior->prox = novo;
 }
 
-void trocarElementos(TipoLista *lista, int chave1, int chave2) {
-
-    if (chave1 == chave2) {
-        printf("As chaves fornecidas sao iguais. Nenhuma troca sera feita.\n");
-        return;
+int buscarAnterior(TipoLista lista, int id){
+    apontador aux, ant;
+    ant = lista.primeiro;
+    aux = lista.primeiro->prox;
+    while(aux!=NULL){
+        if(aux->item.id == id)
+            return ant;
+        ant = aux;
+        aux = aux->prox;
     }
-
-    apontador ant1, ant2, elem1, elem2;
-    ant1 = lista->primeiro;
-    ant2 = lista->primeiro;
-
-    while ((buscar(*lista, chave1) != 0) && (ant1->prox->item->id != chave1)){
-        ant1 = ant1->prox;
-    }
-    while ((buscar(*lista, chave1) != 0)&& (ant2->prox->item->id != chave2) ){
-        ant2 = ant2->prox;
-    }
-
-    if (ant1->prox == NULL || ant2->prox == NULL) {
-        printf("Uma ou ambas as chaves nao foram encontradas na lista. Nenhuma troca sera feita.\n");
-        return;
-    }
-
-    elem1 = ant1->prox;
-    elem2 = ant2->prox;
-
-    ant1->prox = elem2;
-    ant2->prox = elem1;
-    apontador temp = elem2->prox;
-    elem2->prox = elem1->prox;
-    elem1->prox = temp;
-
-    printf("Troca realizada com sucesso!\n");
+    return 0;
 }
-
 
 int main()
 {
     TipoLista lista;
     TipoItem item;
-    TipoItem novoItem;
-
-    int chaveAntecessor = 0;
-    int chave1, chave2;
 
     criar(&lista);
 
@@ -158,35 +161,36 @@ int main()
     item.id = 4;
     inserirFinal(&lista, item);
 
+    item.id = 5;
+    inserirFinal(&lista, item);
+
     printf("Primeira impressao: \n");
     imprimir(lista);
 
-    remover(&lista, 3);
+    //item.id = 6;
+    //inserirDepois(&lista, item, 5);
+
+    //trocar(&lista, 2, 4);
+
+    //remover(&lista, 3);
 
     printf("\n\nSegunda impressao: \n");
-    imprimir(lista);
+    //imprimir(lista);
+    imprimirDecrescente(lista);
+    //printf("\n");
 
-    printf("\n");
-
-    if(buscar(lista, 2)==1){
+    /*
+    if(buscar(lista, 2)!=0){
         printf("O ID 2 esta na lista");
     }else{
         printf("O ID 2 NAO esta na lista");
     }
+    */
 
-    printf("\nDigite a chave do antecessor e o que sera gravado na chave: ");
-    scanf("%d", &chaveAntecessor);
-    scanf("%d", &novoItem);
-
-    inserirPosicao(&lista, novoItem, chaveAntecessor);
-    imprimir(lista);
-
-    printf("\nDigite as chaves dos elementos que serao trocados: ");
-    scanf("%d", &chave1);
-    scanf("%d", &chave2);
-
-    trocarElementos(&lista, chave1, chave2);
-
-    imprimir(lista);
     return 0;
 }
+
+
+
+
+
