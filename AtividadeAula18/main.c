@@ -48,6 +48,7 @@ void inserirDepois(TipoLista *lista, TipoItem item, int antecessor){
             apontador novo = (apontador) malloc(sizeof(celula));
             novo->item = item;
             novo->prox = aux->prox;
+            novo->ant = aux;
             aux->prox = novo;
         }
     }
@@ -121,19 +122,6 @@ void trocar(TipoLista *lista, int id1, int id2){
         ant2->prox = aux1;
         aux1->prox = aux;
     }
-}
-
-int buscarAnterior(TipoLista lista, int id){
-    apontador aux, ant;
-    ant = lista.primeiro;
-    aux = lista.primeiro->prox;
-    while(aux!=NULL){
-        if(aux->item.id == id)
-            return ant;
-        ant = aux;
-        aux = aux->prox;
-    }
-    return 0;
 }
 
 int main()
