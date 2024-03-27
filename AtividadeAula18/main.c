@@ -49,6 +49,8 @@ void inserirDepois(TipoLista *lista, TipoItem item, int antecessor){
             novo->item = item;
             novo->prox = aux->prox;
             novo->ant = aux;
+            apontador temp = novo-> prox;
+            temp-> ant = novo;
             aux->prox = novo;
         }
     }
@@ -82,18 +84,16 @@ void remover(TipoLista *lista, int id){
     if(vazia(*lista)==1){
         printf("A lista esta vazia!");
     }else{
-        apontador anterior, atual;
-        anterior = lista->primeiro;
-        atual = lista->primeiro->prox;
-        while(atual!=NULL){
-            if(atual->item.id == id){
-                anterior->prox = atual->prox;
-                free(atual);
-                break;
-            }
-            anterior = atual;
-            atual = atual->prox;
+        apontador aux = buscar(*lista, id);
+        apontador anterior = aux->ant;
+        apontador prox = aux->prox;
+        anterior->prox = aux->prox;
+
+        if(prox != NULL){
+            prox->ant = aux->ant;
         }
+
+        free(aux);
     }
 }
 
@@ -111,16 +111,34 @@ int buscar(TipoLista lista, int id){
 void trocar(TipoLista *lista, int id1, int id2){
     if((buscar(*lista, id1)!=0) && (buscar(*lista, id2)!=0)){
         apontador ant1, aux1, ant2, aux2, aux;
+
         aux1 = buscar(*lista, id1);
         aux2 = buscar(*lista, id2);
-        ant1 = buscarAnterior(*lista, id1);
-        ant2 = buscarAnterior(*lista, id2);
+
+        ant1 = aux1->ant;
+        ant2 = aux2->ant;
 
         aux = aux2->prox;
+
         ant1->prox = aux2;
         aux2->prox = aux1->prox;
         ant2->prox = aux1;
         aux1->prox = aux;
+
+        if(aux!=NULL){
+            aux->ant = aux1;
+        } else{
+            lista->ultimo = aux1;
+        }
+
+        aux1->ant = ant2;
+
+        ant2->ant = aux2;
+
+        apontador temp = ant2->ant;
+        temp->ant = aux2;
+
+        aux2->ant = ant1;
     }
 }
 
@@ -134,12 +152,6 @@ int main()
     item.id = 1;
     inserirFinal(&lista, item);
 
-    item.id = 1;
-    inserirFinal(&lista, item);
-
-    item.id = 1;
-    inserirFinal(&lista, item);
-
     item.id = 2;
     inserirFinal(&lista, item);
 
@@ -149,8 +161,8 @@ int main()
     item.id = 4;
     inserirFinal(&lista, item);
 
-    item.id = 5;
-    inserirFinal(&lista, item);
+    //item.id = 5;
+    //inserirFinal(&lista, item);
 
     printf("Primeira impressao: \n");
     imprimir(lista);
@@ -158,13 +170,13 @@ int main()
     //item.id = 6;
     //inserirDepois(&lista, item, 5);
 
-    //trocar(&lista, 2, 4);
+    trocar(&lista, 2, 4);
 
-    //remover(&lista, 3);
+    //remover(&lista, 5);
 
     printf("\n\nSegunda impressao: \n");
-    //imprimir(lista);
-    imprimirDecrescente(lista);
+    imprimir(lista);
+    //imprimirDecrescente(lista);
     //printf("\n");
 
     /*
