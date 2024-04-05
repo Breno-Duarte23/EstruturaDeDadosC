@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1712107362 source:c:\users\breni\documents\meusprojetos\estruturadedadosc\fila de prioridade\fila de prioridade fila encadeada\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

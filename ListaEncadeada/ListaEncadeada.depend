@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1711996276 source:c:\users\breni\documents\meusprojetos\estruturadedadosc\listaencadeada\main.c
+	<stdio.h>
+	<stdlib.h>
+
