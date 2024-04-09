@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1712704657 source:c:\users\breno duarte\documents\github\estruturadedadosc\invertendo pilha\main.c
+	<stdio.h>
+	<stdlib.h>
+
