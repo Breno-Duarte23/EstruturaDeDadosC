@@ -17,7 +17,6 @@ void breno(int vetor[], int tamanho){
     }
 }
 
-
 void imprimirVetor(int vetor[], int tamanho){
     for(int i = 0; i < tamanho; i++){
         printf("{%d}", vetor[i]);
@@ -39,7 +38,7 @@ int main()
     preencherVetor(vetor, tamanho);
     printf("Vetor antes da ordenacao: \n");
     imprimirVetor(vetor, tamanho);
-
+    printf("\n\n Ordenando: \n");
     breno(vetor, tamanho);
     printf("\nVetor depois da ordenacao: \n");
     imprimirVetor(vetor, tamanho);
