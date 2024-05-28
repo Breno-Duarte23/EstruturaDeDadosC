@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1716937360 source:c:\users\breno duarte\documents\github\estruturadedadosc\manipulandoarquivos\vogais-consoantes\contabilizandovc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+

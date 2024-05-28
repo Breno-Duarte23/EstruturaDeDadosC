@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1716938053 source:c:\users\breno duarte\documents\github\estruturadedadosc\manipulandoarquivos\vogais-consoantes\abrindoarquivos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+
