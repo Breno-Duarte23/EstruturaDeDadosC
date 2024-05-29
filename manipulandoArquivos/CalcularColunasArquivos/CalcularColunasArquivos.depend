@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1716945547 source:c:\users\breno duarte\documents\github\estruturadedadosc\manipulandoarquivos\calcularcolunasarquivos\main.c
+	<stdio.h>
+	<stdlib.h>
+

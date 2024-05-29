@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1716944533 source:c:\users\breno duarte\documents\github\estruturadedadosc\manipulandoarquivos\invertendostrings\main.c
+	<stdio.h>
+	<stdlib.h>
+
