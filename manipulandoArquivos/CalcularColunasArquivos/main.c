@@ -4,22 +4,24 @@
 int main()
 {
     FILE *arquivo;
-    int total = 0;
-    char c;
+    char c, linha[5];
+    int soma=0;
 
-    arquivo = fopen("numeros.txt", "r");
+    arquivo = fopen("arquivo.txt", "r");
 
-    if(arquivo == NULL){
-        printf("Falha ao abrir/criar arquivo!");
+    if(arquivo==NULL){
+        printf("Falha ao ler o arquivo");
+        return 1;
     }
 
-    while(feof(arquivo) == 0){
-        c = fgetc(arquivo);
-        printf("%c", c);
-        total += atoi(c);
+    while(feof(arquivo)==0){
+        fgets(linha, 5, arquivo);
+        soma = soma + atoi(linha);
     }
 
-    printf(total);
+    printf("A soma eh: %d", soma);
+
     fclose(arquivo);
+
     return 0;
 }
