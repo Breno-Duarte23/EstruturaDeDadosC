@@ -1,0 +1,5571 @@
+cod_municipio;uf_code;name;pop_21;
+1100015;RO;Alta Floresta d'Oeste;22516
+1100023;RO;Ariquemes;111148
+1100031;RO;Cabixi;5067
+1100049;RO;Cacoal;86416
+1100056;RO;Cerejeiras;16088
+1100064;RO;Colorado do Oeste;15213
+1100072;RO;Corumbiara;7052
+1100080;RO;Costa Marques;19255
+1100098;RO;Espig�o d'Oeste;33009
+1100106;RO;Guajar�-Mirim;46930
+1100114;RO;Jaru;51469
+1100122;RO;Ji-Paran�;131026
+1100130;RO;Machadinho d'Oeste;41724
+1100148;RO;Nova Brasil�ndia d'Oeste;20504
+1100155;RO;Ouro Preto do Oeste;35445
+1100189;RO;Pimenta Bueno;37098
+1100205;RO;Porto Velho;porto-velho
+1100254;RO;Presidente M�dici;18165
+1100262;RO;Rio Crespo;3843
+1100288;RO;Rolim de Moura;55748
+1100296;RO;Santa Luzia d'Oeste;5942
+1100304;RO;Vilhena;104517
+1100320;RO;S�o Miguel do Guapor�;23147
+1100338;RO;Nova Mamor�;32184
+1100346;RO;Alvorada d'Oeste;13807
+1100379;RO;Alto Alegre dos Parecis;13268
+1100403;RO;Alto Para�so;22258
+1100452;RO;Buritis;41043
+1100502;RO;Novo Horizonte do Oeste;8125
+1100601;RO;Cacaul�ndia;6307
+1100700;RO;Campo Novo de Rond�nia;14391
+1100809;RO;Candeias do Jamari;28068
+1100908;RO;Castanheiras;2923
+1100924;RO;Chupinguaia;11755
+1100940;RO;Cujubim;27131
+1101005;RO;Governador Jorge Teixeira;7130
+1101104;RO;Itapu� do Oeste;10819
+1101203;RO;Ministro Andreazza;9461
+1101302;RO;Mirante da Serra;10691
+1101401;RO;Monte Negro;16158
+1101435;RO;Nova Uni�o;6822
+1101450;RO;Parecis;6319
+1101468;RO;Pimenteiras do Oeste;2127
+1101476;RO;Primavera de Rond�nia;2697
+1101484;RO;S�o Felipe d'Oeste;4962
+1101492;RO;S�o Francisco do Guapor�;21088
+1101500;RO;Seringueiras;11846
+1101559;RO;Teixeir�polis;4160
+1101609;RO;Theobroma;10348
+1101708;RO;Urup�;11081
+1101757;RO;Vale do Anari;11545
+1101807;RO;Vale do Para�so;6490
+1200013;AC;Acrel�ndia;15721
+1200054;AC;Assis Brasil;7649
+1200104;AC;Brasil�ia;27123
+1200138;AC;Bujari;10572
+1200179;AC;Capixaba;12280
+1200203;AC;Cruzeiro do Sul;89760
+1200252;AC;Epitaciol�ndia;18979
+1200302;AC;Feij�;34986
+1200328;AC;Jord�o;8628
+1200336;AC;M�ncio Lima;19643
+1200344;AC;Manoel Urbano;9701
+1200351;AC;Marechal Thaumaturgo;19727
+1200385;AC;Pl�cido de Castro;20147
+1200393;AC;Porto Walter;12497
+1200401;AC;Rio Branco;rio-branco
+1200427;AC;Rodrigues Alves;19767
+1200435;AC;Santa Rosa do Purus;6893
+1200450;AC;Senador Guiomard;23446
+1200500;AC;Sena Madureira;47168
+1200609;AC;Tarauac�;43730
+1200708;AC;Xapuri;19866
+1200807;AC;Porto Acre;19141
+1300029;AM;Alvar�es;16396
+1300060;AM;Amatur�;11934
+1300086;AM;Anam�;14292
+1300102;AM;Anori;21937
+1300144;AM;Apu�;22739
+1300201;AM;Atalaia do Norte;20868
+1300300;AM;Autazes;41005
+1300409;AM;Barcelos;27772
+1300508;AM;Barreirinha;32919
+1300607;AM;Benjamin Constant;44873
+1300631;AM;Beruri;20503
+1300680;AM;Boa Vista do Ramos;20040
+1300706;AM;Boca do Acre;34958
+1300805;AM;Borba;42328
+1300839;AM;Caapiranga;13482
+1300904;AM;Canutama;15981
+1301001;AM;Carauari;28719
+1301100;AM;Careiro;38820
+1301159;AM;Careiro da V�rzea;31459
+1301209;AM;Coari;86713
+1301308;AM;Codaj�s;29691
+1301407;AM;Eirunep�;36121
+1301506;AM;Envira;20748
+1301605;AM;Fonte Boa;16409
+1301654;AM;Guajar�;17193
+1301704;AM;Humait�;57195
+1301803;AM;Ipixuna;31172
+1301852;AM;Iranduba;49718
+1301902;AM;Itacoatiara;104046
+1301951;AM;Itamarati;7777
+1302009;AM;Itapiranga;9312
+1302108;AM;Japur�;1755
+1302207;AM;Juru�;15495
+1302306;AM;Juta�;13462
+1302405;AM;L�brea;47685
+1302504;AM;Manacapuru;99613
+1302553;AM;Manaquiri;33981
+1302603;AM;Manaus;manaus
+1302702;AM;Manicor�;57405
+1302801;AM;Mara�;18298
+1302900;AM;Mau�s;66159
+1303007;AM;Nhamund�;21710
+1303106;AM;Nova Olinda do Norte;38665
+1303205;AM;Novo Air�o;20395
+1303304;AM;Novo Aripuan�;26443
+1303403;AM;Parintins;116439
+1303502;AM;Pauini;19616
+1303536;AM;Presidente Figueiredo;38095
+1303569;AM;Rio Preto da Eva;34856
+1303601;AM;Santa Isabel do Rio Negro;26566
+1303700;AM;Santo Ant�nio do I��;20889
+1303809;AM;S�o Gabriel da Cachoeira;47031
+1303908;AM;S�o Paulo de Oliven�a;40837
+1303957;AM;S�o Sebasti�o do Uatum�;14678
+1304005;AM;Silves;9289
+1304062;AM;Tabatinga;68502
+1304104;AM;Tapau�;16876
+1304203;AM;Tef�;59250
+1304237;AM;Tonantins;19038
+1304260;AM;Uarini;13839
+1304302;AM;Urucar�;16007
+1304401;AM;Urucurituba;24098
+1400027;RR;Amajari;13561
+1400050;RR;Alto Alegre;15249
+1400100;RR;Boa Vista;boa-vista
+1400159;RR;Bonfim;12701
+1400175;RR;Cant�;19257
+1400209;RR;Caracara�;22635
+1400233;RR;Caroebe;10595
+1400282;RR;Iracema;12637
+1400308;RR;Mucaja�;18482
+1400407;RR;Normandia;11772
+1400456;RR;Pacaraima;20108
+1400472;RR;Rorain�polis;31387
+1400506;RR;S�o Jo�o da Baliza;8492
+1400605;RR;S�o Luiz;8232
+1400704;RR;Uiramut�;11014
+1500107;PA;Abaetetuba;160439
+1500131;PA;Abel Figueiredo;7536
+1500206;PA;Acar�;55744
+1500305;PA;Afu�;39910
+1500347;PA;�gua Azul do Norte;27797
+1500404;PA;Alenquer;57390
+1500503;PA;Almeirim;34044
+1500602;PA;Altamira;117320
+1500701;PA;Anaj�s;30091
+1500800;PA;Ananindeua;540410
+1500859;PA;Anapu;29312
+1500909;PA;Augusto Corr�a;46937
+1500958;PA;Aurora do Par�;32200
+1501006;PA;Aveiro;16421
+1501105;PA;Bagre;31967
+1501204;PA;Bai�o;49454
+1501253;PA;Bannach;3239
+1501303;PA;Barcarena;129333
+1501402;PA;Bel�m;belem
+1501451;PA;Belterra;17944
+1501501;PA;Benevides;64780
+1501576;PA;Bom Jesus do Tocantins;17254
+1501600;PA;Bonito;16769
+1501709;PA;Bragan�a;130122
+1501725;PA;Brasil Novo;14883
+1501758;PA;Brejo Grande do Araguaia;7357
+1501782;PA;Breu Branco;68597
+1501808;PA;Breves;104280
+1501907;PA;Bujaru;29717
+1501956;PA;Cachoeira do Piri�;35307
+1502004;PA;Cachoeira do Arari;24355
+1502103;PA;Camet�;140814
+1502152;PA;Cana� dos Caraj�s;39103
+1502202;PA;Capanema;69828
+1502301;PA;Capit�o Po�o;54545
+1502400;PA;Castanhal;205667
+1502509;PA;Chaves;24175
+1502608;PA;Colares;12175
+1502707;PA;Concei��o do Araguaia;48115
+1502756;PA;Conc�rdia do Par�;34236
+1502764;PA;Cumaru do Norte;14044
+1502772;PA;Curion�polis;17764
+1502806;PA;Curralinho;35530
+1502855;PA;Curu�;14776
+1502905;PA;Curu��;41093
+1502939;PA;Dom Eliseu;61206
+1502954;PA;Eldorado do Caraj�s;34069
+1503002;PA;Faro;6949
+1503044;PA;Floresta do Araguaia;20742
+1503077;PA;Garraf�o do Norte;26155
+1503093;PA;Goian�sia do Par�;41678
+1503101;PA;Gurup�;34127
+1503200;PA;Igarap�-A�u;39234
+1503309;PA;Igarap�-Miri;63367
+1503408;PA;Inhangapi;12009
+1503457;PA;Ipixuna do Par�;67170
+1503507;PA;Irituia;32639
+1503606;PA;Itaituba;101541
+1503705;PA;Itupiranga;53439
+1503754;PA;Jacareacanga;6952
+1503804;PA;Jacund�;60517
+1503903;PA;Juruti;59961
+1504000;PA;Limoeiro do Ajuru;29623
+1504059;PA;M�e do Rio;30389
+1504109;PA;Magalh�es Barata;8598
+1504208;PA;Marab�;287664
+1504307;PA;Maracan�;29559
+1504406;PA;Marapanim;28563
+1504422;PA;Marituba;135812
+1504455;PA;Medicil�ndia;32347
+1504505;PA;Melga�o;28121
+1504604;PA;Mocajuba;31917
+1504703;PA;Moju;84251
+1504752;PA;Moju� dos Campos;16282
+1504802;PA;Monte Alegre;58289
+1504901;PA;Muan�;41454
+1504950;PA;Nova Esperan�a do Piri�;21519
+1504976;PA;Nova Ipixuna;17027
+1505007;PA;Nova Timboteua;15646
+1505031;PA;Novo Progresso;25769
+1505064;PA;Novo Repartimento;78488
+1505106;PA;�bidos;52473
+1505205;PA;Oeiras do Par�;33182
+1505304;PA;Oriximin�;74921
+1505403;PA;Our�m;18079
+1505437;PA;Ouril�ndia do Norte;33831
+1505486;PA;Pacaj�;49110
+1505494;PA;Palestina do Par�;7575
+1505502;PA;Paragominas;115838
+1505536;PA;Parauapebas;218787
+1505551;PA;Pau d'Arco;5339
+1505601;PA;Peixe-Boi;8084
+1505635;PA;Pi�arra;12976
+1505650;PA;Placas;32325
+1505700;PA;Ponta de Pedras;32007
+1505809;PA;Portel;63831
+1505908;PA;Porto de Moz;42456
+1506005;PA;Prainha;29827
+1506104;PA;Primavera;10889
+1506112;PA;Quatipuru;13794
+1506138;PA;Reden��o;86326
+1506161;PA;Rio Maria;18208
+1506187;PA;Rondon do Par�;53242
+1506195;PA;Rur�polis;52473
+1506203;PA;Salin�polis;41164
+1506302;PA;Salvaterra;24392
+1506351;PA;Santa B�rbara do Par�;21811
+1506401;PA;Santa Cruz do Arari;10496
+1506500;PA;Santa Izabel do Par�;72856
+1506559;PA;Santa Luzia do Par�;19839
+1506583;PA;Santa Maria das Barreiras;22244
+1506609;PA;Santa Maria do Par�;25127
+1506708;PA;Santana do Araguaia;75995
+1506807;PA;Santar�m;308339
+1506906;PA;Santar�m Novo;6796
+1507003;PA;Santo Ant�nio do Tau�;32346
+1507102;PA;S�o Caetano de Odivelas;18207
+1507151;PA;S�o Domingos do Araguaia;25945
+1507201;PA;S�o Domingos do Capim;32285
+1507300;PA;S�o F�lix do Xingu;135732
+1507409;PA;S�o Francisco do Par�;15978
+1507458;PA;S�o Geraldo do Araguaia;24566
+1507466;PA;S�o Jo�o da Ponta;6294
+1507474;PA;S�o Jo�o de Pirabas;23440
+1507508;PA;S�o Jo�o do Araguaia;14105
+1507607;PA;S�o Miguel do Guam�;60268
+1507706;PA;S�o Sebasti�o da Boa Vista;27302
+1507755;PA;Sapucaia;6088
+1507805;PA;Senador Jos� Porf�rio;11305
+1507904;PA;Soure;25752
+1507953;PA;Tail�ndia;111554
+1507961;PA;Terra Alta;11971
+1507979;PA;Terra Santa;19063
+1508001;PA;Tom�-A�u;64604
+1508035;PA;Tracuateua;31549
+1508050;PA;Trair�o;19344
+1508084;PA;Tucum�;40661
+1508100;PA;Tucuru�;116605
+1508126;PA;Ulian�polis;62286
+1508159;PA;Uruar�;45395
+1508209;PA;Vigia;54650
+1508308;PA;Viseu;62093
+1508357;PA;Vit�ria do Xingu;15421
+1508407;PA;Xinguara;45416
+1600055;AP;Serra do Navio;5577
+1600105;AP;Amap�;9265
+1600154;AP;Pedra Branca do Amapari;17625
+1600204;AP;Cal�oene;11493
+1600212;AP;Cutias;6217
+1600238;AP;Ferreira Gomes;8151
+1600253;AP;Itaubal;5730
+1600279;AP;Laranjal do Jari;52302
+1600303;AP;Macap�;macapa
+1600402;AP;Mazag�o;22468
+1600501;AP;Oiapoque;28534
+1600535;AP;Porto Grande;22927
+1600550;AP;Pracu�ba;5370
+1600600;AP;Santana;124808
+1600709;AP;Tartarugalzinho;18217
+1600808;AP;Vit�ria do Jari;16572
+1700251;TO;Abreul�ndia;2609
+1700301;TO;Aguiarn�polis;7049
+1700350;TO;Alian�a do Tocantins;5303
+1700400;TO;Almas;6905
+1700707;TO;Alvorada;8381
+1701002;TO;Anan�s;9435
+1701051;TO;Angico;3475
+1701101;TO;Aparecida do Rio Negro;4901
+1701309;TO;Aragominas;5705
+1701903;TO;Araguacema;7223
+1702000;TO;Aragua�u;8418
+1702109;TO;Aragua�na;186245
+1702158;TO;Araguan�;5856
+1702208;TO;Araguatins;36573
+1702307;TO;Arapoema;6590
+1702406;TO;Arraias;10502
+1702554;TO;Augustin�polis;18870
+1702703;TO;Aurora do Tocantins;3809
+1702901;TO;Axix� do Tocantins;9817
+1703008;TO;Baba�ul�ndia;10668
+1703057;TO;Bandeirantes do Tocantins;3631
+1703073;TO;Barra do Ouro;4673
+1703107;TO;Barrol�ndia;5669
+1703206;TO;Bernardo Say�o;4439
+1703305;TO;Bom Jesus do Tocantins;5120
+1703602;TO;Brasil�ndia do Tocantins;2221
+1703701;TO;Brejinho de Nazar�;5540
+1703800;TO;Buriti do Tocantins;11644
+1703826;TO;Cachoeirinha;2293
+1703842;TO;Campos Lindos;10505
+1703867;TO;Cariri do Tocantins;4499
+1703883;TO;Carmol�ndia;2627
+1703891;TO;Carrasco Bonito;4165
+1703909;TO;Caseara;5514
+1704105;TO;Centen�rio;2966
+1704600;TO;Chapada de Areia;1415
+1705102;TO;Chapada da Natividade;3330
+1705508;TO;Colinas do Tocantins;36271
+1705557;TO;Combinado;4870
+1705607;TO;Concei��o do Tocantins;4070
+1706001;TO;Couto Magalh�es;5690
+1706100;TO;Cristal�ndia;7268
+1706258;TO;Crix�s do Tocantins;1749
+1706506;TO;Darcin�polis;6250
+1707009;TO;Dian�polis;22704
+1707108;TO;Divin�polis do Tocantins;6986
+1707207;TO;Dois Irm�os do Tocantins;7173
+1707306;TO;Duer�;4686
+1707405;TO;Esperantina;11280
+1707553;TO;F�tima;3824
+1707652;TO;Figueir�polis;5222
+1707702;TO;Filad�lfia;8892
+1708205;TO;Formoso do Araguaia;18358
+1708254;TO;Fortaleza do Taboc�o;2615
+1708304;TO;Goianorte;5136
+1709005;TO;Goiatins;13169
+1709302;TO;Guara�;26403
+1709500;TO;Gurupi;88428
+1709807;TO;Ipueiras;2088
+1710508;TO;Itacaj�;7471
+1710706;TO;Itaguatins;5801
+1710904;TO;Itapiratins;3814
+1711100;TO;Itapor� do Tocantins;2412
+1711506;TO;Ja� do Tocantins;3906
+1711803;TO;Juarina;2174
+1711902;TO;Lagoa da Confus�o;13989
+1711951;TO;Lagoa do Tocantins;4470
+1712009;TO;Lajeado;3199
+1712157;TO;Lavandeira;1984
+1712405;TO;Lizarda;3727
+1712454;TO;Luzin�polis;3200
+1712504;TO;Marian�polis do Tocantins;5332
+1712702;TO;Mateiros;2773
+1712801;TO;Mauril�ndia do Tocantins;3470
+1713205;TO;Miracema do Tocantins;17628
+1713304;TO;Miranorte;13551
+1713601;TO;Monte do Carmo;8182
+1713700;TO;Monte Santo do Tocantins;2311
+1713809;TO;Palmeiras do Tocantins;6830
+1713957;TO;Muricil�ndia;3623
+1714203;TO;Natividade;9256
+1714302;TO;Nazar�;3772
+1714880;TO;Nova Olinda;12014
+1715002;TO;Nova Rosal�ndia;4348
+1715101;TO;Novo Acordo;4450
+1715150;TO;Novo Alegre;2332
+1715259;TO;Novo Jardim;2768
+1715507;TO;Oliveira de F�tima;1124
+1715705;TO;Palmeirante;6234
+1715754;TO;Palmeir�polis;7694
+1716109;TO;Para�so do Tocantins;52521
+1716208;TO;Paran�;10426
+1716307;TO;Pau d'Arco;4885
+1716505;TO;Pedro Afonso;13964
+1716604;TO;Peixe;11996
+1716653;TO;Pequizeiro;5546
+1716703;TO;Colm�ia;8078
+1717008;TO;Pindorama do Tocantins;4414
+1717206;TO;Piraqu�;3038
+1717503;TO;Pium;7830
+1717800;TO;Ponte Alta do Bom Jesus;4586
+1717909;TO;Ponte Alta do Tocantins;8192
+1718006;TO;Porto Alegre do Tocantins;3200
+1718204;TO;Porto Nacional;53618
+1718303;TO;Praia Norte;8563
+1718402;TO;Presidente Kennedy;3668
+1718451;TO;Pugmil;2746
+1718501;TO;Recursol�ndia;4389
+1718550;TO;Riachinho;4723
+1718659;TO;Rio da Concei��o;2211
+1718709;TO;Rio dos Bois;2879
+1718758;TO;Rio Sono;6498
+1718808;TO;Sampaio;4876
+1718840;TO;Sandol�ndia;3371
+1718865;TO;Santa F� do Araguaia;7678
+1718881;TO;Santa Maria do Tocantins;3537
+1718899;TO;Santa Rita do Tocantins;2407
+1718907;TO;Santa Rosa do Tocantins;4864
+1719004;TO;Santa Tereza do Tocantins;2928
+1720002;TO;Santa Terezinha do Tocantins;2530
+1720101;TO;S�o Bento do Tocantins;5457
+1720150;TO;S�o F�lix do Tocantins;1610
+1720200;TO;S�o Miguel do Tocantins;12445
+1720259;TO;S�o Salvador do Tocantins;3106
+1720309;TO;S�o Sebasti�o do Tocantins;4898
+1720499;TO;S�o Val�rio;3848
+1720655;TO;Silvan�polis;5452
+1720804;TO;S�tio Novo do Tocantins;8965
+1720853;TO;Sucupira;2007
+1720903;TO;Taguatinga;16966
+1720937;TO;Taipas do Tocantins;2183
+1720978;TO;Talism�;2831
+1721000;TO;Palmas;palmas
+1721109;TO;Tocant�nia;7688
+1721208;TO;Tocantin�polis;22820
+1721257;TO;Tupirama;1952
+1721307;TO;Tupiratins;2785
+1722081;TO;Wanderl�ndia;11783
+1722107;TO;Xambio�;11500
+2100055;MA;A�ail�ndia;113783
+2100105;MA;Afonso Cunha;6631
+2100154;MA;�gua Doce do Maranh�o;12731
+2100204;MA;Alc�ntara;22126
+2100303;MA;Aldeias Altas;26979
+2100402;MA;Altamira do Maranh�o;8250
+2100436;MA;Alto Alegre do Maranh�o;28066
+2100477;MA;Alto Alegre do Pindar�;31967
+2100501;MA;Alto Parna�ba;11233
+2100550;MA;Amap� do Maranh�o;7047
+2100600;MA;Amarante do Maranh�o;42017
+2100709;MA;Anajatuba;27170
+2100808;MA;Anapurus;16054
+2100832;MA;Apicum-A�u;17582
+2100873;MA;Araguan�;15675
+2100907;MA;Araioses;47095
+2100956;MA;Arame;32825
+2101004;MA;Arari;30014
+2101103;MA;Axix�;12234
+2101202;MA;Bacabal;105094
+2101251;MA;Bacabeira;17446
+2101301;MA;Bacuri;18726
+2101350;MA;Bacurituba;5696
+2101400;MA;Balsas;96951
+2101509;MA;Bar�o de Graja�;19026
+2101608;MA;Barra do Corda;88895
+2101707;MA;Barreirinhas;63891
+2101731;MA;Bel�gua;7586
+2101772;MA;Bela Vista do Maranh�o;11347
+2101806;MA;Benedito Leite;5643
+2101905;MA;Bequim�o;21317
+2101939;MA;Bernardo do Mearim;6102
+2101970;MA;Boa Vista do Gurupi;8494
+2102002;MA;Bom Jardim;42010
+2102036;MA;Bom Jesus das Selvas;35095
+2102077;MA;Bom Lugar;16578
+2102101;MA;Brejo;36900
+2102150;MA;Brejo de Areia;8841
+2102200;MA;Buriti;28916
+2102309;MA;Buriti Bravo;23993
+2102325;MA;Buriticupu;73595
+2102358;MA;Buritirana;15503
+2102374;MA;Cachoeira Grande;9524
+2102408;MA;Cajapi�;11255
+2102507;MA;Cajari;19521
+2102556;MA;Campestre do Maranh�o;14530
+2102606;MA;C�ndido Mendes;20376
+2102705;MA;Cantanhede;22236
+2102754;MA;Capinzal do Norte;10937
+2102804;MA;Carolina;24151
+2102903;MA;Carutapera;24095
+2103000;MA;Caxias;166159
+2103109;MA;Cedral;10711
+2103125;MA;Central do Maranh�o;8806
+2103158;MA;Centro do Guilherme;13876
+2103174;MA;Centro Novo do Maranh�o;22056
+2103208;MA;Chapadinha;80705
+2103257;MA;Cidel�ndia;14855
+2103307;MA;Cod�;123368
+2103406;MA;Coelho Neto;49804
+2103505;MA;Colinas;41443
+2103554;MA;Concei��o do Lago-A�u;16559
+2103604;MA;Coroat�;65788
+2103703;MA;Cururupu;32559
+2103752;MA;Davin�polis;12923
+2103802;MA;Dom Pedro;23393
+2103901;MA;Duque Bacelar;11451
+2104008;MA;Esperantin�polis;16971
+2104057;MA;Estreito;43097
+2104073;MA;Feira Nova do Maranh�o;8506
+2104081;MA;Fernando Falc�o;10559
+2104099;MA;Formosa da Serra Negra;19425
+2104107;MA;Fortaleza dos Nogueiras;12662
+2104206;MA;Fortuna;17812
+2104305;MA;Godofredo Viana;12104
+2104404;MA;Gon�alves Dias;17953
+2104503;MA;Governador Archer;10931
+2104552;MA;Governador Edison Lob�o;18740
+2104602;MA;Governador Eug�nio Barros;14703
+2104628;MA;Governador Luiz Rocha;7878
+2104651;MA;Governador Newton Bello;10121
+2104677;MA;Governador Nunes Freire;25502
+2104701;MA;Gra�a Aranha;6261
+2104800;MA;Graja�;70692
+2104909;MA;Guimar�es;11966
+2105005;MA;Humberto de Campos;29143
+2105104;MA;Icatu;27423
+2105153;MA;Igarap� do Meio;14470
+2105203;MA;Igarap� Grande;11453
+2105302;MA;Imperatriz;259980
+2105351;MA;Itaipava do Graja�;16158
+2105401;MA;Itapecuru Mirim;69233
+2105427;MA;Itinga do Maranh�o;26134
+2105450;MA;Jatob�;10464
+2105476;MA;Jenipapo dos Vieiras;17123
+2105500;MA;Jo�o Lisboa;23677
+2105609;MA;Josel�ndia;16228
+2105658;MA;Junco do Maranh�o;4334
+2105708;MA;Lago da Pedra;50959
+2105807;MA;Lago do Junco;10900
+2105906;MA;Lago Verde;16369
+2105922;MA;Lagoa do Mato;11280
+2105948;MA;Lago dos Rodrigues;8841
+2105963;MA;Lagoa Grande do Maranh�o;11534
+2105989;MA;Lajeado Novo;7653
+2106003;MA;Lima Campos;11943
+2106102;MA;Loreto;12271
+2106201;MA;Lu�s Domingues;7016
+2106300;MA;Magalh�es de Almeida;20228
+2106326;MA;Maraca�um�;21773
+2106359;MA;Maraj� do Sena;7757
+2106375;MA;Maranh�ozinho;16754
+2106409;MA;Mata Roma;17122
+2106508;MA;Matinha;23591
+2106607;MA;Mat�es;34099
+2106631;MA;Mat�es do Norte;17316
+2106672;MA;Milagres do Maranh�o;8502
+2106706;MA;Mirador;21045
+2106755;MA;Miranda do Norte;29121
+2106805;MA;Mirinzal;15059
+2106904;MA;Mon��o;33888
+2107001;MA;Montes Altos;9064
+2107100;MA;Morros;19708
+2107209;MA;Nina Rodrigues;14826
+2107258;MA;Nova Colinas;5469
+2107308;MA;Nova Iorque;4682
+2107357;MA;Nova Olinda do Maranh�o;21228
+2107407;MA;Olho d'�gua das Cunh�s;19616
+2107456;MA;Olinda Nova do Maranh�o;14968
+2107506;MA;Pa�o do Lumiar;125265
+2107605;MA;Palmeir�ndia;19840
+2107704;MA;Paraibano;21571
+2107803;MA;Parnarama;35108
+2107902;MA;Passagem Franca;19253
+2108009;MA;Pastos Bons;19693
+2108058;MA;Paulino Neves;16295
+2108108;MA;Paulo Ramos;21092
+2108207;MA;Pedreiras;39153
+2108256;MA;Pedro do Ros�rio;25560
+2108306;MA;Penalva;38987
+2108405;MA;Peri Mirim;14371
+2108454;MA;Peritor�;23530
+2108504;MA;Pindar�-Mirim;33186
+2108603;MA;Pinheiro;84160
+2108702;MA;Pio XII;21274
+2108801;MA;Pirapemas;18814
+2108900;MA;Po��o de Pedras;17321
+2109007;MA;Porto Franco;24294
+2109056;MA;Porto Rico do Maranh�o;5936
+2109106;MA;Presidente Dutra;48264
+2109205;MA;Presidente Juscelino;12939
+2109239;MA;Presidente M�dici;7124
+2109270;MA;Presidente Sarney;19217
+2109304;MA;Presidente Vargas;11328
+2109403;MA;Primeira Cruz;15545
+2109452;MA;Raposa;31586
+2109502;MA;Riach�o;20288
+2109551;MA;Ribamar Fiquene;7859
+2109601;MA;Ros�rio;43243
+2109700;MA;Samba�ba;5686
+2109759;MA;Santa Filomena do Maranh�o;7878
+2109809;MA;Santa Helena;42829
+2109908;MA;Santa In�s;89927
+2110005;MA;Santa Luzia;73105
+2110039;MA;Santa Luzia do Paru�;25487
+2110104;MA;Santa Quit�ria do Maranh�o;25884
+2110203;MA;Santa Rita;38732
+2110237;MA;Santana do Maranh�o;13704
+2110278;MA;Santo Amaro do Maranh�o;16219
+2110302;MA;Santo Ant�nio dos Lopes;14516
+2110401;MA;S�o Benedito do Rio Preto;18769
+2110500;MA;S�o Bento;45989
+2110609;MA;S�o Bernardo;28825
+2110658;MA;S�o Domingos do Azeit�o;7448
+2110708;MA;S�o Domingos do Maranh�o;34391
+2110807;MA;S�o F�lix de Balsas;4540
+2110856;MA;S�o Francisco do Brej�o;12082
+2110906;MA;S�o Francisco do Maranh�o;12226
+2111003;MA;S�o Jo�o Batista;20736
+2111029;MA;S�o Jo�o do Car�;15768
+2111052;MA;S�o Jo�o do Para�so;11207
+2111078;MA;S�o Jo�o do Soter;18746
+2111102;MA;S�o Jo�o dos Patos;26063
+2111201;MA;S�o Jos� de Ribamar;180345
+2111250;MA;S�o Jos� dos Bas�lios;7639
+2111300;MA;S�o Lu�s;sao-luis
+2111409;MA;S�o Lu�s Gonzaga do Maranh�o;18600
+2111508;MA;S�o Mateus do Maranh�o;41750
+2111532;MA;S�o Pedro da �gua Branca;12779
+2111573;MA;S�o Pedro dos Crentes;4700
+2111607;MA;S�o Raimundo das Mangabeiras;19090
+2111631;MA;S�o Raimundo do Doca Bezerra;5028
+2111672;MA;S�o Roberto;6856
+2111706;MA;S�o Vicente Ferrer;22452
+2111722;MA;Satubinha;14274
+2111748;MA;Senador Alexandre Costa;11285
+2111763;MA;Senador La Rocque;13981
+2111789;MA;Serrano do Maranh�o;10343
+2111805;MA;S�tio Novo;18237
+2111904;MA;Sucupira do Norte;10631
+2111953;MA;Sucupira do Riach�o;5692
+2112001;MA;Tasso Fragoso;8642
+2112100;MA;Timbiras;29241
+2112209;MA;Timon;171317
+2112233;MA;Trizidela do Vale;22223
+2112274;MA;Tufil�ndia;5868
+2112308;MA;Tuntum;42242
+2112407;MA;Turia�u;35811
+2112456;MA;Turil�ndia;26112
+2112506;MA;Tut�ia;59927
+2112605;MA;Urbano Santos;33791
+2112704;MA;Vargem Grande;57813
+2112803;MA;Viana;52852
+2112852;MA;Vila Nova dos Mart�rios;13800
+2112902;MA;Vit�ria do Mearim;32956
+2113009;MA;Vitorino Freire;31520
+2114007;MA;Z� Doca;52190
+2200053;PI;Acau�;7119
+2200103;PI;Agricol�ndia;5123
+2200202;PI;�gua Branca;17525
+2200251;PI;Alagoinha do Piau�;7678
+2200277;PI;Alegrete do Piau�;4921
+2200301;PI;Alto Long�;14371
+2200400;PI;Altos;40681
+2200459;PI;Alvorada do Gurgu�ia;5469
+2200509;PI;Amarante;17609
+2200608;PI;Angical do Piau�;6779
+2200707;PI;An�sio de Abreu;9994
+2200806;PI;Ant�nio Almeida;3175
+2200905;PI;Aroazes;5819
+2200954;PI;Aroeiras do Itaim;2551
+2201002;PI;Arraial;4713
+2201051;PI;Assun��o do Piau�;7879
+2201101;PI;Avelino Lopes;11361
+2201150;PI;Baixa Grande do Ribeiro;11751
+2201176;PI;Barra d'Alc�ntara;3953
+2201200;PI;Barras;47298
+2201309;PI;Barreiras do Piau�;3356
+2201408;PI;Barro Duro;7022
+2201507;PI;Batalha;26951
+2201556;PI;Bela Vista do Piau�;4044
+2201572;PI;Bel�m do Piau�;3607
+2201606;PI;Beneditinos;10479
+2201705;PI;Bertol�nia;5512
+2201739;PI;Bet�nia do Piau�;6214
+2201770;PI;Boa Hora;6848
+2201804;PI;Bocaina;4509
+2201903;PI;Bom Jesus;25584
+2201919;PI;Bom Princ�pio do Piau�;5670
+2201929;PI;Bonfim do Piau�;5700
+2201945;PI;Boqueir�o do Piau�;6443
+2201960;PI;Brasileira;8364
+2201988;PI;Brejo do Piau�;3824
+2202000;PI;Buriti dos Lopes;19832
+2202026;PI;Buriti dos Montes;8282
+2202059;PI;Cabeceiras do Piau�;10671
+2202075;PI;Cajazeiras do Piau�;3586
+2202083;PI;Cajueiro da Praia;7704
+2202091;PI;Caldeir�o Grande do Piau�;5786
+2202109;PI;Campinas do Piau�;5628
+2202117;PI;Campo Alegre do Fidalgo;5093
+2202133;PI;Campo Grande do Piau�;5987
+2202174;PI;Campo Largo do Piau�;7342
+2202208;PI;Campo Maior;46950
+2202251;PI;Canavieira;3938
+2202307;PI;Canto do Buriti;21326
+2202406;PI;Capit�o de Campos;11471
+2202455;PI;Capit�o Gerv�sio Oliveira;4127
+2202505;PI;Caracol;11009
+2202539;PI;Cara�bas do Piau�;5910
+2202554;PI;Caridade do Piau�;5102
+2202604;PI;Castelo do Piau�;19716
+2202653;PI;Caxing�;5477
+2202703;PI;Cocal;27901
+2202711;PI;Cocal de Telha;4908
+2202729;PI;Cocal dos Alves;6180
+2202737;PI;Coivaras;4044
+2202752;PI;Col�nia do Gurgu�ia;6545
+2202778;PI;Col�nia do Piau�;7665
+2202802;PI;Concei��o do Canind�;4811
+2202851;PI;Coronel Jos� Dias;4688
+2202901;PI;Corrente;26771
+2203008;PI;Cristal�ndia do Piau�;8350
+2203107;PI;Cristino Castro;10464
+2203206;PI;Curimat�;11461
+2203230;PI;Currais;4982
+2203255;PI;Curralinhos;4475
+2203271;PI;Curral Novo do Piau�;5390
+2203305;PI;Demerval Lob�o;13862
+2203354;PI;Dirceu Arcoverde;7046
+2203404;PI;Dom Expedito Lopes;6940
+2203420;PI;Domingos Mour�o;4352
+2203453;PI;Dom Inoc�ncio;9574
+2203503;PI;Elesb�o Veloso;14550
+2203602;PI;Eliseu Martins;4943
+2203701;PI;Esperantina;39953
+2203750;PI;Fartura do Piau�;5330
+2203800;PI;Flores do Piau�;4461
+2203859;PI;Floresta do Piau�;2561
+2203909;PI;Floriano;60111
+2204006;PI;Francin�polis;5345
+2204105;PI;Francisco Ayres;4300
+2204154;PI;Francisco Macedo;3216
+2204204;PI;Francisco Santos;9423
+2204303;PI;Fronteiras;11690
+2204352;PI;Geminiano;5477
+2204402;PI;Gilbu�s;10698
+2204501;PI;Guadalupe;10496
+2204550;PI;Guaribas;4573
+2204600;PI;Hugo Napole�o;3880
+2204659;PI;Ilha Grande;9487
+2204709;PI;Inhuma;15330
+2204808;PI;Ipiranga do Piau�;9863
+2204907;PI;Isa�as Coelho;8582
+2205003;PI;Itain�polis;11571
+2205102;PI;Itaueira;11037
+2205151;PI;Jacobina do Piau�;5718
+2205201;PI;Jaic�s;19233
+2205250;PI;Jardim do Mulato;4522
+2205276;PI;Jatob� do Piau�;4885
+2205300;PI;Jerumenha;4443
+2205359;PI;Jo�o Costa;3003
+2205409;PI;Joaquim Pires;14396
+2205458;PI;Joca Marques;5488
+2205508;PI;Jos� de Freitas;39457
+2205516;PI;Juazeiro do Piau�;5491
+2205524;PI;J�lio Borges;5653
+2205532;PI;Jurema;4790
+2205540;PI;Lagoinha do Piau�;2870
+2205557;PI;Lagoa Alegre;8610
+2205565;PI;Lagoa do Barro do Piau�;4658
+2205573;PI;Lagoa de S�o Francisco;6795
+2205581;PI;Lagoa do Piau�;4086
+2205599;PI;Lagoa do S�tio;5219
+2205607;PI;Landri Sales;5272
+2205706;PI;Lu�s Correia;30558
+2205805;PI;Luzil�ndia;25521
+2205854;PI;Madeiro;8372
+2205904;PI;Manoel Em�dio;5352
+2205953;PI;Marcol�ndia;8590
+2206001;PI;Marcos Parente;4546
+2206050;PI;Massap� do Piau�;6456
+2206100;PI;Matias Ol�mpio;10979
+2206209;PI;Miguel Alves;33901
+2206308;PI;Miguel Le�o;1239
+2206357;PI;Milton Brand�o;6603
+2206407;PI;Monsenhor Gil;10563
+2206506;PI;Monsenhor Hip�lito;7785
+2206605;PI;Monte Alegre do Piau�;10618
+2206654;PI;Morro Cabe�a no Tempo;4527
+2206670;PI;Morro do Chap�u do Piau�;6825
+2206696;PI;Murici dos Portelas;9258
+2206704;PI;Nazar� do Piau�;7307
+2206720;PI;Naz�ria;8632
+2206753;PI;Nossa Senhora de Nazar�;4911
+2206803;PI;Nossa Senhora dos Rem�dios;8751
+2206902;PI;Novo Oriente do Piau�;6548
+2206951;PI;Novo Santo Ant�nio;3014
+2207009;PI;Oeiras;37138
+2207108;PI;Olho d'�gua do Piau�;2477
+2207207;PI;Padre Marcos;6879
+2207306;PI;Paes Landim;4124
+2207355;PI;Paje� do Piau�;3416
+2207405;PI;Palmeira do Piau�;5029
+2207504;PI;Palmeirais;14633
+2207553;PI;Paquet�;3931
+2207603;PI;Parnagu�;10846
+2207702;PI;Parna�ba;153863
+2207751;PI;Passagem Franca do Piau�;4331
+2207777;PI;Patos do Piau�;6420
+2207793;PI;Pau d'Arco do Piau�;4084
+2207801;PI;Paulistana;20583
+2207850;PI;Pavussu;3662
+2207900;PI;Pedro II;38812
+2207934;PI;Pedro Laurentino;2551
+2207959;PI;Nova Santa Rita;4392
+2208007;PI;Picos;78627
+2208106;PI;Pimenteiras;12150
+2208205;PI;Pio IX;18492
+2208304;PI;Piracuruca;28952
+2208403;PI;Piripiri;63829
+2208502;PI;Porto;12646
+2208551;PI;Porto Alegre do Piau�;2728
+2208601;PI;Prata do Piau�;3149
+2208650;PI;Queimada Nova;9041
+2208700;PI;Reden��o do Gurgu�ia;8814
+2208809;PI;Regenera��o;17979
+2208858;PI;Riacho Frio;4306
+2208874;PI;Ribeira do Piau�;4499
+2208908;PI;Ribeiro Gon�alves;7408
+2209005;PI;Rio Grande do Piau�;6434
+2209104;PI;Santa Cruz do Piau�;6254
+2209153;PI;Santa Cruz dos Milagres;4046
+2209203;PI;Santa Filomena;6256
+2209302;PI;Santa Luz;5903
+2209351;PI;Santana do Piau�;4650
+2209377;PI;Santa Rosa do Piau�;5254
+2209401;PI;Santo Ant�nio de Lisboa;6466
+2209450;PI;Santo Ant�nio dos Milagres;2172
+2209500;PI;Santo In�cio do Piau�;3809
+2209559;PI;S�o Braz do Piau�;4454
+2209609;PI;S�o F�lix do Piau�;2923
+2209658;PI;S�o Francisco de Assis do Piau�;5801
+2209708;PI;S�o Francisco do Piau�;6417
+2209757;PI;S�o Gon�alo do Gurgu�ia;3071
+2209807;PI;S�o Gon�alo do Piau�;5044
+2209856;PI;S�o Jo�o da Canabrava;4619
+2209872;PI;S�o Jo�o da Fronteira;6084
+2209906;PI;S�o Jo�o da Serra;6106
+2209955;PI;S�o Jo�o da Varjota;4856
+2209971;PI;S�o Jo�o do Arraial;8085
+2210003;PI;S�o Jo�o do Piau�;20720
+2210052;PI;S�o Jos� do Divino;5361
+2210102;PI;S�o Jos� do Peixe;3737
+2210201;PI;S�o Jos� do Piau�;6696
+2210300;PI;S�o Juli�o;6379
+2210359;PI;S�o Louren�o do Piau�;4581
+2210375;PI;S�o Luis do Piau�;2648
+2210383;PI;S�o Miguel da Baixa Grande;2456
+2210391;PI;S�o Miguel do Fidalgo;3037
+2210409;PI;S�o Miguel do Tapuio;17617
+2210508;PI;S�o Pedro do Piau�;14356
+2210607;PI;S�o Raimundo Nonato;35035
+2210623;PI;Sebasti�o Barros;3434
+2210631;PI;Sebasti�o Leal;4311
+2210656;PI;Sigefredo Pacheco;10074
+2210706;PI;Sim�es;14664
+2210805;PI;Simpl�cio Mendes;12778
+2210904;PI;Socorro do Piau�;4557
+2210938;PI;Sussuapara;6801
+2210953;PI;Tamboril do Piau�;2939
+2210979;PI;Tanque do Piau�;2781
+2211001;PI;Teresina;teresina
+2211100;PI;Uni�o;44649
+2211209;PI;Uru�u�;21746
+2211308;PI;Valen�a do Piau�;20940
+2211357;PI;V�rzea Branca;4930
+2211407;PI;V�rzea Grande;4382
+2211506;PI;Vera Mendes;3082
+2211605;PI;Vila Nova do Piau�;2935
+2211704;PI;Wall Ferraz;4479
+2300101;CE;Abaiara;11965
+2300150;CE;Acarape;15140
+2300200;CE;Acara�;63556
+2300309;CE;Acopiara;54687
+2300408;CE;Aiuaba;17584
+2300507;CE;Alc�ntaras;11846
+2300606;CE;Altaneira;7712
+2300705;CE;Alto Santo;16077
+2300754;CE;Amontada;44195
+2300804;CE;Antonina do Norte;7402
+2300903;CE;Apuiar�s;14742
+2301000;CE;Aquiraz;81581
+2301109;CE;Aracati;75392
+2301208;CE;Aracoiaba;26600
+2301257;CE;Ararend�;10983
+2301307;CE;Araripe;21707
+2301406;CE;Aratuba;11759
+2301505;CE;Arneiroz;7848
+2301604;CE;Assar�;23537
+2301703;CE;Aurora;24567
+2301802;CE;Baixio;6318
+2301851;CE;Banabui�;18313
+2301901;CE;Barbalha;61662
+2301950;CE;Barreira;22715
+2302008;CE;Barro;22834
+2302057;CE;Barroquinha;15069
+2302107;CE;Baturit�;36127
+2302206;CE;Beberibe;54315
+2302305;CE;Bela Cruz;32851
+2302404;CE;Boa Viagem;54680
+2302503;CE;Brejo Santo;50195
+2302602;CE;Camocim;64147
+2302701;CE;Campos Sales;27513
+2302800;CE;Canind�;77484
+2302909;CE;Capistrano;17830
+2303006;CE;Caridade;23011
+2303105;CE;Carir�;18470
+2303204;CE;Cariria�u;27008
+2303303;CE;Cari�s;18700
+2303402;CE;Carnaubal;17763
+2303501;CE;Cascavel;72706
+2303600;CE;Catarina;21041
+2303659;CE;Catunda;10410
+2303709;CE;Caucaia;368918
+2303808;CE;Cedro;25612
+2303907;CE;Chaval;13112
+2303931;CE;Chor�;13608
+2303956;CE;Chorozinho;20286
+2304004;CE;Corea�;23340
+2304103;CE;Crate�s;75241
+2304202;CE;Crato;133913
+2304236;CE;Croat�;18201
+2304251;CE;Cruz;25121
+2304269;CE;Deputado Irapuan Pinheiro;9698
+2304277;CE;Erer�;7254
+2304285;CE;Eus�bio;55035
+2304301;CE;Farias Brito;19330
+2304350;CE;Forquilha;24680
+2304400;CE;Fortaleza;fortaleza
+2304459;CE;Fortim;16776
+2304509;CE;Frecheirinha;14195
+2304608;CE;General Sampaio;7767
+2304657;CE;Gra�a;14415
+2304707;CE;Granja;55170
+2304806;CE;Granjeiro;4784
+2304905;CE;Groa�ras;11219
+2304954;CE;Guai�ba;26508
+2305001;CE;Guaraciaba do Norte;40921
+2305100;CE;Guaramiranga;5073
+2305209;CE;Hidrol�ndia;20126
+2305233;CE;Horizonte;69688
+2305266;CE;Ibaretama;13385
+2305308;CE;Ibiapina;25165
+2305332;CE;Ibicuitinga;12730
+2305357;CE;Icapu�;20183
+2305407;CE;Ic�;68303
+2305506;CE;Iguatu;103633
+2305605;CE;Independ�ncia;26196
+2305654;CE;Ipaporanga;11597
+2305704;CE;Ipaumirim;12507
+2305803;CE;Ipu;42148
+2305902;CE;Ipueiras;38064
+2306009;CE;Iracema;14351
+2306108;CE;Irau�uba;24450
+2306207;CE;Itai�aba;7904
+2306256;CE;Itaitinga;38661
+2306306;CE;Itapaj�;53448
+2306405;CE;Itapipoca;131687
+2306504;CE;Itapi�na;20653
+2306553;CE;Itarema;42595
+2306603;CE;Itatira;22018
+2306702;CE;Jaguaretama;18133
+2306801;CE;Jaguaribara;11580
+2306900;CE;Jaguaribe;34592
+2307007;CE;Jaguaruana;33960
+2307106;CE;Jardim;27187
+2307205;CE;Jati;8150
+2307254;CE;Jijoca de Jericoacoara;20351
+2307304;CE;Juazeiro do Norte;278264
+2307403;CE;Juc�s;24949
+2307502;CE;Lavras da Mangabeira;31476
+2307601;CE;Limoeiro do Norte;60232
+2307635;CE;Madalena;20031
+2307650;CE;Maracana�;230986
+2307700;CE;Maranguape;131677
+2307809;CE;Marco;27822
+2307908;CE;Martin�pole;11407
+2308005;CE;Massap�;39341
+2308104;CE;Mauriti;48370
+2308203;CE;Meruoca;15309
+2308302;CE;Milagres;27413
+2308351;CE;Milh�;13129
+2308377;CE;Mira�ma;13965
+2308401;CE;Miss�o Velha;35566
+2308500;CE;Momba�a;43917
+2308609;CE;Monsenhor Tabosa;17264
+2308708;CE;Morada Nova;61590
+2308807;CE;Mora�jo;8833
+2308906;CE;Morrinhos;22830
+2309003;CE;Mucambo;14561
+2309102;CE;Mulungu;11056
+2309201;CE;Nova Olinda;15798
+2309300;CE;Nova Russas;32487
+2309409;CE;Novo Oriente;28737
+2309458;CE;Ocara;25958
+2309508;CE;Or�s;21342
+2309607;CE;Pacajus;74145
+2309706;CE;Pacatuba;85647
+2309805;CE;Pacoti;12313
+2309904;CE;Pacuj�;6565
+2310001;CE;Palhano;9458
+2310100;CE;Palm�cia;13553
+2310209;CE;Paracuru;35526
+2310258;CE;Paraipaba;33232
+2310308;CE;Parambu;31391
+2310407;CE;Paramoti;12276
+2310506;CE;Pedra Branca;43359
+2310605;CE;Penaforte;9207
+2310704;CE;Pentecoste;38045
+2310803;CE;Pereiro;16356
+2310852;CE;Pindoretama;20964
+2310902;CE;Piquet Carneiro;17210
+2310951;CE;Pires Ferreira;11052
+2311009;CE;Poranga;12358
+2311108;CE;Porteiras;14920
+2311207;CE;Potengi;11165
+2311231;CE;Potiretama;6455
+2311264;CE;Quiterian�polis;21246
+2311306;CE;Quixad�;88899
+2311355;CE;Quixel�;16116
+2311405;CE;Quixeramobim;82455
+2311504;CE;Quixer�;22432
+2311603;CE;Reden��o;29238
+2311702;CE;Reriutaba;18279
+2311801;CE;Russas;79550
+2311900;CE;Saboeiro;15757
+2311959;CE;Salitre;16714
+2312007;CE;Santana do Acara�;32851
+2312106;CE;Santana do Cariri;17726
+2312205;CE;Santa Quit�ria;43719
+2312304;CE;S�o Benedito;48354
+2312403;CE;S�o Gon�alo do Amarante;49306
+2312502;CE;S�o Jo�o do Jaguaribe;7557
+2312601;CE;S�o Lu�s do Curu;13086
+2312700;CE;Senador Pompeu;25418
+2312809;CE;Senador S�;7758
+2312908;CE;Sobral;212437
+2313005;CE;Solon�pole;18389
+2313104;CE;Tabuleiro do Norte;32079
+2313203;CE;Tamboril;26199
+2313252;CE;Tarrafas;8555
+2313302;CE;Tau�;59259
+2313351;CE;Teju�uoca;19551
+2313401;CE;Tiangu�;77111
+2313500;CE;Trairi;56653
+2313559;CE;Tururu;16588
+2313609;CE;Ubajara;35295
+2313708;CE;Umari;7740
+2313757;CE;Umirim;19976
+2313807;CE;Uruburetama;22223
+2313906;CE;Uruoca;13988
+2313955;CE;Varjota;18520
+2314003;CE;V�rzea Alegre;41078
+2314102;CE;Vi�osa do Cear�;61916
+2400109;RN;Acari;11106
+2400208;RN;A�u;Assu
+2400307;RN;Afonso Bezerra;11024
+2400406;RN;�gua Nova;3293
+2400505;RN;Alexandria;13529
+2400604;RN;Almino Afonso;4685
+2400703;RN;Alto do Rodrigues;14923
+2400802;RN;Angicos;11695
+2400901;RN;Ant�nio Martins;7162
+2401008;RN;Apodi;35904
+2401107;RN;Areia Branca;28156
+2401206;RN;Arez;14526
+2401305;RN;Campo Grande;9686
+2401404;RN;Ba�a Formosa;9373
+2401453;RN;Bara�na;29112
+2401503;RN;Barcelona;3989
+2401602;RN;Bento Fernandes;5552
+2401651;RN;Bod�;2171
+2401701;RN;Bom Jesus;10323
+2401800;RN;Brejinho;12873
+2401859;RN;Cai�ara do Norte;6572
+2401909;RN;Cai�ara do Rio do Vento;3745
+2402006;RN;Caic�;68726
+2402105;RN;Campo Redondo;11363
+2402204;RN;Canguaretama;34814
+2402303;RN;Cara�bas;20588
+2402402;RN;Carna�ba dos Dantas;8297
+2402501;RN;Carnaubais;10972
+2402600;RN;Cear�-Mirim;74268
+2402709;RN;Cerro Cor�;11182
+2402808;RN;Coronel Ezequiel;5501
+2402907;RN;Coronel Jo�o Pessoa;4918
+2403004;RN;Cruzeta;7968
+2403103;RN;Currais Novos;45022
+2403202;RN;Doutor Severiano;7068
+2403251;RN;Parnamirim;272490
+2403301;RN;Encanto;5697
+2403400;RN;Equador;6064
+2403509;RN;Esp�rito Santo;10463
+2403608;RN;Extremoz;29282
+2403707;RN;Felipe Guerra;6009
+2403756;RN;Fernando Pedroza;3081
+2403806;RN;Flor�nia;9772
+2403905;RN;Francisco Dantas;2801
+2404002;RN;Frutuoso Gomes;4015
+2404101;RN;Galinhos;2903
+2404200;RN;Goianinha;27004
+2404309;RN;Governador Dix-Sept Rosado;13115
+2404408;RN;Grossos;10541
+2404507;RN;Guamar�;16261
+2404606;RN;Ielmo Marinho;14033
+2404705;RN;Ipangua�u;15759
+2404804;RN;Ipueira;2264
+2404853;RN;Itaj�;7641
+2404903;RN;Ita�;5916
+2405009;RN;Ja�an�;9341
+2405108;RN;Janda�ra;6907
+2405207;RN;Jandu�s;5228
+2405306;RN;Boa Sa�de;10367
+2405405;RN;Japi;4935
+2405504;RN;Jardim de Angicos;2600
+2405603;RN;Jardim de Piranhas;15044
+2405702;RN;Jardim do Serid�;12397
+2405801;RN;Jo�o C�mara;35360
+2405900;RN;Jo�o Dias;2653
+2406007;RN;Jos� da Penha;5941
+2406106;RN;Jucurutu;18335
+2406155;RN;Jundi�;3945
+2406205;RN;Lagoa d'Anta;6851
+2406304;RN;Lagoa de Pedras;7624
+2406403;RN;Lagoa de Velhos;2732
+2406502;RN;Lagoa Nova;15880
+2406601;RN;Lagoa Salgada;8348
+2406700;RN;Lajes;11410
+2406809;RN;Lajes Pintadas;4768
+2406908;RN;Lucr�cia;4053
+2407005;RN;Lu�s Gomes;10175
+2407104;RN;Maca�ba;82828
+2407203;RN;Macau;32260
+2407252;RN;Major Sales;4102
+2407302;RN;Marcelino Vieira;8325
+2407401;RN;Martins;8790
+2407500;RN;Maxaranguape;12714
+2407609;RN;Messias Targino;4665
+2407708;RN;Montanhas;11166
+2407807;RN;Monte Alegre;22698
+2407906;RN;Monte das Gameleiras;2063
+2408003;RN;Mossor�;303792
+2408102;RN;Natal;natal
+2408201;RN;N�sia Floresta;28266
+2408300;RN;Nova Cruz;37554
+2408409;RN;Olho-d'�gua do Borges;4231
+2408508;RN;Ouro Branco;4813
+2408607;RN;Paran�;4298
+2408706;RN;Para�;3732
+2408805;RN;Parazinho;5307
+2408904;RN;Parelhas;21611
+2408953;RN;Rio do Fogo;10961
+2409100;RN;Passa e Fica;13667
+2409209;RN;Passagem;3114
+2409308;RN;Patu;12861
+2409332;RN;Santa Maria;5689
+2409407;RN;Pau dos Ferros;30802
+2409506;RN;Pedra Grande;3163
+2409605;RN;Pedra Preta;2419
+2409704;RN;Pedro Avelino;6591
+2409803;RN;Pedro Velho;14881
+2409902;RN;Pend�ncias;15411
+2410009;RN;Pil�es;3900
+2410108;RN;Po�o Branco;15646
+2410207;RN;Portalegre;7944
+2410256;RN;Porto do Mangue;6605
+2410306;RN;Serra Caiada;10646
+2410405;RN;Pureza;9825
+2410504;RN;Rafael Fernandes;5158
+2410603;RN;Rafael Godeiro;3214
+2410702;RN;Riacho da Cruz;3648
+2410801;RN;Riacho de Santana;4194
+2410900;RN;Riachuelo;8310
+2411007;RN;Rodolfo Fernandes;4457
+2411056;RN;Tibau;4173
+2411106;RN;Ruy Barbosa;3584
+2411205;RN;Santa Cruz;40295
+2411403;RN;Santana do Matos;11808
+2411429;RN;Santana do Serid�;2699
+2411502;RN;Santo Ant�nio;24422
+2411601;RN;S�o Bento do Norte;2687
+2411700;RN;S�o Bento do Trair�;4541
+2411809;RN;S�o Fernando;3606
+2411908;RN;S�o Francisco do Oeste;4281
+2412005;RN;S�o Gon�alo do Amarante;104919
+2412104;RN;S�o Jo�o do Sabugi;6221
+2412203;RN;S�o Jos� de Mipibu;44566
+2412302;RN;S�o Jos� do Campestre;12901
+2412401;RN;S�o Jos� do Serid�;4696
+2412500;RN;S�o Miguel;23789
+2412559;RN;S�o Miguel do Gostoso;10441
+2412609;RN;S�o Paulo do Potengi;17858
+2412708;RN;S�o Pedro;5889
+2412807;RN;S�o Rafael;8183
+2412906;RN;S�o Tom�;11051
+2413003;RN;S�o Vicente;6476
+2413102;RN;Senador El�i de Souza;6167
+2413201;RN;Senador Georgino Avelino;4527
+2413300;RN;Serra de S�o Bento;5739
+2413359;RN;Serra do Mel;12225
+2413409;RN;Serra Negra do Norte;8105
+2413508;RN;Serrinha;6128
+2413557;RN;Serrinha dos Pintos;4832
+2413607;RN;Severiano Melo;1743
+2413706;RN;S�tio Novo;5600
+2413805;RN;Taboleiro Grande;2606
+2413904;RN;Taipu;12314
+2414001;RN;Tangar�;16008
+2414100;RN;Tenente Ananias;10923
+2414159;RN;Tenente Laurentino Cruz;6085
+2414209;RN;Tibau do Sul;14694
+2414308;RN;Timba�ba dos Batistas;2427
+2414407;RN;Touros;33716
+2414456;RN;Triunfo Potiguar;3195
+2414506;RN;Umarizal;10485
+2414605;RN;Upanema;14937
+2414704;RN;V�rzea;5529
+2414753;RN;Venha-Ver;4232
+2414803;RN;Vera Cruz;12789
+2414902;RN;Vi�osa;1731
+2415008;RN;Vila Flor;3217
+2500106;PB;�gua Branca;10375
+2500205;PB;Aguiar;5622
+2500304;PB;Alagoa Grande;28384
+2500403;PB;Alagoa Nova;20992
+2500502;PB;Alagoinha;14629
+2500536;PB;Alcantil;5527
+2500577;PB;Algod�o de Janda�ra;2588
+2500601;PB;Alhandra;19865
+2500700;PB;S�o Jo�o do Rio do Peixe;18020
+2500734;PB;Amparo;2264
+2500775;PB;Aparecida;8482
+2500809;PB;Ara�agi;16857
+2500908;PB;Arara;13613
+2501005;PB;Araruna;20610
+2501104;PB;Areia;22493
+2501153;PB;Areia de Bara�nas;2105
+2501203;PB;Areial;7054
+2501302;PB;Aroeiras;19081
+2501351;PB;Assun��o;4067
+2501401;PB;Ba�a da Trai��o;9197
+2501500;PB;Bananeiras;21220
+2501534;PB;Bara�na;5033
+2501575;PB;Barra de Santana;8338
+2501609;PB;Barra de Santa Rosa;15607
+2501708;PB;Barra de S�o Miguel;6095
+2501807;PB;Bayeux;97519
+2501906;PB;Bel�m;17733
+2502003;PB;Bel�m do Brejo do Cruz;7356
+2502052;PB;Bernardino Batista;3571
+2502102;PB;Boa Ventura;5248
+2502151;PB;Boa Vista;7218
+2502201;PB;Bom Jesus;2588
+2502300;PB;Bom Sucesso;4937
+2502409;PB;Bonito de Santa F�;12126
+2502508;PB;Boqueir�o;17934
+2502607;PB;Igaracy;6092
+2502706;PB;Borborema;5311
+2502805;PB;Brejo do Cruz;14287
+2502904;PB;Brejo dos Santos;6479
+2503001;PB;Caapor�;22079
+2503100;PB;Cabaceiras;5710
+2503209;PB;Cabedelo;69773
+2503308;PB;Cachoeira dos �ndios;10364
+2503407;PB;Cacimba de Areia;3708
+2503506;PB;Cacimba de Dentro;17169
+2503555;PB;Cacimbas;7225
+2503605;PB;Cai�ara;7182
+2503704;PB;Cajazeiras;62576
+2503753;PB;Cajazeirinhas;3217
+2503803;PB;Caldas Brand�o;6077
+2503902;PB;Camala�;6048
+2504009;PB;Campina Grande;413830
+2504033;PB;Capim;6715
+2504074;PB;Cara�bas;4206
+2504108;PB;Carrapateira;2714
+2504157;PB;Casserengue;7530
+2504207;PB;Catingueira;4938
+2504306;PB;Catol� do Rocha;30819
+2504355;PB;Caturit�;4898
+2504405;PB;Concei��o;19030
+2504504;PB;Condado;6662
+2504603;PB;Conde;25341
+2504702;PB;Congo;4787
+2504801;PB;Coremas;15438
+2504850;PB;Coxixola;1948
+2504900;PB;Cruz do Esp�rito Santo;17599
+2505006;PB;Cubati;7866
+2505105;PB;Cuit�;20331
+2505204;PB;Cuitegi;6748
+2505238;PB;Cuit� de Mamanguape;6360
+2505279;PB;Curral de Cima;5209
+2505303;PB;Curral Velho;2508
+2505352;PB;Dami�o;5409
+2505402;PB;Desterro;8332
+2505501;PB;Vista Serrana;3850
+2505600;PB;Diamante;6506
+2505709;PB;Dona In�s;10375
+2505808;PB;Duas Estradas;3569
+2505907;PB;Emas;3556
+2506004;PB;Esperan�a;33386
+2506103;PB;Fagundes;11180
+2506202;PB;Frei Martinho;2989
+2506251;PB;Gado Bravo;8292
+2506301;PB;Guarabira;59389
+2506400;PB;Gurinh�m;14125
+2506509;PB;Gurj�o;3477
+2506608;PB;Ibiara;5877
+2506707;PB;Imaculada;11877
+2506806;PB;Ing�;18184
+2506905;PB;Itabaiana;24363
+2507002;PB;Itaporanga;24960
+2507101;PB;Itapororoca;18978
+2507200;PB;Itatuba;11069
+2507309;PB;Jacara�;14467
+2507408;PB;Jeric�;7751
+2507507;PB;Jo�o Pessoa;joao-pessoa
+2507606;PB;Juarez T�vora;8014
+2507705;PB;Juazeirinho;18422
+2507804;PB;Junco do Serid�;7238
+2507903;PB;Juripiranga;10830
+2508000;PB;Juru;9831
+2508109;PB;Lagoa;4640
+2508208;PB;Lagoa de Dentro;7754
+2508307;PB;Lagoa Seca;27728
+2508406;PB;Lastro;2698
+2508505;PB;Livramento;7274
+2508554;PB;Logradouro;4406
+2508604;PB;Lucena;13344
+2508703;PB;M�e d'�gua;3988
+2508802;PB;Malta;5745
+2508901;PB;Mamanguape;45385
+2509008;PB;Mana�ra;10988
+2509057;PB;Marca��o;8746
+2509107;PB;Mari;21895
+2509156;PB;Mariz�polis;6689
+2509206;PB;Massaranduba;14077
+2509305;PB;Mataraca;8642
+2509339;PB;Matinhas;4528
+2509370;PB;Mato Grosso;2944
+2509396;PB;Matureia;6690
+2509404;PB;Mogeiro;13238
+2509503;PB;Montadas;5806
+2509602;PB;Monte Horebe;4867
+2509701;PB;Monteiro;33638
+2509800;PB;Mulungu;9962
+2509909;PB;Natuba;10449
+2510006;PB;Nazarezinho;7271
+2510105;PB;Nova Floresta;10614
+2510204;PB;Nova Olinda;5892
+2510303;PB;Nova Palmeira;5011
+2510402;PB;Olho d'�gua;6399
+2510501;PB;Olivedos;3989
+2510600;PB;Ouro Velho;3052
+2510659;PB;Parari;1747
+2510709;PB;Passagem;2453
+2510808;PB;Patos;108766
+2510907;PB;Paulista;12411
+2511004;PB;Pedra Branca;3802
+2511103;PB;Pedra Lavrada;7954
+2511202;PB;Pedras de Fogo;28607
+2511301;PB;Pianc�;16147
+2511400;PB;Picu�;18737
+2511509;PB;Pilar;12036
+2511608;PB;Pil�es;6518
+2511707;PB;Pil�ezinhos;4937
+2511806;PB;Pirpirituba;10590
+2511905;PB;Pitimbu;19478
+2512002;PB;Pocinhos;18848
+2512036;PB;Po�o Dantas;3877
+2512077;PB;Po�o de Jos� de Moura;4366
+2512101;PB;Pombal;32803
+2512200;PB;Prata;4265
+2512309;PB;Princesa Isabel;23749
+2512408;PB;Puxinan�;13801
+2512507;PB;Queimadas;44388
+2512606;PB;Quixab�;2009
+2512705;PB;Rem�gio;19973
+2512721;PB;Pedro R�gis;6139
+2512747;PB;Riach�o;3650
+2512754;PB;Riach�o do Bacamarte;4562
+2512762;PB;Riach�o do Po�o;4571
+2512788;PB;Riacho de Santo Ant�nio;1999
+2512804;PB;Riacho dos Cavalos;8555
+2512903;PB;Rio Tinto;24258
+2513000;PB;Salgadinho;3975
+2513109;PB;Salgado de S�o F�lix;12123
+2513158;PB;Santa Cec�lia;6526
+2513208;PB;Santa Cruz;6579
+2513307;PB;Santa Helena;5853
+2513356;PB;Santa In�s;3591
+2513406;PB;Santa Luzia;15470
+2513505;PB;Santana de Mangueira;5098
+2513604;PB;Santana dos Garrotes;6942
+2513653;PB;Joca Claudino;2640
+2513703;PB;Santa Rita;138093
+2513802;PB;Santa Teresinha;4550
+2513851;PB;Santo Andr�;2496
+2513901;PB;S�o Bento;34650
+2513927;PB;S�o Bentinho;4602
+2513943;PB;S�o Domingos do Cariri;2645
+2513968;PB;S�o Domingos;3119
+2513984;PB;S�o Francisco;3377
+2514008;PB;S�o Jo�o do Cariri;4170
+2514107;PB;S�o Jo�o do Tigre;4408
+2514206;PB;S�o Jos� da Lagoa Tapada;7622
+2514305;PB;S�o Jos� de Caiana;6394
+2514404;PB;S�o Jos� de Espinharas;4631
+2514453;PB;S�o Jos� dos Ramos;6037
+2514503;PB;S�o Jos� de Piranhas;20406
+2514552;PB;S�o Jos� de Princesa;3898
+2514602;PB;S�o Jos� do Bonfim;3619
+2514651;PB;S�o Jos� do Brejo do Cruz;1821
+2514701;PB;S�o Jos� do Sabugi;4153
+2514800;PB;S�o Jos� dos Cordeiros;3607
+2514909;PB;S�o Mamede;7682
+2515005;PB;S�o Miguel de Taipu;7450
+2515104;PB;S�o Sebasti�o de Lagoa de Ro�a;11793
+2515203;PB;S�o Sebasti�o do Umbuzeiro;3534
+2515302;PB;Sap�;52977
+2515401;PB;S�o Vicente do Serid�;10919
+2515500;PB;Serra Branca;13807
+2515609;PB;Serra da Raiz;3114
+2515708;PB;Serra Grande;2921
+2515807;PB;Serra Redonda;7001
+2515906;PB;Serraria;6037
+2515930;PB;Sert�ozinho;5152
+2515971;PB;Sobrado;7845
+2516003;PB;Sol�nea;26051
+2516102;PB;Soledade;15211
+2516151;PB;Soss�go;3631
+2516201;PB;Sousa;69997
+2516300;PB;Sum�;17096
+2516409;PB;Tacima;11024
+2516508;PB;Tapero�;15505
+2516607;PB;Tavares;14791
+2516706;PB;Teixeira;15333
+2516755;PB;Ten�rio;3103
+2516805;PB;Triunfo;9473
+2516904;PB;Uira�na;15356
+2517001;PB;Umbuzeiro;9914
+2517100;PB;V�rzea;2870
+2517209;PB;Vieir�polis;5395
+2517407;PB;Zabel�;2269
+2600054;PE;Abreu e Lima;100698
+2600104;PE;Afogados da Ingazeira;37546
+2600203;PE;Afr�nio;19981
+2600302;PE;Agrestina;25240
+2600401;PE;�gua Preta;37386
+2600500;PE;�guas Belas;43923
+2600609;PE;Alagoinha;14798
+2600708;PE;Alian�a;38408
+2600807;PE;Altinho;22996
+2600906;PE;Amaraji;22910
+2601003;PE;Angelim;11301
+2601052;PE;Ara�oiaba;20936
+2601102;PE;Araripina;85301
+2601201;PE;Arcoverde;75295
+2601300;PE;Barra de Guabiraba;14632
+2601409;PE;Barreiros;42866
+2601508;PE;Bel�m de Maria;12169
+2601607;PE;Bel�m do S�o Francisco;20730
+2601706;PE;Belo Jardim;76930
+2601805;PE;Bet�nia;12811
+2601904;PE;Bezerros;60960
+2602001;PE;Bodoc�;38605
+2602100;PE;Bom Conselho;48975
+2602209;PE;Bom Jardim;40038
+2602308;PE;Bonito;38101
+2602407;PE;Brej�o;8981
+2602506;PE;Brejinho;7489
+2602605;PE;Brejo da Madre de Deus;51696
+2602704;PE;Buenos Aires;13224
+2602803;PE;Bu�que;59448
+2602902;PE;Cabo de Santo Agostinho;210796
+2603009;PE;Cabrob�;34778
+2603108;PE;Cachoeirinha;20618
+2603207;PE;Caet�s;29065
+2603306;PE;Cal�ado;10983
+2603405;PE;Calumbi;5744
+2603454;PE;Camaragibe;159945
+2603504;PE;Camocim de S�o F�lix;19032
+2603603;PE;Camutanga;8592
+2603702;PE;Canhotinho;24743
+2603801;PE;Capoeiras;20048
+2603900;PE;Carna�ba;19666
+2603926;PE;Carnaubeira da Penha;13117
+2604007;PE;Carpina;85131
+2604106;PE;Caruaru;369343
+2604155;PE;Casinhas;14395
+2604205;PE;Catende;43778
+2604304;PE;Cedro;11972
+2604403;PE;Ch� de Alegria;13641
+2604502;PE;Ch� Grande;21929
+2604601;PE;Condado;26755
+2604700;PE;Correntes;18327
+2604809;PE;Cort�s;12543
+2604908;PE;Cumaru;9494
+2605004;PE;Cupira;24237
+2605103;PE;Cust�dia;37633
+2605152;PE;Dormentes;19246
+2605202;PE;Escada;69701
+2605301;PE;Exu;31709
+2605400;PE;Feira Nova;22360
+2605459;PE;Fernando de Noronha;3140
+2605509;PE;Ferreiros;12216
+2605608;PE;Flores;22612
+2605707;PE;Floresta;33488
+2605806;PE;Frei Miguelinho;15633
+2605905;PE;Gameleira;31578
+2606002;PE;Garanhuns;141347
+2606101;PE;Gl�ria do Goit�;30847
+2606200;PE;Goiana;80345
+2606309;PE;Granito;7586
+2606408;PE;Gravat�;85309
+2606507;PE;Iati;19284
+2606606;PE;Ibimirim;29585
+2606705;PE;Ibirajuba;7773
+2606804;PE;Igarassu;119690
+2606903;PE;Iguaracy;12265
+2607000;PE;Inaj�;24034
+2607109;PE;Ingazeira;4537
+2607208;PE;Ipojuca;99101
+2607307;PE;Ipubi;31515
+2607406;PE;Itacuruba;5013
+2607505;PE;Ita�ba;26268
+2607604;PE;Ilha de Itamarac�;27076
+2607653;PE;Itamb�;36495
+2607703;PE;Itapetim;13492
+2607752;PE;Itapissuma;27144
+2607802;PE;Itaquitinga;17056
+2607901;PE;Jaboat�o dos Guararapes;711330
+2607950;PE;Jaqueira;11632
+2608008;PE;Jata�ba;17305
+2608057;PE;Jatob�;14904
+2608107;PE;Jo�o Alfredo;33570
+2608206;PE;Joaquim Nabuco;15999
+2608255;PE;Jucati;11545
+2608305;PE;Jupi;15007
+2608404;PE;Jurema;15483
+2608453;PE;Lagoa do Carro;18429
+2608503;PE;Lagoa de Itaenga;21490
+2608602;PE;Lagoa do Ouro;13300
+2608701;PE;Lagoa dos Gatos;16345
+2608750;PE;Lagoa Grande;26090
+2608800;PE;Lajedo;40883
+2608909;PE;Limoeiro;56149
+2609006;PE;Macaparana;25565
+2609105;PE;Machados;16549
+2609154;PE;Manari;22110
+2609204;PE;Maraial;11098
+2609303;PE;Mirandiba;15548
+2609402;PE;Moreno;63792
+2609501;PE;Nazar� da Mata;32673
+2609600;PE;Olinda;393734
+2609709;PE;Orob�;23985
+2609808;PE;Oroc�;15309
+2609907;PE;Ouricuri;70466
+2610004;PE;Palmares;63745
+2610103;PE;Palmeirina;7509
+2610202;PE;Panelas;26438
+2610301;PE;Paranatama;11608
+2610400;PE;Parnamirim;22198
+2610509;PE;Passira;28856
+2610608;PE;Paudalho;57346
+2610707;PE;Paulista;336919
+2610806;PE;Pedra;22716
+2610905;PE;Pesqueira;68067
+2611002;PE;Petrol�ndia;37246
+2611101;PE;Petrolina;359372
+2611200;PE;Po��o;11308
+2611309;PE;Pombos;27204
+2611408;PE;Primavera;15231
+2611507;PE;Quipap�;26309
+2611533;PE;Quixaba;6796
+2611606;PE;Recife;recife
+2611705;PE;Riacho das Almas;20744
+2611804;PE;Ribeir�o;47813
+2611903;PE;Rio Formoso;23719
+2612000;PE;Sair�;9600
+2612109;PE;Salgadinho;11214
+2612208;PE;Salgueiro;61561
+2612307;PE;Salo�;15880
+2612406;PE;Sanhar�;27308
+2612455;PE;Santa Cruz;15713
+2612471;PE;Santa Cruz da Baixa Verde;12708
+2612505;PE;Santa Cruz do Capibaribe;111812
+2612554;PE;Santa Filomena;14645
+2612604;PE;Santa Maria da Boa Vista;42266
+2612703;PE;Santa Maria do Cambuc�;14308
+2612802;PE;Santa Terezinha;11914
+2612901;PE;S�o Benedito do Sul;16239
+2613008;PE;S�o Bento do Una;60567
+2613107;PE;S�o Caetano;37488
+2613206;PE;S�o Jo�o;23002
+2613305;PE;S�o Joaquim do Monte;21439
+2613404;PE;S�o Jos� da Coroa Grande;21868
+2613503;PE;S�o Jos� do Belmonte;34082
+2613602;PE;S�o Jos� do Egito;34210
+2613701;PE;S�o Louren�o da Mata;114910
+2613800;PE;S�o Vicente Ferrer;18150
+2613909;PE;Serra Talhada;87467
+2614006;PE;Serrita;19226
+2614105;PE;Sert�nia;36189
+2614204;PE;Sirinha�m;46845
+2614303;PE;Moreil�ndia;11269
+2614402;PE;Solid�o;6034
+2614501;PE;Surubim;66192
+2614600;PE;Tabira;28860
+2614709;PE;Tacaimb�;12843
+2614808;PE;Tacaratu;26439
+2614857;PE;Tamandar�;23852
+2615003;PE;Taquaritinga do Norte;29472
+2615102;PE;Terezinha;7227
+2615201;PE;Terra Nova;10314
+2615300;PE;Timba�ba;52587
+2615409;PE;Toritama;47088
+2615508;PE;Tracunha�m;13856
+2615607;PE;Trindade;31103
+2615706;PE;Triunfo;15232
+2615805;PE;Tupanatinga;27793
+2615904;PE;Tuparetama;8266
+2616001;PE;Venturosa;18835
+2616100;PE;Verdejante;9572
+2616183;PE;Vertente do L�rio;7526
+2616209;PE;Vertentes;21172
+2616308;PE;Vic�ncia;32897
+2616407;PE;Vit�ria de Santo Ant�o;140389
+2616506;PE;Xex�u;14789
+2700102;AL;�gua Branca;20263
+2700201;AL;Anadia;17507
+2700300;AL;Arapiraca;234309
+2700409;AL;Atalaia;47540
+2700508;AL;Barra de Santo Ant�nio;16201
+2700607;AL;Barra de S�o Miguel;8434
+2700706;AL;Batalha;18440
+2700805;AL;Bel�m;4226
+2700904;AL;Belo Monte;6717
+2701001;AL;Boca da Mata;27429
+2701100;AL;Branquinha;10426
+2701209;AL;Cacimbinhas;10920
+2701308;AL;Cajueiro;21397
+2701357;AL;Campestre;6972
+2701407;AL;Campo Alegre;57997
+2701506;AL;Campo Grande;9576
+2701605;AL;Canapi;17715
+2701704;AL;Capela;16907
+2701803;AL;Carneiros;9568
+2701902;AL;Ch� Preta;7311
+2702009;AL;Coit� do N�ia;10594
+2702108;AL;Col�nia Leopoldina;21935
+2702207;AL;Coqueiro Seco;5882
+2702306;AL;Coruripe;57647
+2702355;AL;Cra�bas;24396
+2702405;AL;Delmiro Gouveia;52501
+2702504;AL;Dois Riachos;11059
+2702553;AL;Estrela de Alagoas;18304
+2702603;AL;Feira Grande;22192
+2702702;AL;Feliz Deserto;4803
+2702801;AL;Flexeiras;12823
+2702900;AL;Girau do Ponciano;41549
+2703007;AL;Ibateguara;15637
+2703106;AL;Igaci;25596
+2703205;AL;Igreja Nova;24670
+2703304;AL;Inhapi;18398
+2703403;AL;Jacar� dos Homens;5185
+2703502;AL;Jacu�pe;6992
+2703601;AL;Japaratinga;8444
+2703700;AL;Jaramataia;5751
+2703759;AL;Jequi� da Praia;11495
+2703809;AL;Joaquim Gomes;24167
+2703908;AL;Jundi�;4119
+2704005;AL;Junqueiro;24716
+2704104;AL;Lagoa da Canoa;17692
+2704203;AL;Limoeiro de Anadia;28904
+2704302;AL;Macei�;maceio
+2704401;AL;Major Isidoro;19923
+2704500;AL;Maragogi;33351
+2704609;AL;Maravilha;8850
+2704708;AL;Marechal Deodoro;52848
+2704807;AL;Maribondo;13123
+2704906;AL;Mar Vermelho;3474
+2705002;AL;Mata Grande;25200
+2705101;AL;Matriz de Camaragibe;24627
+2705200;AL;Messias;18201
+2705309;AL;Minador do Negr�o;5315
+2705408;AL;Monteir�polis;7171
+2705507;AL;Murici;28428
+2705606;AL;Novo Lino;12837
+2705705;AL;Olho d'�gua das Flores;21690
+2705804;AL;Olho d'�gua do Casado;9507
+2705903;AL;Olho d'�gua Grande;5133
+2706000;AL;Oliven�a;11681
+2706109;AL;Ouro Branco;11573
+2706208;AL;Palestina;5061
+2706307;AL;Palmeira dos �ndios;73452
+2706406;AL;P�o de A��car;24307
+2706422;AL;Pariconha;10546
+2706448;AL;Paripueira;13484
+2706505;AL;Passo de Camaragibe;15270
+2706604;AL;Paulo Jacinto;7556
+2706703;AL;Penedo;64005
+2706802;AL;Pia�abu�u;17868
+2706901;AL;Pilar;35310
+2707008;AL;Pindoba;2903
+2707107;AL;Piranhas;25324
+2707206;AL;Po�o das Trincheiras;14447
+2707305;AL;Porto Calvo;27331
+2707404;AL;Porto de Pedras;7618
+2707503;AL;Porto Real do Col�gio;20158
+2707602;AL;Quebrangulo;11202
+2707701;AL;Rio Largo;75662
+2707800;AL;Roteiro;6634
+2707909;AL;Santa Luzia do Norte;7344
+2708006;AL;Santana do Ipanema;47910
+2708105;AL;Santana do Munda�;10637
+2708204;AL;S�o Br�s;6977
+2708303;AL;S�o Jos� da Laje;24064
+2708402;AL;S�o Jos� da Tapera;32462
+2708501;AL;S�o Lu�s do Quitunde;34825
+2708600;AL;S�o Miguel dos Campos;62328
+2708709;AL;S�o Miguel dos Milagres;8073
+2708808;AL;S�o Sebasti�o;34424
+2708907;AL;Satuba;14042
+2708956;AL;Senador Rui Palmeira;13893
+2709004;AL;Tanque d'Arca;6115
+2709103;AL;Taquarana;20162
+2709152;AL;Teot�nio Vilela;44570
+2709202;AL;Traipu;27934
+2709301;AL;Uni�o dos Palmares;65963
+2709400;AL;Vi�osa;25655
+2800100;SE;Amparo de S�o Francisco;2386
+2800209;SE;Aquidab�;21796
+2800308;SE;Aracaju;aracaju
+2800407;SE;Arau�;9840
+2800506;SE;Areia Branca;18825
+2800605;SE;Barra dos Coqueiros;31439
+2800670;SE;Boquim;26980
+2800704;SE;Brejo Grande;8396
+2801009;SE;Campo do Brito;18325
+2801108;SE;Canhoba;4003
+2801207;SE;Canind� de S�o Francisco;30894
+2801306;SE;Capela;34808
+2801405;SE;Carira;22393
+2801504;SE;Carm�polis;17232
+2801603;SE;Cedro de S�o Jo�o;5929
+2801702;SE;Cristin�polis;18181
+2801900;SE;Cumbe;4008
+2802007;SE;Divina Pastora;5290
+2802106;SE;Est�ncia;69919
+2802205;SE;Feira Nova;5617
+2802304;SE;Frei Paulo;15688
+2802403;SE;Gararu;11599
+2802502;SE;General Maynard;3421
+2802601;SE;Gracho Cardoso;5831
+2802700;SE;Ilha das Flores;8522
+2802809;SE;Indiaroba;18337
+2802908;SE;Itabaiana;96839
+2803005;SE;Itabaianinha;42399
+2803104;SE;Itabi;4869
+2803203;SE;Itaporanga d'Ajuda;35054
+2803302;SE;Japaratuba;19067
+2803401;SE;Japoat�;13422
+2803500;SE;Lagarto;106015
+2803609;SE;Laranjeiras;30327
+2803708;SE;Macambira;7002
+2803807;SE;Malhada dos Bois;3715
+2803906;SE;Malhador;12689
+2804003;SE;Maruim;17328
+2804102;SE;Moita Bonita;11361
+2804201;SE;Monte Alegre de Sergipe;15315
+2804300;SE;Muribeca;7653
+2804409;SE;Ne�polis;18688
+2804458;SE;Nossa Senhora Aparecida;8822
+2804508;SE;Nossa Senhora da Gl�ria;37715
+2804607;SE;Nossa Senhora das Dores;26957
+2804706;SE;Nossa Senhora de Lourdes;6509
+2804805;SE;Nossa Senhora do Socorro;187733
+2804904;SE;Pacatuba;14650
+2805000;SE;Pedra Mole;3309
+2805109;SE;Pedrinhas;9727
+2805208;SE;Pinh�o;6678
+2805307;SE;Pirambu;9436
+2805406;SE;Po�o Redondo;35461
+2805505;SE;Po�o Verde;24003
+2805604;SE;Porto da Folha;28788
+2805703;SE;Propri�;29756
+2805802;SE;Riach�o do Dantas;19813
+2805901;SE;Riachuelo;10354
+2806008;SE;Ribeir�polis;18891
+2806107;SE;Ros�rio do Catete;11158
+2806206;SE;Salgado;20051
+2806305;SE;Santa Luzia do Itanhy;14205
+2806404;SE;Santana do S�o Francisco;7906
+2806503;SE;Santa Rosa de Lima;3933
+2806602;SE;Santo Amaro das Brotas;12200
+2806701;SE;S�o Crist�v�o;92090
+2806800;SE;S�o Domingos;11276
+2806909;SE;S�o Francisco;3837
+2807006;SE;S�o Miguel do Aleixo;3964
+2807105;SE;Sim�o Dias;40724
+2807204;SE;Siriri;9046
+2807303;SE;Telha;3271
+2807402;SE;Tobias Barreto;52861
+2807501;SE;Tomar do Geru;13534
+2807600;SE;Umba�ba;25800
+2900108;BA;Aba�ra;8681
+2900207;BA;Abar�;20594
+2900306;BA;Acajutiba;15214
+2900355;BA;Adustina;17209
+2900405;BA;�gua Fria;17096
+2900504;BA;�rico Cardoso;10513
+2900603;BA;Aiquara;4387
+2900702;BA;Alagoinhas;153023
+2900801;BA;Alcoba�a;22509
+2900900;BA;Almadina;5273
+2901007;BA;Amargosa;37631
+2901106;BA;Am�lia Rodrigues;24997
+2901155;BA;Am�rica Dourada;16086
+2901205;BA;Anag�;21229
+2901304;BA;Andara�;13122
+2901353;BA;Andorinha;14416
+2901403;BA;Angical;13902
+2901502;BA;Anguera;11369
+2901601;BA;Antas;19659
+2901700;BA;Ant�nio Cardoso;11670
+2901809;BA;Ant�nio Gon�alves;11955
+2901908;BA;Apor�;17840
+2901957;BA;Apuarema;7274
+2902005;BA;Aracatu;12960
+2902054;BA;Ara��s;12237
+2902104;BA;Araci;54903
+2902203;BA;Aramari;11519
+2902252;BA;Arataca;10904
+2902302;BA;Aratu�pe;8848
+2902401;BA;Aurelino Leal;11079
+2902500;BA;Baian�polis;13979
+2902609;BA;Baixa Grande;20431
+2902658;BA;Banza�;13251
+2902708;BA;Barra;54225
+2902807;BA;Barra da Estiva;20198
+2902906;BA;Barra do Cho�a;30831
+2903003;BA;Barra do Mendes;13128
+2903102;BA;Barra do Rocha;5515
+2903201;BA;Barreiras;158432
+2903235;BA;Barro Alto;15171
+2903276;BA;Barrocas;16225
+2903300;BA;Barro Preto;5312
+2903409;BA;Belmonte;23540
+2903508;BA;Belo Campo;17013
+2903607;BA;Biritinga;15989
+2903706;BA;Boa Nova;12039
+2903805;BA;Boa Vista do Tupim;18491
+2903904;BA;Bom Jesus da Lapa;70151
+2903953;BA;Bom Jesus da Serra;9768
+2904001;BA;Boninal;14518
+2904050;BA;Bonito;16999
+2904100;BA;Boquira;21486
+2904209;BA;Botupor�;10050
+2904308;BA;Brej�es;14155
+2904407;BA;Brejol�ndia;10675
+2904506;BA;Brotas de Maca�bas;10705
+2904605;BA;Brumado;67468
+2904704;BA;Buerarema;18269
+2904753;BA;Buritirama;21374
+2904803;BA;Caatiba;6232
+2904852;BA;Cabaceiras do Paragua�u;19010
+2904902;BA;Cachoeira;33659
+2905008;BA;Cacul�;23407
+2905107;BA;Ca�m;8912
+2905156;BA;Caetanos;14671
+2905206;BA;Caetit�;51184
+2905305;BA;Cafarnaum;18585
+2905404;BA;Cairu;18666
+2905503;BA;Caldeir�o Grande;13452
+2905602;BA;Camacan;32023
+2905701;BA;Cama�ari;309208
+2905800;BA;Camamu;35444
+2905909;BA;Campo Alegre de Lourdes;28839
+2906006;BA;Campo Formoso;71754
+2906105;BA;Can�polis;9694
+2906204;BA;Canarana;26468
+2906303;BA;Canavieiras;30722
+2906402;BA;Candeal;8109
+2906501;BA;Candeias;87820
+2906600;BA;Candiba;14415
+2906709;BA;C�ndido Sales;24921
+2906808;BA;Cansan��o;34929
+2906824;BA;Canudos;16832
+2906857;BA;Capela do Alto Alegre;11597
+2906873;BA;Capim Grosso;31055
+2906899;BA;Cara�bas;8659
+2906907;BA;Caravelas;22166
+2907004;BA;Cardeal da Silva;9395
+2907103;BA;Carinhanha;29118
+2907202;BA;Casa Nova;73092
+2907301;BA;Castro Alves;26369
+2907400;BA;Catol�ndia;3619
+2907509;BA;Catu;55222
+2907558;BA;Caturama;9303
+2907608;BA;Central;17293
+2907707;BA;Chorroch�;11221
+2907806;BA;C�cero Dantas;32636
+2907905;BA;Cip�;17402
+2908002;BA;Coaraci;16128
+2908101;BA;Cocos;18835
+2908200;BA;Concei��o da Feira;22933
+2908309;BA;Concei��o do Almeida;17087
+2908408;BA;Concei��o do Coit�;67394
+2908507;BA;Concei��o do Jacu�pe;33631
+2908606;BA;Conde;26223
+2908705;BA;Conde�ba;17113
+2908804;BA;Contendas do Sincor�;4025
+2908903;BA;Cora��o de Maria;22391
+2909000;BA;Cordeiros;8667
+2909109;BA;Coribe;14108
+2909208;BA;Coronel Jo�o S�;15549
+2909307;BA;Correntina;32243
+2909406;BA;Cotegipe;13756
+2909505;BA;Cravol�ndia;5352
+2909604;BA;Cris�polis;21219
+2909703;BA;Crist�polis;13981
+2909802;BA;Cruz das Almas;63923
+2909901;BA;Cura��;35065
+2910008;BA;D�rio Meira;10347
+2910057;BA;Dias d'�vila;83705
+2910107;BA;Dom Bas�lio;12281
+2910206;BA;Dom Macedo Costa;4072
+2910305;BA;El�sio Medrado;8129
+2910404;BA;Encruzilhada;15914
+2910503;BA;Entre Rios;42014
+2910602;BA;Esplanada;37902
+2910701;BA;Euclides da Cunha;61112
+2910727;BA;Eun�polis;115360
+2910750;BA;F�tima;17801
+2910776;BA;Feira da Mata;5656
+2910800;BA;Feira de Santana;624107
+2910859;BA;Filad�lfia;16314
+2910909;BA;Firmino Alves;5641
+2911006;BA;Floresta Azul;10525
+2911105;BA;Formosa do Rio Preto;26111
+2911204;BA;Gandu;32778
+2911253;BA;Gavi�o;4417
+2911303;BA;Gentio do Ouro;11284
+2911402;BA;Gl�ria;15247
+2911501;BA;Gongogi;6852
+2911600;BA;Governador Mangabeira;20800
+2911659;BA;Guajeru;6371
+2911709;BA;Guanambi;85353
+2911808;BA;Guaratinga;20565
+2911857;BA;Heli�polis;12946
+2911907;BA;Ia�u;23950
+2912004;BA;Ibiassuc�;8849
+2912103;BA;Ibicara�;21083
+2912202;BA;Ibicoara;19990
+2912301;BA;Ibicu�;16262
+2912400;BA;Ibipeba;18421
+2912509;BA;Ibipitanga;14989
+2912608;BA;Ibiquera;4047
+2912707;BA;Ibirapitanga;23433
+2912806;BA;Ibirapu�;8740
+2912905;BA;Ibirataia;14476
+2913002;BA;Ibitiara;16463
+2913101;BA;Ibitit�;17048
+2913200;BA;Ibotirama;27076
+2913309;BA;Ichu;6232
+2913408;BA;Igapor�;15661
+2913457;BA;Igrapi�na;12963
+2913507;BA;Igua�;27006
+2913606;BA;Ilh�us;157639
+2913705;BA;Inhambupe;40720
+2913804;BA;Ipecaet�;14229
+2913903;BA;Ipia�;45969
+2914000;BA;Ipir�;59281
+2914109;BA;Ipupiara;9954
+2914208;BA;Irajuba;7295
+2914307;BA;Iramaia;7874
+2914406;BA;Iraquara;25728
+2914505;BA;Irar�;29305
+2914604;BA;Irec�;74050
+2914653;BA;Itabela;30901
+2914703;BA;Itaberaba;64795
+2914802;BA;Itabuna;214123
+2914901;BA;Itacar�;29051
+2915007;BA;Itaet�;16164
+2915106;BA;Itagi;12140
+2915205;BA;Itagib�;14331
+2915304;BA;Itagimirim;6784
+2915353;BA;Itagua�u da Bahia;14650
+2915403;BA;Itaju do Col�nia;6515
+2915502;BA;Itaju�pe;20309
+2915601;BA;Itamaraju;64423
+2915700;BA;Itamari;7971
+2915809;BA;Itamb�;22474
+2915908;BA;Itanagra;6433
+2916005;BA;Itanh�m;19231
+2916104;BA;Itaparica;22440
+2916203;BA;Itap�;8300
+2916302;BA;Itapebi;10173
+2916401;BA;Itapetinga;77408
+2916500;BA;Itapicuru;36173
+2916609;BA;Itapitanga;10284
+2916708;BA;Itaquara;8375
+2916807;BA;Itarantim;19937
+2916856;BA;Itatim;14588
+2916906;BA;Itiru�u;12482
+2917003;BA;Iti�ba;36140
+2917102;BA;Itoror�;20394
+2917201;BA;Itua�u;19095
+2917300;BA;Ituber�;28870
+2917334;BA;Iui�;11038
+2917359;BA;Jaborandi;8176
+2917409;BA;Jacaraci;14855
+2917508;BA;Jacobina;80749
+2917607;BA;Jaguaquara;54913
+2917706;BA;Jaguarari;33915
+2917805;BA;Jaguaripe;19162
+2917904;BA;Janda�ra;10742
+2918001;BA;Jequi�;156277
+2918100;BA;Jeremoabo;40832
+2918209;BA;Jiquiri��;14576
+2918308;BA;Jita�na;10470
+2918357;BA;Jo�o Dourado;25606
+2918407;BA;Juazeiro;219544
+2918456;BA;Jucuru�u;8856
+2918506;BA;Jussara;15241
+2918555;BA;Jussari;5706
+2918605;BA;Jussiape;5777
+2918704;BA;Lafaiete Coutinho;3663
+2918753;BA;Lagoa Real;15870
+2918803;BA;Laje;24214
+2918902;BA;Lajed�o;3993
+2919009;BA;Lajedinho;3735
+2919058;BA;Lajedo do Tabocal;8591
+2919108;BA;Lamar�o;8078
+2919157;BA;Lap�o;27323
+2919207;BA;Lauro de Freitas;204669
+2919306;BA;Len��is;11586
+2919405;BA;Lic�nio de Almeida;12357
+2919504;BA;Livramento de Nossa Senhora;46372
+2919553;BA;Lu�s Eduardo Magalh�es;92671
+2919603;BA;Macajuba;11318
+2919702;BA;Macarani;19056
+2919801;BA;Maca�bas;50481
+2919900;BA;Macurur�;7752
+2919926;BA;Madre de Deus;21754
+2919959;BA;Maetinga;2386
+2920007;BA;Maiquinique;10294
+2920106;BA;Mairi;18535
+2920205;BA;Malhada;16875
+2920304;BA;Malhada de Pedras;8326
+2920403;BA;Manoel Vitorino;12944
+2920452;BA;Mansid�o;13822
+2920502;BA;Marac�s;19973
+2920601;BA;Maragogipe;44902
+2920700;BA;Mara�;20664
+2920809;BA;Marcion�lio Souza;10357
+2920908;BA;Mascote;13619
+2921005;BA;Mata de S�o Jo�o;47643
+2921054;BA;Matina;12359
+2921104;BA;Medeiros Neto;22741
+2921203;BA;Miguel Calmon;25771
+2921302;BA;Milagres;10838
+2921401;BA;Mirangaba;18603
+2921450;BA;Mirante;8264
+2921500;BA;Monte Santo;49145
+2921609;BA;Morpar�;8476
+2921708;BA;Morro do Chap�u;35466
+2921807;BA;Mortugaba;12063
+2921906;BA;Mucug�;8725
+2922003;BA;Mucuri;42729
+2922052;BA;Mulungu do Morro;10469
+2922102;BA;Mundo Novo;27153
+2922201;BA;Muniz Ferreira;7464
+2922250;BA;Muqu�m do S�o Francisco;11479
+2922300;BA;Muritiba;29420
+2922409;BA;Mutu�pe;22340
+2922508;BA;Nazar�;28661
+2922607;BA;Nilo Pe�anha;14156
+2922656;BA;Nordestina;13197
+2922706;BA;Nova Cana�;16482
+2922730;BA;Nova F�tima;7830
+2922755;BA;Nova Ibi�;6518
+2922805;BA;Nova Itarana;8328
+2922854;BA;Nova Reden��o;9126
+2922904;BA;Nova Soure;27047
+2923001;BA;Nova Vi�osa;44170
+2923035;BA;Novo Horizonte;12653
+2923050;BA;Novo Triunfo;15445
+2923100;BA;Olindina;28373
+2923209;BA;Oliveira dos Brejinhos;21797
+2923308;BA;Ouri�angas;8575
+2923357;BA;Ourol�ndia;17567
+2923407;BA;Palmas de Monte Alto;21840
+2923506;BA;Palmeiras;9123
+2923605;BA;Paramirim;21777
+2923704;BA;Paratinga;32274
+2923803;BA;Paripiranga;29124
+2923902;BA;Pau Brasil;9550
+2924009;BA;Paulo Afonso;119213
+2924058;BA;P� de Serra;13535
+2924108;BA;Pedr�o;7438
+2924207;BA;Pedro Alexandre;16698
+2924306;BA;Piat�;16854
+2924405;BA;Pil�o Arcado;35295
+2924504;BA;Pinda�;16308
+2924603;BA;Pindoba�u;20048
+2924652;BA;Pintadas;10353
+2924678;BA;Pira� do Norte;10050
+2924702;BA;Pirip�;10253
+2924801;BA;Piritiba;25162
+2924900;BA;Planaltino;9415
+2925006;BA;Planalto;26581
+2925105;BA;Po��es;46885
+2925204;BA;Pojuca;40401
+2925253;BA;Ponto Novo;14729
+2925303;BA;Porto Seguro;152529
+2925402;BA;Potiragu�;6623
+2925501;BA;Prado;28214
+2925600;BA;Presidente Dutra;15180
+2925709;BA;Presidente J�nio Quadros;12028
+2925758;BA;Presidente Tancredo Neves;28272
+2925808;BA;Queimadas;25428
+2925907;BA;Quijingue;27672
+2925931;BA;Quixabeira;8939
+2925956;BA;Rafael Jambeiro;22643
+2926004;BA;Remanso;41324
+2926103;BA;Retirol�ndia;14588
+2926202;BA;Riach�o das Neves;22330
+2926301;BA;Riach�o do Jacu�pe;33498
+2926400;BA;Riacho de Santana;35757
+2926509;BA;Ribeira do Amparo;14631
+2926608;BA;Ribeira do Pombal;54097
+2926657;BA;Ribeir�o do Largo;4896
+2926707;BA;Rio de Contas;12878
+2926806;BA;Rio do Ant�nio;15521
+2926905;BA;Rio do Pires;11672
+2927002;BA;Rio Real;41209
+2927101;BA;Rodelas;9548
+2927200;BA;Ruy Barbosa;30900
+2927309;BA;Salinas da Margarida;16047
+2927408;BA;Salvador;salvador
+2927507;BA;Santa B�rbara;20971
+2927606;BA;Santa Br�gida;13917
+2927705;BA;Santa Cruz Cabr�lia;28058
+2927804;BA;Santa Cruz da Vit�ria;6241
+2927903;BA;Santa In�s;10583
+2928000;BA;Santaluz;37704
+2928059;BA;Santa Luzia;12308
+2928109;BA;Santa Maria da Vit�ria;39707
+2928208;BA;Santana;26792
+2928307;BA;Santan�polis;8987
+2928406;BA;Santa Rita de C�ssia;28613
+2928505;BA;Santa Teresinha;10520
+2928604;BA;Santo Amaro;60190
+2928703;BA;Santo Ant�nio de Jesus;103204
+2928802;BA;Santo Est�v�o;53666
+2928901;BA;S�o Desid�rio;34764
+2928950;BA;S�o Domingos;9085
+2929008;BA;S�o F�lix;14784
+2929057;BA;S�o F�lix do Coribe;15543
+2929107;BA;S�o Felipe;21083
+2929206;BA;S�o Francisco do Conde;40664
+2929255;BA;S�o Gabriel;18785
+2929305;BA;S�o Gon�alo dos Campos;38315
+2929354;BA;S�o Jos� da Vit�ria;5562
+2929370;BA;S�o Jos� do Jacu�pe;10546
+2929404;BA;S�o Miguel das Matas;11733
+2929503;BA;S�o Sebasti�o do Pass�;44554
+2929602;BA;Sapea�u;17421
+2929701;BA;S�tiro Dias;17330
+2929750;BA;Saubara;12163
+2929800;BA;Sa�de;12971
+2929909;BA;Seabra;44370
+2930006;BA;Sebasti�o Laranjeiras;11586
+2930105;BA;Senhor do Bonfim;79813
+2930154;BA;Serra do Ramalho;31362
+2930204;BA;Sento S�;41279
+2930303;BA;Serra Dourada;17261
+2930402;BA;Serra Preta;14531
+2930501;BA;Serrinha;81693
+2930600;BA;Serrol�ndia;13490
+2930709;BA;Sim�es Filho;137117
+2930758;BA;S�tio do Mato;13104
+2930766;BA;S�tio do Quinto;9431
+2930774;BA;Sobradinho;23274
+2930808;BA;Souto Soares;17118
+2930907;BA;Tabocas do Brejo Velho;12515
+2931004;BA;Tanha�u;20383
+2931053;BA;Tanque Novo;17518
+2931103;BA;Tanquinho;7936
+2931202;BA;Tapero�;21421
+2931301;BA;Tapiramut�;16939
+2931350;BA;Teixeira de Freitas;164290
+2931400;BA;Teodoro Sampaio;7296
+2931509;BA;Teofil�ndia;22590
+2931608;BA;Teol�ndia;15097
+2931707;BA;Terra Nova;13018
+2931806;BA;Tremedal;15996
+2931905;BA;Tucano;50903
+2932002;BA;Uau�;23991
+2932101;BA;Uba�ra;19860
+2932200;BA;Ubaitaba;18647
+2932309;BA;Ubat�;27481
+2932408;BA;Uiba�;13894
+2932457;BA;Umburanas;19573
+2932507;BA;Una;18108
+2932606;BA;Urandi;16672
+2932705;BA;Uru�uca;20312
+2932804;BA;Utinga;19330
+2932903;BA;Valen�a;97873
+2933000;BA;Valente;29111
+2933059;BA;V�rzea da Ro�a;14135
+2933109;BA;V�rzea do Po�o;9247
+2933158;BA;V�rzea Nova;12556
+2933174;BA;Varzedo;8734
+2933208;BA;Vera Cruz;44185
+2933257;BA;Vereda;6105
+2933307;BA;Vit�ria da Conquista;343643
+2933406;BA;Wagner;9342
+2933455;BA;Wanderley;12125
+2933505;BA;Wenceslau Guimar�es;20862
+2933604;BA;Xique-Xique;46562
+3100104;MG;Abadia dos Dourados;7022
+3100203;MG;Abaet�;23263
+3100302;MG;Abre Campo;13434
+3100401;MG;Acaiaca;3995
+3100500;MG;A�ucena;9270
+3100609;MG;�gua Boa;13319
+3100708;MG;�gua Comprida;1986
+3100807;MG;Aguanil;4557
+3100906;MG;�guas Formosas;19285
+3101003;MG;�guas Vermelhas;13656
+3101102;MG;Aimor�s;25116
+3101201;MG;Aiuruoca;5949
+3101300;MG;Alagoa;2657
+3101409;MG;Albertina;3015
+3101508;MG;Al�m Para�ba;35438
+3101607;MG;Alfenas;80973
+3101631;MG;Alfredo Vasconcelos;7052
+3101706;MG;Almenara;42380
+3101805;MG;Alpercata;7448
+3101904;MG;Alpin�polis;20059
+3102001;MG;Alterosa;14566
+3102050;MG;Alto Capara�;5938
+3102100;MG;Alto Rio Doce;10723
+3102209;MG;Alvarenga;3783
+3102308;MG;Alvin�polis;15135
+3102407;MG;Alvorada de Minas;3605
+3102506;MG;Amparo do Serra;4643
+3102605;MG;Andradas;41704
+3102704;MG;Cachoeira de Paje�;9470
+3102803;MG;Andrel�ndia;12189
+3102852;MG;Angel�ndia;8594
+3102902;MG;Ant�nio Carlos;11471
+3103009;MG;Ant�nio Dias;9233
+3103108;MG;Ant�nio Prado de Minas;1577
+3103207;MG;Ara�a�;2360
+3103306;MG;Aracitaba;2056
+3103405;MG;Ara�ua�;36715
+3103504;MG;Araguari;118361
+3103603;MG;Arantina;2779
+3103702;MG;Araponga;8467
+3103751;MG;Arapor�;6992
+3103801;MG;Arapu�;2836
+3103900;MG;Ara�jos;9523
+3104007;MG;Arax�;108403
+3104106;MG;Arceburgo;10990
+3104205;MG;Arcos;40658
+3104304;MG;Areado;15288
+3104403;MG;Argirita;2681
+3104452;MG;Aricanduva;5305
+3104502;MG;Arinos;17850
+3104601;MG;Astolfo Dutra;14358
+3104700;MG;Atal�ia;12496
+3104809;MG;Augusto de Lima;4833
+3104908;MG;Baependi;19249
+3105004;MG;Baldim;7780
+3105103;MG;Bambu�;23964
+3105202;MG;Bandeira;4738
+3105301;MG;Bandeira do Sul;5808
+3105400;MG;Bar�o de Cocais;33232
+3105509;MG;Bar�o de Monte Alto;5311
+3105608;MG;Barbacena;139061
+3105707;MG;Barra Longa;4905
+3105905;MG;Barroso;20981
+3106002;MG;Bela Vista de Minas;10269
+3106101;MG;Belmiro Braga;3422
+3106200;MG;Belo Horizonte;belo-horizonte
+3106309;MG;Belo Oriente;27277
+3106408;MG;Belo Vale;7723
+3106507;MG;Berilo;11813
+3106606;MG;Bert�polis;4609
+3106655;MG;Berizal;4792
+3106705;MG;Betim;450024
+3106804;MG;Bias Fortes;3282
+3106903;MG;Bicas;14612
+3107000;MG;Biquinhas;2482
+3107109;MG;Boa Esperan�a;40308
+3107208;MG;Bocaina de Minas;5088
+3107307;MG;Bocaiuva;50521
+3107406;MG;Bom Despacho;51436
+3107505;MG;Bom Jardim de Minas;6444
+3107604;MG;Bom Jesus da Penha;4270
+3107703;MG;Bom Jesus do Amparo;6182
+3107802;MG;Bom Jesus do Galho;14792
+3107901;MG;Bom Repouso;10527
+3108008;MG;Bom Sucesso;17612
+3108107;MG;Bonfim;6852
+3108206;MG;Bonfin�polis de Minas;5397
+3108255;MG;Bonito de Minas;11502
+3108305;MG;Borda da Mata;19809
+3108404;MG;Botelhos;14927
+3108503;MG;Botumirim;6259
+3108552;MG;Brasil�ndia de Minas;16950
+3108602;MG;Bras�lia de Minas;32460
+3108701;MG;Br�s Pires;4255
+3108800;MG;Bra�nas;4737
+3108909;MG;Braz�polis;14364
+3109006;MG;Brumadinho;41208
+3109105;MG;Bueno Brand�o;10982
+3109204;MG;Buen�polis;10342
+3109253;MG;Bugre;3984
+3109303;MG;Buritis;25179
+3109402;MG;Buritizeiro;28184
+3109451;MG;Cabeceira Grande;7025
+3109501;MG;Cabo Verde;14074
+3109600;MG;Cachoeira da Prata;3580
+3109709;MG;Cachoeira de Minas;11609
+3109808;MG;Cachoeira Dourada;2720
+3109907;MG;Caetan�polis;11869
+3110004;MG;Caet�;45364
+3110103;MG;Caiana;5584
+3110202;MG;Cajuri;3961
+3110301;MG;Caldas;14600
+3110400;MG;Camacho;2839
+3110509;MG;Camanducaia;21831
+3110608;MG;Cambu�;30068
+3110707;MG;Cambuquira;12810
+3110806;MG;Campan�rio;3739
+3110905;MG;Campanha;16855
+3111002;MG;Campestre;21052
+3111101;MG;Campina Verde;19759
+3111150;MG;Campo Azul;3830
+3111200;MG;Campo Belo;54338
+3111309;MG;Campo do Meio;11648
+3111408;MG;Campo Florido;8383
+3111507;MG;Campos Altos;15661
+3111606;MG;Campos Gerais;28908
+3111705;MG;Cana�;4533
+3111804;MG;Can�polis;12251
+3111903;MG;Cana Verde;5585
+3112000;MG;Candeias;14890
+3112059;MG;Cantagalo;4575
+3112109;MG;Capara�;5464
+3112208;MG;Capela Nova;4616
+3112307;MG;Capelinha;38321
+3112406;MG;Capetinga;6860
+3112505;MG;Capim Branco;9896
+3112604;MG;Capin�polis;16294
+3112653;MG;Capit�o Andrade;5559
+3112703;MG;Capit�o En�as;15388
+3112802;MG;Capit�lio;8693
+3112901;MG;Caputira;9318
+3113008;MG;Cara�;23872
+3113107;MG;Carana�ba;3150
+3113206;MG;Caranda�;25831
+3113305;MG;Carangola;33022
+3113404;MG;Caratinga;93124
+3113503;MG;Carbonita;9423
+3113602;MG;Carea�u;6826
+3113701;MG;Carlos Chagas;18516
+3113800;MG;Carm�sia;2660
+3113909;MG;Carmo da Cachoeira;12193
+3114006;MG;Carmo da Mata;11546
+3114105;MG;Carmo de Minas;15031
+3114204;MG;Carmo do Cajuru;22900
+3114303;MG;Carmo do Parana�ba;30339
+3114402;MG;Carmo do Rio Claro;21310
+3114501;MG;Carm�polis de Minas;19756
+3114550;MG;Carneirinho;10103
+3114600;MG;Carrancas;4052
+3114709;MG;Carvalh�polis;3614
+3114808;MG;Carvalhos;4445
+3114907;MG;Casa Grande;2251
+3115003;MG;Cascalho Rico;3108
+3115102;MG;C�ssia;17741
+3115201;MG;Concei��o da Barra de Minas;3939
+3115300;MG;Cataguases;75942
+3115359;MG;Catas Altas;5465
+3115409;MG;Catas Altas da Noruega;3665
+3115458;MG;Catuji;6206
+3115474;MG;Catuti;4944
+3115508;MG;Caxambu;21566
+3115607;MG;Cedro do Abaet�;1150
+3115706;MG;Central de Minas;7059
+3115805;MG;Centralina;10343
+3115904;MG;Ch�cara;3216
+3116001;MG;Chal�;5695
+3116100;MG;Chapada do Norte;15334
+3116159;MG;Chapada Ga�cha;14217
+3116209;MG;Chiador;2657
+3116308;MG;Cipot�nea;6811
+3116407;MG;Claraval;4873
+3116506;MG;Claro dos Po��es;7478
+3116605;MG;Cl�udio;29093
+3116704;MG;Coimbra;7631
+3116803;MG;Coluna;8810
+3116902;MG;Comendador Gomes;3128
+3117009;MG;Comercinho;6624
+3117108;MG;Concei��o da Aparecida;10351
+3117207;MG;Concei��o das Pedras;2814
+3117306;MG;Concei��o das Alagoas;28782
+3117405;MG;Concei��o de Ipanema;4581
+3117504;MG;Concei��o do Mato Dentro;17438
+3117603;MG;Concei��o do Par�;5558
+3117702;MG;Concei��o do Rio Verde;13729
+3117801;MG;Concei��o dos Ouros;11852
+3117836;MG;C�nego Marinho;7730
+3117876;MG;Confins;6867
+3117900;MG;Congonhal;12209
+3118007;MG;Congonhas;55836
+3118106;MG;Congonhas do Norte;5047
+3118205;MG;Conquista;6997
+3118304;MG;Conselheiro Lafaiete;130584
+3118403;MG;Conselheiro Pena;22975
+3118502;MG;Consola��o;1786
+3118601;MG;Contagem;673849
+3118700;MG;Coqueiral;9099
+3118809;MG;Cora��o de Jesus;26620
+3118908;MG;Cordisburgo;8903
+3119005;MG;Cordisl�ndia;3546
+3119104;MG;Corinto;23607
+3119203;MG;Coroaci;9897
+3119302;MG;Coromandel;27958
+3119401;MG;Coronel Fabriciano;110709
+3119500;MG;Coronel Murta;9209
+3119609;MG;Coronel Pacheco;3095
+3119708;MG;Coronel Xavier Chaves;3448
+3119807;MG;C�rrego Danta;3168
+3119906;MG;C�rrego do Bom Jesus;3685
+3119955;MG;C�rrego Fundo;6425
+3120003;MG;C�rrego Novo;2688
+3120102;MG;Couto de Magalh�es de Minas;4436
+3120151;MG;Cris�lita;6814
+3120201;MG;Cristais;13060
+3120300;MG;Crist�lia;5992
+3120409;MG;Cristiano Otoni;5161
+3120508;MG;Cristina;10211
+3120607;MG;Crucil�ndia;5072
+3120706;MG;Cruzeiro da Fortaleza;3651
+3120805;MG;Cruz�lia;15529
+3120839;MG;Cuparaque;5026
+3120870;MG;Curral de Dentro;7867
+3120904;MG;Curvelo;81085
+3121001;MG;Datas;5431
+3121100;MG;Delfim Moreira;8007
+3121209;MG;Delfin�polis;7146
+3121258;MG;Delta;10994
+3121308;MG;Descoberto;5044
+3121407;MG;Desterro de Entre Rios;7266
+3121506;MG;Desterro do Melo;2867
+3121605;MG;Diamantina;47924
+3121704;MG;Diogo de Vasconcelos;3779
+3121803;MG;Dion�sio;7493
+3121902;MG;Divin�sia;3430
+3122009;MG;Divino;20020
+3122108;MG;Divino das Laranjeiras;4969
+3122207;MG;Divinol�ndia de Minas;7655
+3122306;MG;Divin�polis;242505
+3122355;MG;Divisa Alegre;6946
+3122405;MG;Divisa Nova;6039
+3122454;MG;Divis�polis;11396
+3122470;MG;Dom Bosco;3635
+3122504;MG;Dom Cavati;5025
+3122603;MG;Dom Joaquim;4436
+3122702;MG;Dom Silv�rio;5227
+3122801;MG;Dom Vi�oso;2992
+3122900;MG;Dona Euz�bia;6664
+3123007;MG;Dores de Campos;10291
+3123106;MG;Dores de Guanh�es;5139
+3123205;MG;Dores do Indai�;13373
+3123304;MG;Dores do Turvo;4202
+3123403;MG;Dores�polis;1539
+3123502;MG;Douradoquara;1915
+3123528;MG;Durand�;7898
+3123601;MG;El�i Mendes;28556
+3123700;MG;Engenheiro Caldas;11268
+3123809;MG;Engenheiro Navarro;7240
+3123858;MG;Entre Folhas;5383
+3123908;MG;Entre Rios de Minas;15458
+3124005;MG;Erv�lia;19019
+3124104;MG;Esmeraldas;72512
+3124203;MG;Espera Feliz;25287
+3124302;MG;Espinosa;31603
+3124401;MG;Esp�rito Santo do Dourado;4728
+3124500;MG;Estiva;11416
+3124609;MG;Estrela Dalva;2308
+3124708;MG;Estrela do Indai�;3483
+3124807;MG;Estrela do Sul;8057
+3124906;MG;Eugen�polis;11383
+3125002;MG;Ewbank da C�mara;3932
+3125101;MG;Extrema;37649
+3125200;MG;Fama;2374
+3125309;MG;Faria Lemos;3202
+3125408;MG;Fel�cio dos Santos;4656
+3125507;MG;S�o Gon�alo do Rio Preto;3178
+3125606;MG;Felisburgo;7548
+3125705;MG;Felixl�ndia;15528
+3125804;MG;Fernandes Tourinho;3500
+3125903;MG;Ferros;9576
+3125952;MG;Fervedouro;11100
+3126000;MG;Florestal;7602
+3126109;MG;Formiga;67956
+3126208;MG;Formoso;9810
+3126307;MG;Fortaleza de Minas;4460
+3126406;MG;Fortuna de Minas;2986
+3126505;MG;Francisco Badar�;10311
+3126604;MG;Francisco Dumont;5268
+3126703;MG;Francisco S�;26459
+3126752;MG;Francisc�polis;5287
+3126802;MG;Frei Gaspar;5858
+3126901;MG;Frei Inoc�ncio;9716
+3126950;MG;Frei Lagonegro;3496
+3127008;MG;Fronteira;18866
+3127057;MG;Fronteira dos Vales;4542
+3127073;MG;Fruta de Leite;5232
+3127107;MG;Frutal;60508
+3127206;MG;Funil�ndia;4434
+3127305;MG;Galil�ia;6764
+3127339;MG;Gameleiras;5084
+3127354;MG;Glaucil�ndia;3177
+3127370;MG;Goiabeira;3402
+3127388;MG;Goian�;4014
+3127404;MG;Gon�alves;4360
+3127503;MG;Gonzaga;6184
+3127602;MG;Gouveia;11811
+3127701;MG;Governador Valadares;282164
+3127800;MG;Gr�o Mogol;15943
+3127909;MG;Grupiara;1386
+3128006;MG;Guanh�es;34818
+3128105;MG;Guap�;14269
+3128204;MG;Guaraciaba;10307
+3128253;MG;Guaraciama;5005
+3128303;MG;Guaran�sia;19014
+3128402;MG;Guarani;8926
+3128501;MG;Guarar�;3755
+3128600;MG;Guarda-Mor;6558
+3128709;MG;Guaxup�;52234
+3128808;MG;Guidoval;7026
+3128907;MG;Guimar�nia;8168
+3129004;MG;Guiricema;8296
+3129103;MG;Gurinhat�;5516
+3129202;MG;Heliodora;6623
+3129301;MG;Iapu;11085
+3129400;MG;Ibertioga;4999
+3129509;MG;Ibi�;25511
+3129608;MG;Ibia�;8478
+3129657;MG;Ibiracatu;5340
+3129707;MG;Ibiraci;14128
+3129806;MG;Ibirit�;184030
+3129905;MG;Ibiti�ra de Minas;3497
+3130002;MG;Ibituruna;3003
+3130051;MG;Icara� de Minas;12200
+3130101;MG;Igarap�;44561
+3130200;MG;Igaratinga;11146
+3130309;MG;Iguatama;7901
+3130408;MG;Ijaci;6667
+3130507;MG;Ilic�nea;12511
+3130556;MG;Imb� de Minas;6976
+3130606;MG;Inconfidentes;7387
+3130655;MG;Indaiabira;7328
+3130705;MG;Indian�polis;7009
+3130804;MG;Inga�;2785
+3130903;MG;Inhapim;24020
+3131000;MG;Inha�ma;6352
+3131109;MG;Inimutaba;7605
+3131158;MG;Ipaba;18926
+3131208;MG;Ipanema;20133
+3131307;MG;Ipatinga;267333
+3131406;MG;Ipia�u;4229
+3131505;MG;Ipui�na;10156
+3131604;MG;Ira� de Minas;7067
+3131703;MG;Itabira;121717
+3131802;MG;Itabirinha;11637
+3131901;MG;Itabirito;52996
+3132008;MG;Itacambira;5447
+3132107;MG;Itacarambi;18175
+3132206;MG;Itaguara;13510
+3132305;MG;Itaip�;12910
+3132404;MG;Itajub�;97782
+3132503;MG;Itamarandiba;35130
+3132602;MG;Itamarati de Minas;4395
+3132701;MG;Itambacuri;23207
+3132800;MG;Itamb� do Mato Dentro;2032
+3132909;MG;Itamogi;10122
+3133006;MG;Itamonte;15844
+3133105;MG;Itanhandu;15511
+3133204;MG;Itanhomi;12259
+3133303;MG;Itaobim;20997
+3133402;MG;Itapagipe;15511
+3133501;MG;Itapecerica;21760
+3133600;MG;Itapeva;9976
+3133709;MG;Itatiaiu�u;11354
+3133758;MG;Ita� de Minas;16286
+3133808;MG;Ita�na;94455
+3133907;MG;Itaverava;5321
+3134004;MG;Itinga;15053
+3134103;MG;Itueta;6074
+3134202;MG;Ituiutaba;105818
+3134301;MG;Itumirim;5978
+3134400;MG;Iturama;40101
+3134509;MG;Itutinga;3749
+3134608;MG;Jaboticatubas;20683
+3134707;MG;Jacinto;12320
+3134806;MG;Jacu�;7695
+3134905;MG;Jacutinga;26538
+3135001;MG;Jaguara�u;3151
+3135050;MG;Ja�ba;39850
+3135076;MG;Jampruca;5453
+3135100;MG;Jana�ba;72374
+3135209;MG;Janu�ria;67958
+3135308;MG;Japara�ba;4418
+3135357;MG;Japonvar;7991
+3135407;MG;Jeceaba;4795
+3135456;MG;Jenipapo de Minas;7781
+3135506;MG;Jequeri;12246
+3135605;MG;Jequita�;7407
+3135704;MG;Jequitib�;5203
+3135803;MG;Jequitinhonha;25555
+3135902;MG;Jesu�nia;4774
+3136009;MG;Joa�ma;15476
+3136108;MG;Joan�sia;4382
+3136207;MG;Jo�o Monlevade;80903
+3136306;MG;Jo�o Pinheiro;47990
+3136405;MG;Joaquim Fel�cio;4757
+3136504;MG;Jord�nia;10872
+3136520;MG;Jos� Gon�alves de Minas;4474
+3136553;MG;Jos� Raydan;5104
+3136579;MG;Josen�polis;4911
+3136603;MG;Nova Uni�o;5739
+3136652;MG;Juatuba;27823
+3136702;MG;Juiz de Fora;577532
+3136801;MG;Juramento;4359
+3136900;MG;Juruaia;10795
+3136959;MG;Juven�lia;5706
+3137007;MG;Ladainha;18272
+3137106;MG;Lagamar;7588
+3137205;MG;Lagoa da Prata;53236
+3137304;MG;Lagoa dos Patos;4062
+3137403;MG;Lagoa Dourada;13115
+3137502;MG;Lagoa Formosa;18168
+3137536;MG;Lagoa Grande;9681
+3137601;MG;Lagoa Santa;66744
+3137700;MG;Lajinha;19914
+3137809;MG;Lambari;20995
+3137908;MG;Lamim;3366
+3138005;MG;Laranjal;6856
+3138104;MG;Lassance;6494
+3138203;MG;Lavras;105756
+3138302;MG;Leandro Ferreira;3222
+3138351;MG;Leme do Prado;4923
+3138401;MG;Leopoldina;52690
+3138500;MG;Liberdade;4994
+3138609;MG;Lima Duarte;16749
+3138625;MG;Limeira do Oeste;7640
+3138658;MG;Lontra;9766
+3138674;MG;Luisburgo;6249
+3138682;MG;Luisl�ndia;6735
+3138708;MG;Lumin�rias;5431
+3138807;MG;Luz;18297
+3138906;MG;Machacalis;7112
+3139003;MG;Machado;42682
+3139102;MG;Madre de Deus de Minas;5119
+3139201;MG;Malacacheta;18556
+3139250;MG;Mamonas;6565
+3139300;MG;Manga;18051
+3139409;MG;Manhua�u;92074
+3139508;MG;Manhumirim;22894
+3139607;MG;Mantena;27651
+3139706;MG;Maravilhas;8113
+3139805;MG;Mar de Espanha;12985
+3139904;MG;Maria da F�;14019
+3140001;MG;Mariana;61830
+3140100;MG;Marilac;4079
+3140159;MG;M�rio Campos;15814
+3140209;MG;Marip� de Minas;3000
+3140308;MG;Marli�ria;4030
+3140407;MG;Marmel�polis;2701
+3140506;MG;Martinho Campos;13497
+3140530;MG;Martins Soares;8640
+3140555;MG;Mata Verde;8700
+3140605;MG;Materl�ndia;4415
+3140704;MG;Mateus Leme;31631
+3140803;MG;Matias Barbosa;14626
+3140852;MG;Matias Cardoso;11360
+3140902;MG;Matip�;19098
+3141009;MG;Mato Verde;12367
+3141108;MG;Matozinhos;38469
+3141207;MG;Matutina;3733
+3141306;MG;Medeiros;3861
+3141405;MG;Medina;20701
+3141504;MG;Mendes Pimentel;6446
+3141603;MG;Merc�s;10775
+3141702;MG;Mesquita;5489
+3141801;MG;Minas Novas;31509
+3141900;MG;Minduri;3891
+3142007;MG;Mirabela;13651
+3142106;MG;Miradouro;10818
+3142205;MG;Mira�;15205
+3142254;MG;Mirav�nia;4939
+3142304;MG;Moeda;4948
+3142403;MG;Moema;7589
+3142502;MG;Monjolos;2184
+3142601;MG;Monsenhor Paulo;8764
+3142700;MG;Montalv�nia;14621
+3142809;MG;Monte Alegre de Minas;21349
+3142908;MG;Monte Azul;20544
+3143005;MG;Monte Belo;13139
+3143104;MG;Monte Carmelo;48049
+3143153;MG;Monte Formoso;4939
+3143203;MG;Monte Santo de Minas;21504
+3143302;MG;Montes Claros;417478
+3143401;MG;Monte Si�o;24247
+3143450;MG;Montezuma;8379
+3143500;MG;Morada Nova de Minas;8955
+3143609;MG;Morro da Gar�a;2413
+3143708;MG;Morro do Pilar;3126
+3143807;MG;Munhoz;5960
+3143906;MG;Muria�;109997
+3144003;MG;Mutum;26945
+3144102;MG;Muzambinho;20522
+3144201;MG;Nacip Raydan;3221
+3144300;MG;Nanuque;40583
+3144359;MG;Naque;7104
+3144375;MG;Natal�ndia;3306
+3144409;MG;Nat�rcia;4727
+3144508;MG;Nazareno;8710
+3144607;MG;Nepomuceno;26882
+3144656;MG;Ninheira;10355
+3144672;MG;Nova Bel�m;3067
+3144706;MG;Nova Era;17524
+3144805;MG;Nova Lima;97378
+3144904;MG;Nova M�dica;3548
+3145000;MG;Nova Ponte;16046
+3145059;MG;Nova Porteirinha;7493
+3145109;MG;Nova Resende;16937
+3145208;MG;Nova Serrana;108241
+3145307;MG;Novo Cruzeiro;31339
+3145356;MG;Novo Oriente de Minas;10800
+3145372;MG;Novorizonte;5348
+3145406;MG;Olaria;1694
+3145455;MG;Olhos-d'�gua;6243
+3145505;MG;Ol�mpio Noronha;2829
+3145604;MG;Oliveira;41987
+3145703;MG;Oliveira Fortes;2128
+3145802;MG;On�a de Pitangui;3155
+3145851;MG;Orat�rios;4671
+3145877;MG;Oriz�nia;8138
+3145901;MG;Ouro Branco;40220
+3146008;MG;Ouro Fino;33938
+3146107;MG;Ouro Preto;74824
+3146206;MG;Ouro Verde de Minas;5895
+3146255;MG;Padre Carvalho;6466
+3146305;MG;Padre Para�so;20346
+3146404;MG;Paineiras;4440
+3146503;MG;Pains;8308
+3146552;MG;Pai Pedro;6098
+3146602;MG;Paiva;1517
+3146701;MG;Palma;6606
+3146750;MG;Palm�polis;5196
+3146909;MG;Papagaios;15922
+3147006;MG;Paracatu;94539
+3147105;MG;Par� de Minas;95616
+3147204;MG;Paragua�u;21693
+3147303;MG;Parais�polis;21353
+3147402;MG;Paraopeba;24854
+3147501;MG;Passab�m;1619
+3147600;MG;Passa Quatro;16439
+3147709;MG;Passa Tempo;8031
+3147808;MG;Passa-Vinte;2024
+3147907;MG;Passos;115970
+3147956;MG;Patis;6031
+3148004;MG;Patos de Minas;154641
+3148103;MG;Patroc�nio;92116
+3148202;MG;Patroc�nio do Muria�;5744
+3148301;MG;Paula C�ndido;9597
+3148400;MG;Paulistas;4794
+3148509;MG;Pav�o;8390
+3148608;MG;Pe�anha;17534
+3148707;MG;Pedra Azul;24333
+3148756;MG;Pedra Bonita;7157
+3148806;MG;Pedra do Anta;2960
+3148905;MG;Pedra do Indai�;3977
+3149002;MG;Pedra Dourada;2559
+3149101;MG;Pedralva;11098
+3149150;MG;Pedras de Maria da Cruz;12313
+3149200;MG;Pedrin�polis;3651
+3149309;MG;Pedro Leopoldo;65149
+3149408;MG;Pedro Teixeira;1804
+3149507;MG;Pequeri;3340
+3149606;MG;Pequi;4457
+3149705;MG;Perdig�o;11994
+3149804;MG;Perdizes;16469
+3149903;MG;Perd�es;21577
+3149952;MG;Periquito;6738
+3150000;MG;Pescador;4261
+3150109;MG;Piau;2719
+3150158;MG;Piedade de Caratinga;8832
+3150208;MG;Piedade de Ponte Nova;4141
+3150307;MG;Piedade do Rio Grande;4436
+3150406;MG;Piedade dos Gerais;5034
+3150505;MG;Pimenta;8715
+3150539;MG;Pingo-d'�gua;5029
+3150570;MG;Pint�polis;7540
+3150604;MG;Piracema;6386
+3150703;MG;Pirajuba;6491
+3150802;MG;Piranga;17641
+3150901;MG;Pirangu�u;5504
+3151008;MG;Piranguinho;8683
+3151107;MG;Pirapetinga;10791
+3151206;MG;Pirapora;56845
+3151305;MG;Pira�ba;10732
+3151404;MG;Pitangui;28433
+3151503;MG;Piumhi;35137
+3151602;MG;Planura;12445
+3151701;MG;Po�o Fundo;16900
+3151800;MG;Po�os de Caldas;169838
+3151909;MG;Pocrane;8288
+3152006;MG;Pomp�u;32248
+3152105;MG;Ponte Nova;60003
+3152131;MG;Ponto Chique;4305
+3152170;MG;Ponto dos Volantes;12235
+3152204;MG;Porteirinha;37823
+3152303;MG;Porto Firme;11414
+3152402;MG;Pot�;16675
+3152501;MG;Pouso Alegre;154293
+3152600;MG;Pouso Alto;5862
+3152709;MG;Prados;9128
+3152808;MG;Prata;28173
+3152907;MG;Prat�polis;8530
+3153004;MG;Pratinha;3658
+3153103;MG;Presidente Bernardes;5315
+3153202;MG;Presidente Juscelino;3572
+3153301;MG;Presidente Kubitschek;3000
+3153400;MG;Presidente Oleg�rio;19680
+3153509;MG;Alto Jequitib�;8286
+3153608;MG;Prudente de Morais;10931
+3153707;MG;Quartel Geral;3603
+3153806;MG;Queluzito;1948
+3153905;MG;Raposos;16501
+3154002;MG;Raul Soares;23663
+3154101;MG;Recreio;10522
+3154150;MG;Reduto;7247
+3154200;MG;Resende Costa;11578
+3154309;MG;Resplendor;17396
+3154408;MG;Ressaquinha;4826
+3154457;MG;Riachinho;8132
+3154507;MG;Riacho dos Machados;9471
+3154606;MG;Ribeir�o das Neves;341415
+3154705;MG;Ribeir�o Vermelho;4061
+3154804;MG;Rio Acima;10524
+3154903;MG;Rio Casca;13384
+3155009;MG;Rio Doce;2630
+3155108;MG;Rio do Prado;5117
+3155207;MG;Rio Espera;5332
+3155306;MG;Rio Manso;5924
+3155405;MG;Rio Novo;8964
+3155504;MG;Rio Parana�ba;12356
+3155603;MG;Rio Pardo de Minas;31171
+3155702;MG;Rio Piracicaba;14325
+3155801;MG;Rio Pomba;18007
+3155900;MG;Rio Preto;5493
+3156007;MG;Rio Vermelho;12635
+3156106;MG;Rit�polis;4521
+3156205;MG;Rochedo de Minas;2335
+3156304;MG;Rodeiro;8333
+3156403;MG;Romaria;3507
+3156452;MG;Ros�rio da Limeira;4648
+3156502;MG;Rubelita;5609
+3156601;MG;Rubim;10269
+3156700;MG;Sabar�;137877
+3156809;MG;Sabin�polis;15364
+3156908;MG;Sacramento;26556
+3157005;MG;Salinas;41864
+3157104;MG;Salto da Divisa;7014
+3157203;MG;Santa B�rbara;31873
+3157252;MG;Santa B�rbara do Leste;8212
+3157278;MG;Santa B�rbara do Monte Verde;3212
+3157302;MG;Santa B�rbara do Tug�rio;4385
+3157336;MG;Santa Cruz de Minas;8723
+3157377;MG;Santa Cruz de Salinas;4074
+3157401;MG;Santa Cruz do Escalvado;4693
+3157500;MG;Santa Efig�nia de Minas;4354
+3157609;MG;Santa F� de Minas;3806
+3157658;MG;Santa Helena de Minas;6406
+3157708;MG;Santa Juliana;14497
+3157807;MG;Santa Luzia;221705
+3157906;MG;Santa Margarida;16393
+3158003;MG;Santa Maria de Itabira;10867
+3158102;MG;Santa Maria do Salto;5203
+3158201;MG;Santa Maria do Sua�u�;14607
+3158300;MG;Santana da Vargem;7047
+3158409;MG;Santana de Cataguases;3909
+3158508;MG;Santana de Pirapama;7538
+3158607;MG;Santana do Deserto;3985
+3158706;MG;Santana do Garamb�u;2494
+3158805;MG;Santana do Jacar�;4847
+3158904;MG;Santana do Manhua�u;8660
+3158953;MG;Santana do Para�so;36048
+3159001;MG;Santana do Riacho;4334
+3159100;MG;Santana dos Montes;3753
+3159209;MG;Santa Rita de Caldas;8900
+3159308;MG;Santa Rita de Jacutinga;4843
+3159357;MG;Santa Rita de Minas;7322
+3159407;MG;Santa Rita de Ibitipoca;3380
+3159506;MG;Santa Rita do Itueto;5426
+3159605;MG;Santa Rita do Sapuca�;44226
+3159704;MG;Santa Rosa da Serra;3364
+3159803;MG;Santa Vit�ria;19997
+3159902;MG;Santo Ant�nio do Amparo;18697
+3160009;MG;Santo Ant�nio do Aventureiro;3602
+3160108;MG;Santo Ant�nio do Grama;3861
+3160207;MG;Santo Ant�nio do Itamb�;3763
+3160306;MG;Santo Ant�nio do Jacinto;11570
+3160405;MG;Santo Ant�nio do Monte;28603
+3160454;MG;Santo Ant�nio do Retiro;7316
+3160504;MG;Santo Ant�nio do Rio Abaixo;1756
+3160603;MG;Santo Hip�lito;3044
+3160702;MG;Santos Dumont;46357
+3160801;MG;S�o Bento Abade;5411
+3160900;MG;S�o Br�s do Sua�u�;3770
+3160959;MG;S�o Domingos das Dores;5672
+3161007;MG;S�o Domingos do Prata;17296
+3161056;MG;S�o F�lix de Minas;3354
+3161106;MG;S�o Francisco;56625
+3161205;MG;S�o Francisco de Paula;6512
+3161304;MG;S�o Francisco de Sales;6309
+3161403;MG;S�o Francisco do Gl�ria;4758
+3161502;MG;S�o Geraldo;12751
+3161601;MG;S�o Geraldo da Piedade;3860
+3161650;MG;S�o Geraldo do Baixio;4104
+3161700;MG;S�o Gon�alo do Abaet�;8527
+3161809;MG;S�o Gon�alo do Par�;12776
+3161908;MG;S�o Gon�alo do Rio Abaixo;11114
+3162005;MG;S�o Gon�alo do Sapuca�;25670
+3162104;MG;S�o Gotardo;36084
+3162203;MG;S�o Jo�o Batista do Gl�ria;7541
+3162252;MG;S�o Jo�o da Lagoa;4949
+3162302;MG;S�o Jo�o da Mata;2743
+3162401;MG;S�o Jo�o da Ponte;25033
+3162450;MG;S�o Jo�o das Miss�es;13232
+3162500;MG;S�o Jo�o del-Rei;90897
+3162559;MG;S�o Jo�o do Manhua�u;11785
+3162575;MG;S�o Jo�o do Manteninha;5975
+3162609;MG;S�o Jo�o do Oriente;7393
+3162658;MG;S�o Jo�o do Pacu�;4476
+3162708;MG;S�o Jo�o do Para�so;23797
+3162807;MG;S�o Jo�o Evangelista;15761
+3162906;MG;S�o Jo�o Nepomuceno;26530
+3162922;MG;S�o Joaquim de Bicas;32696
+3162948;MG;S�o Jos� da Barra;7532
+3162955;MG;S�o Jos� da Lapa;24490
+3163003;MG;S�o Jos� da Safira;4291
+3163102;MG;S�o Jos� da Varginha;5151
+3163201;MG;S�o Jos� do Alegre;4222
+3163300;MG;S�o Jos� do Divino;3851
+3163409;MG;S�o Jos� do Goiabal;5356
+3163508;MG;S�o Jos� do Jacuri;6409
+3163607;MG;S�o Jos� do Mantimento;2821
+3163706;MG;S�o Louren�o;46539
+3163805;MG;S�o Miguel do Anta;6949
+3163904;MG;S�o Pedro da Uni�o;4563
+3164001;MG;S�o Pedro dos Ferros;7634
+3164100;MG;S�o Pedro do Sua�u�;5160
+3164209;MG;S�o Rom�o;12713
+3164308;MG;S�o Roque de Minas;7100
+3164407;MG;S�o Sebasti�o da Bela Vista;5598
+3164431;MG;S�o Sebasti�o da Vargem Alegre;3039
+3164472;MG;S�o Sebasti�o do Anta;6697
+3164506;MG;S�o Sebasti�o do Maranh�o;9884
+3164605;MG;S�o Sebasti�o do Oeste;6948
+3164704;MG;S�o Sebasti�o do Para�so;71915
+3164803;MG;S�o Sebasti�o do Rio Preto;1478
+3164902;MG;S�o Sebasti�o do Rio Verde;2259
+3165008;MG;S�o Tiago;10979
+3165107;MG;S�o Tom�s de Aquino;6980
+3165206;MG;S�o Tom� das Letras;7151
+3165305;MG;S�o Vicente de Minas;7876
+3165404;MG;Sapuca�-Mirim;7045
+3165503;MG;Sardo�;6421
+3165537;MG;Sarzedo;34050
+3165552;MG;Setubinha;12493
+3165560;MG;Sem-Peixe;2579
+3165578;MG;Senador Amaral;5365
+3165602;MG;Senador Cortes;2001
+3165701;MG;Senador Firmino;7902
+3165800;MG;Senador Jos� Bento;1422
+3165909;MG;Senador Modestino Gon�alves;4056
+3166006;MG;Senhora de Oliveira;5786
+3166105;MG;Senhora do Porto;3516
+3166204;MG;Senhora dos Rem�dios;10474
+3166303;MG;Sericita;7340
+3166402;MG;Seritinga;1857
+3166501;MG;Serra Azul de Minas;4292
+3166600;MG;Serra da Saudade;771
+3166709;MG;Serra dos Aimor�s;8725
+3166808;MG;Serra do Salitre;11750
+3166907;MG;Serrania;7667
+3166956;MG;Serran�polis de Minas;4836
+3167004;MG;Serranos;1949
+3167103;MG;Serro;20915
+3167202;MG;Sete Lagoas;243950
+3167301;MG;Silveir�nia;2267
+3167400;MG;Silvian�polis;6258
+3167509;MG;Sim�o Pereira;2621
+3167608;MG;Simon�sia;19834
+3167707;MG;Sobr�lia;5476
+3167806;MG;Soledade de Minas;6226
+3167905;MG;Tabuleiro;3669
+3168002;MG;Taiobeiras;34653
+3168051;MG;Taparuba;3093
+3168101;MG;Tapira;4890
+3168200;MG;Tapira�;1869
+3168309;MG;Taquara�u de Minas;4120
+3168408;MG;Tarumirim;14280
+3168507;MG;Teixeiras;11680
+3168606;MG;Te�filo Otoni;141269
+3168705;MG;Tim�teo;91268
+3168804;MG;Tiradentes;8160
+3168903;MG;Tiros;6369
+3169000;MG;Tocantins;16769
+3169059;MG;Tocos do Moji;4117
+3169109;MG;Toledo;6336
+3169208;MG;Tombos;7683
+3169307;MG;Tr�s Cora��es;80561
+3169356;MG;Tr�s Marias;33062
+3169406;MG;Tr�s Pontas;57127
+3169505;MG;Tumiritinga;6797
+3169604;MG;Tupaciguara;25466
+3169703;MG;Turmalina;20280
+3169802;MG;Turvol�ndia;5099
+3169901;MG;Ub�;117995
+3170008;MG;Uba�;12661
+3170057;MG;Ubaporanga;12514
+3170107;MG;Uberaba;340277
+3170206;MG;Uberl�ndia;706597
+3170305;MG;Umburatiba;2582
+3170404;MG;Una�;85461
+3170438;MG;Uni�o de Minas;4265
+3170479;MG;Uruana de Minas;3256
+3170503;MG;Uruc�nia;10333
+3170529;MG;Urucuia;17470
+3170578;MG;Vargem Alegre;6460
+3170602;MG;Vargem Bonita;2143
+3170651;MG;Vargem Grande do Rio Pardo;5045
+3170701;MG;Varginha;137608
+3170750;MG;Varj�o de Minas;7235
+3170800;MG;V�rzea da Palma;40101
+3170909;MG;Varzel�ndia;19290
+3171006;MG;Vazante;20692
+3171030;MG;Verdel�ndia;9527
+3171071;MG;Veredinha;5733
+3171105;MG;Ver�ssimo;4090
+3171154;MG;Vermelho Novo;4852
+3171204;MG;Vespasiano;131849
+3171303;MG;Vi�osa;79910
+3171402;MG;Vieiras;3570
+3171501;MG;Mathias Lobato;3157
+3171600;MG;Virgem da Lapa;13729
+3171709;MG;Virg�nia;8652
+3171808;MG;Virgin�polis;10459
+3171907;MG;Virgol�ndia;5303
+3172004;MG;Visconde do Rio Branco;43351
+3172103;MG;Volta Grande;5270
+3172202;MG;Wenceslau Braz;2543
+3200102;ES;Afonso Cl�udio;30326
+3200136;ES;�guia Branca;9621
+3200169;ES;�gua Doce do Norte;10801
+3200201;ES;Alegre;29869
+3200300;ES;Alfredo Chaves;14670
+3200359;ES;Alto Rio Novo;7911
+3200409;ES;Anchieta;30285
+3200508;ES;Apiac�;7542
+3200607;ES;Aracruz;104942
+3200706;ES;Atilio Vivacqua;12270
+3200805;ES;Baixo Guandu;31263
+3200904;ES;Barra de S�o Francisco;45301
+3201001;ES;Boa Esperan�a;15146
+3201100;ES;Bom Jesus do Norte;9988
+3201159;ES;Brejetuba;12450
+3201209;ES;Cachoeiro de Itapemirim;212172
+3201308;ES;Cariacica;386495
+3201407;ES;Castelo;37956
+3201506;ES;Colatina;124283
+3201605;ES;Concei��o da Barra;31479
+3201704;ES;Concei��o do Castelo;12887
+3201803;ES;Divino de S�o Louren�o;4236
+3201902;ES;Domingos Martins;34120
+3202009;ES;Dores do Rio Preto;6793
+3202108;ES;Ecoporanga;22748
+3202207;ES;Fund�o;22379
+3202256;ES;Governador Lindenberg;13047
+3202306;ES;Gua�u�;31372
+3202405;ES;Guarapari;128504
+3202454;ES;Ibatiba;26762
+3202504;ES;Ibira�u;12701
+3202553;ES;Ibitirama;8830
+3202603;ES;Iconha;14083
+3202652;ES;Irupi;13672
+3202702;ES;Itagua�u;13982
+3202801;ES;Itapemirim;34957
+3202900;ES;Itarana;10433
+3203007;ES;I�na;29417
+3203056;ES;Jaguar�;31589
+3203106;ES;Jer�nimo Monteiro;12336
+3203130;ES;Jo�o Neiva;16774
+3203163;ES;Laranja da Terra;10919
+3203205;ES;Linhares;179755
+3203304;ES;Manten�polis;15653
+3203320;ES;Marata�zes;39259
+3203346;ES;Marechal Floriano;17141
+3203353;ES;Maril�ndia;13091
+3203403;ES;Mimoso do Sul;26079
+3203502;ES;Montanha;18954
+3203601;ES;Mucurici;5468
+3203700;ES;Muniz Freire;17176
+3203809;ES;Muqui;15602
+3203908;ES;Nova Ven�cia;50751
+3204005;ES;Pancas;23426
+3204054;ES;Pedro Can�rio;26575
+3204104;ES;Pinheiros;27601
+3204203;ES;Pi�ma;22388
+3204252;ES;Ponto Belo;8016
+3204302;ES;Presidente Kennedy;11741
+3204351;ES;Rio Bananal;19398
+3204401;ES;Rio Novo do Sul;11630
+3204500;ES;Santa Leopoldina;12171
+3204559;ES;Santa Maria de Jetib�;41588
+3204609;ES;Santa Teresa;23853
+3204658;ES;S�o Domingos do Norte;8735
+3204708;ES;S�o Gabriel da Palha;39085
+3204807;ES;S�o Jos� do Cal�ado;10536
+3204906;ES;S�o Mateus;134629
+3204955;ES;S�o Roque do Cana�;12602
+3205002;ES;Serra;536765
+3205010;ES;Sooretama;31278
+3205036;ES;Vargem Alta;21778
+3205069;ES;Venda Nova do Imigrante;26204
+3205101;ES;Viana;80735
+3205150;ES;Vila Pav�o;9280
+3205176;ES;Vila Val�rio;14065
+3205200;ES;Vila Velha;508655
+3205309;ES;Vit�ria;vitoria
+3300100;RJ;Angra dos Reis;210171
+3300159;RJ;Aperib�;12036
+3300209;RJ;Araruama;136109
+3300225;RJ;Areal;12763
+3300233;RJ;Arma��o dos B�zios;35060
+3300258;RJ;Arraial do Cabo;30827
+3300308;RJ;Barra do Pira�;101139
+3300407;RJ;Barra Mansa;185237
+3300456;RJ;Belford Roxo;515239
+3300506;RJ;Bom Jardim;27779
+3300605;RJ;Bom Jesus do Itabapoana;37306
+3300704;RJ;Cabo Frio;234077
+3300803;RJ;Cachoeiras de Macacu;59652
+3300902;RJ;Cambuci;15521
+3300936;RJ;Carapebus;16859
+3300951;RJ;Comendador Levy Gasparian;8590
+3301009;RJ;Campos dos Goytacazes;514643
+3301108;RJ;Cantagalo;20163
+3301157;RJ;Cardoso Moreira;12818
+3301207;RJ;Carmo;19161
+3301306;RJ;Casimiro de Abreu;45864
+3301405;RJ;Concei��o de Macabu;23561
+3301504;RJ;Cordeiro;22152
+3301603;RJ;Duas Barras;11563
+3301702;RJ;Duque de Caxias;929449
+3301801;RJ;Engenheiro Paulo de Frontin;14138
+3301850;RJ;Guapimirim;62225
+3301876;RJ;Iguaba Grande;29344
+3301900;RJ;Itabora�;244416
+3302007;RJ;Itagua�;136547
+3302056;RJ;Italva;15387
+3302106;RJ;Itaocara;23211
+3302205;RJ;Itaperuna;104354
+3302254;RJ;Itatiaia;32312
+3302270;RJ;Japeri;106296
+3302304;RJ;Laje do Muria�;7298
+3302403;RJ;Maca�;266136
+3302452;RJ;Macuco;5646
+3302502;RJ;Mag�;247741
+3302601;RJ;Mangaratiba;45941
+3302700;RJ;Maric�;167668
+3302809;RJ;Mendes;18681
+3302858;RJ;Mesquita;177016
+3302908;RJ;Miguel Pereira;25622
+3303005;RJ;Miracema;27134
+3303104;RJ;Natividade;15305
+3303203;RJ;Nil�polis;162893
+3303302;RJ;Niter�i;516981
+3303401;RJ;Nova Friburgo;191664
+3303500;RJ;Nova Igua�u;825388
+3303609;RJ;Paracambi;53093
+3303708;RJ;Para�ba do Sul;44741
+3303807;RJ;Paraty;44175
+3303856;RJ;Paty do Alferes;27942
+3303906;RJ;Petr�polis;307144
+3303955;RJ;Pinheiral;25563
+3304003;RJ;Pira�;29802
+3304102;RJ;Porci�ncula;19068
+3304110;RJ;Porto Real;20254
+3304128;RJ;Quatis;14562
+3304144;RJ;Queimados;152311
+3304151;RJ;Quissam�;25535
+3304201;RJ;Resende;133244
+3304300;RJ;Rio Bonito;60930
+3304409;RJ;Rio Claro;18677
+3304508;RJ;Rio das Flores;9401
+3304524;RJ;Rio das Ostras;159529
+3304557;RJ;Rio de Janeiro;rio-de-janeiro
+3304607;RJ;Santa Maria Madalena;10380
+3304706;RJ;Santo Ant�nio de P�dua;42705
+3304755;RJ;S�o Francisco de Itabapoana;42214
+3304805;RJ;S�o Fid�lis;38749
+3304904;RJ;S�o Gon�alo;1098357
+3305000;RJ;S�o Jo�o da Barra;36731
+3305109;RJ;S�o Jo�o de Meriti;473385
+3305133;RJ;S�o Jos� de Ub�;7240
+3305158;RJ;S�o Jos� do Vale do Rio Preto;22032
+3305208;RJ;S�o Pedro da Aldeia;107556
+3305307;RJ;S�o Sebasti�o do Alto;9416
+3305406;RJ;Sapucaia;18270
+3305505;RJ;Saquarema;91938
+3305554;RJ;Serop�dica;83841
+3305604;RJ;Silva Jardim;21775
+3305703;RJ;Sumidouro;15709
+3305752;RJ;Tangu�;34898
+3305802;RJ;Teres�polis;185820
+3305901;RJ;Trajano de Moraes;10653
+3306008;RJ;Tr�s Rios;82468
+3306107;RJ;Valen�a;77202
+3306156;RJ;Varre-Sai;11208
+3306206;RJ;Vassouras;37262
+3306305;RJ;Volta Redonda;274925
+3500105;SP;Adamantina;35153
+3500204;SP;Adolfo;3545
+3500303;SP;Agua�;36981
+3500402;SP;�guas da Prata;8262
+3500501;SP;�guas de Lind�ia;18908
+3500550;SP;�guas de Santa B�rbara;6142
+3500600;SP;�guas de S�o Pedro;3588
+3500709;SP;Agudos;37582
+3500758;SP;Alambari;6231
+3500808;SP;Alfredo Marcondes;4201
+3500907;SP;Altair;4211
+3501004;SP;Altin�polis;16221
+3501103;SP;Alto Alegre;4078
+3501152;SP;Alum�nio;18903
+3501202;SP;�lvares Florence;3616
+3501301;SP;�lvares Machado;25078
+3501400;SP;�lvaro de Carvalho;5320
+3501509;SP;Alvinl�ndia;3251
+3501608;SP;Americana;244370
+3501707;SP;Am�rico Brasiliense;41545
+3501806;SP;Am�rico de Campos;5993
+3501905;SP;Amparo;73145
+3502002;SP;Anal�ndia;5115
+3502101;SP;Andradina;57245
+3502200;SP;Angatuba;25724
+3502309;SP;Anhembi;6911
+3502408;SP;Anhumas;4172
+3502507;SP;Aparecida;36211
+3502606;SP;Aparecida d'Oeste;4122
+3502705;SP;Apia�;24081
+3502754;SP;Ara�ariguama;23343
+3502804;SP;Ara�atuba;199210
+3502903;SP;Ara�oiaba da Serra;35389
+3503000;SP;Aramina;5689
+3503109;SP;Arandu;6373
+3503158;SP;Arape�;2452
+3503208;SP;Araraquara;240542
+3503307;SP;Araras;136739
+3503356;SP;Arco-�ris;1755
+3503406;SP;Arealva;8665
+3503505;SP;Areias;3906
+3503604;SP;Arei�polis;11186
+3503703;SP;Ariranha;9851
+3503802;SP;Artur Nogueira;56247
+3503901;SP;Aruj�;92453
+3503950;SP;Asp�sia;1815
+3504008;SP;Assis;105768
+3504107;SP;Atibaia;145378
+3504206;SP;Auriflama;15316
+3504305;SP;Ava�;5467
+3504404;SP;Avanhandava;14063
+3504503;SP;Avar�;91792
+3504602;SP;Bady Bassitt;18013
+3504701;SP;Balbinos;6127
+3504800;SP;B�lsamo;9209
+3504909;SP;Bananal;11039
+3505005;SP;Bar�o de Antonina;3525
+3505104;SP;Barbosa;7532
+3505203;SP;Bariri;35844
+3505302;SP;Barra Bonita;36125
+3505351;SP;Barra do Chap�u;5794
+3505401;SP;Barra do Turvo;7606
+3505500;SP;Barretos;123546
+3505609;SP;Barrinha;33537
+3505708;SP;Barueri;279704
+3505807;SP;Bastos;20952
+3505906;SP;Batatais;63438
+3506003;SP;Bauru;381706
+3506102;SP;Bebedouro;77612
+3506201;SP;Bento de Abreu;3028
+3506300;SP;Bernardino de Campos;11168
+3506359;SP;Bertioga;66154
+3506409;SP;Bilac;8197
+3506508;SP;Birigui;126094
+3506607;SP;Biritiba-Mirim;33265
+3506706;SP;Boa Esperan�a do Sul;15111
+3506805;SP;Bocaina;12571
+3506904;SP;Bofete;12107
+3507001;SP;Boituva;63310
+3507100;SP;Bom Jesus dos Perd�es;26506
+3507159;SP;Bom Sucesso de Itarar�;4013
+3507209;SP;Bor�;839
+3507308;SP;Borac�ia;4913
+3507407;SP;Borborema;16278
+3507456;SP;Borebi;2713
+3507506;SP;Botucatu;149718
+3507605;SP;Bragan�a Paulista;172346
+3507704;SP;Bra�na;5795
+3507753;SP;Brejo Alegre;2911
+3507803;SP;Brodowski;25605
+3507902;SP;Brotas;24862
+3508009;SP;Buri;20050
+3508108;SP;Buritama;17414
+3508207;SP;Buritizal;4547
+3508306;SP;Cabr�lia Paulista;4222
+3508405;SP;Cabre�va;51130
+3508504;SP;Ca�apava;95752
+3508603;SP;Cachoeira Paulista;33827
+3508702;SP;Caconde;19031
+3508801;SP;Cafel�ndia;17917
+3508900;SP;Caiabu;4195
+3509007;SP;Caieiras;104044
+3509106;SP;Caiu�;6017
+3509205;SP;Cajamar;79034
+3509254;SP;Cajati;28441
+3509304;SP;Cajobi;10649
+3509403;SP;Cajuru;26613
+3509452;SP;Campina do Monte Alegre;6088
+3509502;SP;Campinas;1223237
+3509601;SP;Campo Limpo Paulista;86407
+3509700;SP;Campos do Jord�o;52713
+3509809;SP;Campos Novos Paulista;5028
+3509908;SP;Canan�ia;12542
+3509957;SP;Canas;5268
+3510005;SP;C�ndido Mota;31410
+3510104;SP;C�ndido Rodrigues;2805
+3510153;SP;Canitar;5365
+3510203;SP;Cap�o Bonito;47098
+3510302;SP;Capela do Alto;21257
+3510401;SP;Capivari;56973
+3510500;SP;Caraguatatuba;125194
+3510609;SP;Carapicu�ba;405375
+3510708;SP;Cardoso;12371
+3510807;SP;Casa Branca;30655
+3510906;SP;C�ssia dos Coqueiros;2488
+3511003;SP;Castilho;21521
+3511102;SP;Catanduva;123114
+3511201;SP;Catigu�;7905
+3511300;SP;Cedral;9452
+3511409;SP;Cerqueira C�sar;20391
+3511508;SP;Cerquilho;50631
+3511607;SP;Ces�rio Lange;18595
+3511706;SP;Charqueada;17539
+3511904;SP;Clementina;8894
+3512001;SP;Colina;18601
+3512100;SP;Col�mbia;6223
+3512209;SP;Conchal;28491
+3512308;SP;Conchas;18138
+3512407;SP;Cordeir�polis;25116
+3512506;SP;Coroados;6197
+3512605;SP;Coronel Macedo;4591
+3512704;SP;Corumbata�;4072
+3512803;SP;Cosm�polis;74662
+3512902;SP;Cosmorama;7289
+3513009;SP;Cotia;257882
+3513108;SP;Cravinhos;35858
+3513207;SP;Cristais Paulista;8803
+3513306;SP;Cruz�lia;2021
+3513405;SP;Cruzeiro;82895
+3513504;SP;Cubat�o;132521
+3513603;SP;Cunha;21373
+3513702;SP;Descalvado;34097
+3513801;SP;Diadema;429550
+3513850;SP;Dirce Reis;1805
+3513900;SP;Divinol�ndia;11027
+3514007;SP;Dobrada;9088
+3514106;SP;Dois C�rregos;27704
+3514205;SP;Dolcin�polis;2108
+3514304;SP;Dourado;8883
+3514403;SP;Dracena;47287
+3514502;SP;Duartina;12421
+3514601;SP;Dumont;10174
+3514700;SP;Echapor�;6026
+3514809;SP;Eldorado;15592
+3514908;SP;Elias Fausto;18095
+3514924;SP;Elisi�rio;3742
+3514957;SP;Emba�ba;2446
+3515004;SP;Embu das Artes;279264
+3515103;SP;Embu-Gua�u;70402
+3515129;SP;Emilian�polis;3238
+3515152;SP;Engenheiro Coelho;21712
+3515186;SP;Esp�rito Santo do Pinhal;44607
+3515194;SP;Esp�rito Santo do Turvo;4926
+3515202;SP;Estrela d'Oeste;8420
+3515301;SP;Estrela do Norte;2774
+3515350;SP;Euclides da Cunha Paulista;9280
+3515400;SP;Fartura;16102
+3515509;SP;Fernand�polis;69680
+3515608;SP;Fernando Prestes;5805
+3515657;SP;Fern�o;1739
+3515707;SP;Ferraz de Vasconcelos;198661
+3515806;SP;Flora Rica;1397
+3515905;SP;Floreal;2884
+3516002;SP;Fl�rida Paulista;14936
+3516101;SP;Flor�nea;2631
+3516200;SP;Franca;358539
+3516309;SP;Francisco Morato;179372
+3516408;SP;Franco da Rocha;158438
+3516507;SP;Gabriel Monteiro;2776
+3516606;SP;G�lia;6419
+3516705;SP;Gar�a;44429
+3516804;SP;Gast�o Vidigal;4911
+3516853;SP;Gavi�o Peixoto;4841
+3516903;SP;General Salgado;10855
+3517000;SP;Getulina;11485
+3517109;SP;Glic�rio;4842
+3517208;SP;Guai�ara;12416
+3517307;SP;Guaimb�;5806
+3517406;SP;Gua�ra;41283
+3517505;SP;Guapia�u;22087
+3517604;SP;Guapiara;16896
+3517703;SP;Guar�;21394
+3517802;SP;Guara�a�;8258
+3517901;SP;Guaraci;11382
+3518008;SP;Guarani d'Oeste;1996
+3518107;SP;Guarant�;6685
+3518206;SP;Guararapes;33257
+3518305;SP;Guararema;30465
+3518404;SP;Guaratinguet�;123192
+3518503;SP;Guare�;19244
+3518602;SP;Guariba;40857
+3518701;SP;Guaruj�;324977
+3518800;SP;Guarulhos;1404694
+3518859;SP;Guatapar�;7760
+3518909;SP;Guzol�ndia;5346
+3519006;SP;Hercul�ndia;9649
+3519055;SP;Holambra;15605
+3519071;SP;Hortol�ndia;237570
+3519105;SP;Iacanga;12002
+3519204;SP;Iacri;6269
+3519253;SP;Iaras;9786
+3519303;SP;Ibat�;35830
+3519402;SP;Ibir�;12639
+3519501;SP;Ibirarema;7926
+3519600;SP;Ibitinga;61150
+3519709;SP;Ibi�na;80062
+3519808;SP;Ic�m;8363
+3519907;SP;Iep�;8228
+3520004;SP;Igara�u do Tiet�;24821
+3520103;SP;Igarapava;30791
+3520202;SP;Igarat�;9631
+3520301;SP;Iguape;31117
+3520400;SP;Ilhabela;36194
+3520426;SP;Ilha Comprida;11552
+3520442;SP;Ilha Solteira;26886
+3520509;SP;Indaiatuba;260690
+3520608;SP;Indiana;4873
+3520707;SP;Indiapor�;3876
+3520806;SP;In�bia Paulista;4045
+3520905;SP;Ipaussu;15165
+3521002;SP;Iper�;38771
+3521101;SP;Ipe�na;7824
+3521150;SP;Ipigu�;5557
+3521200;SP;Iporanga;4180
+3521309;SP;Ipu�;16794
+3521408;SP;Iracem�polis;24982
+3521507;SP;Irapu�;8101
+3521606;SP;Irapuru;8356
+3521705;SP;Itaber�;17405
+3521804;SP;Ita�;27632
+3521903;SP;Itajobi;15331
+3522000;SP;Itaju;3937
+3522109;SP;Itanha�m;104351
+3522158;SP;Ita�ca;3332
+3522208;SP;Itapecerica da Serra;179574
+3522307;SP;Itapetininga;167106
+3522406;SP;Itapeva;95241
+3522505;SP;Itapevi;244131
+3522604;SP;Itapira;75683
+3522653;SP;Itapirapu� Paulista;4294
+3522703;SP;It�polis;43536
+3522802;SP;Itaporanga;15197
+3522901;SP;Itapu�;14297
+3523008;SP;Itapura;4994
+3523107;SP;Itaquaquecetuba;379082
+3523206;SP;Itarar�;50778
+3523305;SP;Itariri;17754
+3523404;SP;Itatiba;124254
+3523503;SP;Itatinga;21139
+3523602;SP;Itirapina;18610
+3523701;SP;Itirapu�;6587
+3523800;SP;Itobi;7862
+3523909;SP;Itu;177150
+3524006;SP;Itupeva;64330
+3524105;SP;Ituverava;42259
+3524204;SP;Jaborandi;6963
+3524303;SP;Jaboticabal;78029
+3524402;SP;Jacare�;237119
+3524501;SP;Jaci;7322
+3524600;SP;Jacupiranga;17911
+3524709;SP;Jaguari�na;59921
+3524808;SP;Jales;49291
+3524907;SP;Jambeiro;6828
+3525003;SP;Jandira;127734
+3525102;SP;Jardin�polis;45544
+3525201;SP;Jarinu;31173
+3525300;SP;Ja�;153463
+3525409;SP;Jeriquara;3143
+3525508;SP;Joan�polis;13453
+3525607;SP;Jo�o Ramalho;4577
+3525706;SP;Jos� Bonif�cio;37707
+3525805;SP;J�lio Mesquita;4824
+3525854;SP;Jumirim;3467
+3525904;SP;Jundia�;426935
+3526001;SP;Junqueir�polis;20978
+3526100;SP;Juqui�;18627
+3526209;SP;Juquitiba;31844
+3526308;SP;Lagoinha;4882
+3526407;SP;Laranjal Paulista;29047
+3526506;SP;Lav�nia;12581
+3526605;SP;Lavrinhas;7361
+3526704;SP;Leme;105273
+3526803;SP;Len��is Paulista;69533
+3526902;SP;Limeira;310783
+3527009;SP;Lind�ia;8201
+3527108;SP;Lins;78978
+3527207;SP;Lorena;89532
+3527256;SP;Lourdes;2311
+3527306;SP;Louveira;51007
+3527405;SP;Luc�lia;22022
+3527504;SP;Lucian�polis;2412
+3527603;SP;Lu�s Ant�nio;15628
+3527702;SP;Luizi�nia;5918
+3527801;SP;Lup�rcio;4608
+3527900;SP;Lut�cia;2623
+3528007;SP;Macatuba;17263
+3528106;SP;Macaubal;8174
+3528205;SP;Maced�nia;3686
+3528304;SP;Magda;3086
+3528403;SP;Mairinque;47723
+3528502;SP;Mairipor�;103645
+3528601;SP;Manduri;9972
+3528700;SP;Marab� Paulista;6039
+3528809;SP;Maraca�;14069
+3528858;SP;Marapoama;3097
+3528908;SP;Mari�polis;4098
+3529005;SP;Mar�lia;242249
+3529104;SP;Marin�polis;2101
+3529203;SP;Martin�polis;26791
+3529302;SP;Mat�o;84069
+3529401;SP;Mau�;481725
+3529500;SP;Mendon�a;5638
+3529609;SP;Meridiano;3813
+3529658;SP;Mes�polis;1903
+3529708;SP;Miguel�polis;22480
+3529807;SP;Mineiros do Tiet�;13023
+3529906;SP;Miracatu;19511
+3530003;SP;Mira Estrela;3125
+3530102;SP;Mirand�polis;29844
+3530201;SP;Mirante do Paranapanema;18415
+3530300;SP;Mirassol;60768
+3530409;SP;Mirassol�ndia;4966
+3530508;SP;Mococa;69072
+3530607;SP;Mogi das Cruzes;455587
+3530706;SP;Mogi Gua�u;154146
+3530805;SP;Mogi Mirim;94098
+3530904;SP;Mombuca;3523
+3531001;SP;Mon��es;2274
+3531100;SP;Mongagu�;58567
+3531209;SP;Monte Alegre do Sul;8181
+3531308;SP;Monte Alto;51039
+3531407;SP;Monte Apraz�vel;25651
+3531506;SP;Monte Azul Paulista;18928
+3531605;SP;Monte Castelo;4166
+3531704;SP;Monteiro Lobato;4739
+3531803;SP;Monte Mor;61707
+3531902;SP;Morro Agudo;33598
+3532009;SP;Morungaba;13936
+3532058;SP;Motuca;4831
+3532108;SP;Murutinga do Sul;4525
+3532157;SP;Nantes;3215
+3532207;SP;Narandiba;4950
+3532306;SP;Natividade da Serra;6624
+3532405;SP;Nazar� Paulista;18866
+3532504;SP;Neves Paulista;8917
+3532603;SP;Nhandeara;11575
+3532702;SP;Nipo�;5381
+3532801;SP;Nova Alian�a;7161
+3532827;SP;Nova Campina;9962
+3532843;SP;Nova Cana� Paulista;1824
+3532868;SP;Nova Castilho;1290
+3532900;SP;Nova Europa;11519
+3533007;SP;Nova Granada;21871
+3533106;SP;Nova Guataporanga;2333
+3533205;SP;Nova Independ�ncia;4135
+3533254;SP;Novais;6057
+3533304;SP;Nova Luzit�nia;4217
+3533403;SP;Nova Odessa;61716
+3533502;SP;Novo Horizonte;41765
+3533601;SP;Nuporanga;7522
+3533700;SP;Ocau�u;4294
+3533809;SP;�leo;2447
+3533908;SP;Ol�mpia;55477
+3534005;SP;Onda Verde;4462
+3534104;SP;Oriente;6569
+3534203;SP;Orindi�va;7318
+3534302;SP;Orl�ndia;44682
+3534401;SP;Osasco;701428
+3534500;SP;Oscar Bressane;2603
+3534609;SP;Osvaldo Cruz;33118
+3534708;SP;Ourinhos;115139
+3534757;SP;Ouroeste;10712
+3534807;SP;Ouro Verde;8676
+3534906;SP;Pacaembu;14326
+3535002;SP;Palestina;13285
+3535101;SP;Palmares Paulista;13691
+3535200;SP;Palmeira d'Oeste;9173
+3535309;SP;Palmital;22322
+3535408;SP;Panorama;15944
+3535507;SP;Paragua�u Paulista;46180
+3535606;SP;Paraibuna;18302
+3535705;SP;Para�so;6536
+3535804;SP;Paranapanema;20588
+3535903;SP;Paranapu�;4112
+3536000;SP;Parapu�;10934
+3536109;SP;Pardinho;6579
+3536208;SP;Pariquera-A�u;19797
+3536257;SP;Parisi;2177
+3536307;SP;Patroc�nio Paulista;14941
+3536406;SP;Paulic�ia;7540
+3536505;SP;Paul�nia;114508
+3536570;SP;Paulist�nia;1835
+3536604;SP;Paulo de Faria;8973
+3536703;SP;Pederneiras;47523
+3536802;SP;Pedra Bela;6127
+3536901;SP;Pedran�polis;2468
+3537008;SP;Pedregulho;16876
+3537107;SP;Pedreira;48992
+3537156;SP;Pedrinhas Paulista;3109
+3537206;SP;Pedro de Toledo;11507
+3537305;SP;Pen�polis;64098
+3537404;SP;Pereira Barreto;25685
+3537503;SP;Pereiras;8875
+3537602;SP;Peru�be;69697
+3537701;SP;Piacatu;6093
+3537800;SP;Piedade;55731
+3537909;SP;Pilar do Sul;29612
+3538006;SP;Pindamonhangaba;171885
+3538105;SP;Pindorama;17378
+3538204;SP;Pinhalzinho;15564
+3538303;SP;Piquerobi;3706
+3538501;SP;Piquete;13495
+3538600;SP;Piracaia;27617
+3538709;SP;Piracicaba;410275
+3538808;SP;Piraju;29930
+3538907;SP;Piraju�;25939
+3539004;SP;Pirangi;11524
+3539103;SP;Pirapora do Bom Jesus;19453
+3539202;SP;Pirapozinho;27974
+3539301;SP;Pirassununga;77330
+3539400;SP;Piratininga;13890
+3539509;SP;Pitangueiras;40430
+3539608;SP;Planalto;5370
+3539707;SP;Platina;3606
+3539806;SP;Po�;119221
+3539905;SP;Poloni;6166
+3540002;SP;Pompeia;22326
+3540101;SP;Ponga�;3385
+3540200;SP;Pontal;51717
+3540259;SP;Pontalinda;4719
+3540309;SP;Pontes Gestal;2576
+3540408;SP;Populina;4136
+3540507;SP;Porangaba;10205
+3540606;SP;Porto Feliz;53698
+3540705;SP;Porto Ferreira;56848
+3540754;SP;Potim;25603
+3540804;SP;Potirendaba;17668
+3540853;SP;Pracinha;4327
+3540903;SP;Prad�polis;22239
+3541000;SP;Praia Grande;336454
+3541059;SP;Prat�nia;5371
+3541109;SP;Presidente Alves;4067
+3541208;SP;Presidente Bernardes;12943
+3541307;SP;Presidente Epit�cio;44572
+3541406;SP;Presidente Prudente;231953
+3541505;SP;Presidente Venceslau;39648
+3541604;SP;Promiss�o;41211
+3541653;SP;Quadra;3902
+3541703;SP;Quat�;14309
+3541802;SP;Queiroz;3513
+3541901;SP;Queluz;13788
+3542008;SP;Quintana;6736
+3542107;SP;Rafard;9126
+3542206;SP;Rancharia;29743
+3542305;SP;Reden��o da Serra;3827
+3542404;SP;Regente Feij�;20523
+3542503;SP;Regin�polis;10047
+3542602;SP;Registro;56463
+3542701;SP;Restinga;7762
+3542800;SP;Ribeira;3320
+3542909;SP;Ribeir�o Bonito;13376
+3543006;SP;Ribeir�o Branco;15984
+3543105;SP;Ribeir�o Corrente;4786
+3543204;SP;Ribeir�o do Sul;4537
+3543238;SP;Ribeir�o dos �ndios;2222
+3543253;SP;Ribeir�o Grande;7686
+3543303;SP;Ribeir�o Pires;125238
+3543402;SP;Ribeir�o Preto;720116
+3543501;SP;Riversul;5364
+3543600;SP;Rifaina;3651
+3543709;SP;Rinc�o;10824
+3543808;SP;Rin�polis;9940
+3543907;SP;Rio Claro;209548
+3544004;SP;Rio das Pedras;36233
+3544103;SP;Rio Grande da Serra;52009
+3544202;SP;Riol�ndia;12856
+3544251;SP;Rosana;15929
+3544301;SP;Roseira;10888
+3544400;SP;Rubi�cea;3195
+3544509;SP;Rubin�ia;3191
+3544608;SP;Sabino;5638
+3544707;SP;Sagres;2427
+3544806;SP;Sales;6481
+3544905;SP;Sales Oliveira;12103
+3545001;SP;Sales�polis;17363
+3545100;SP;Salmour�o;5372
+3545159;SP;Saltinho;8498
+3545209;SP;Salto;120779
+3545308;SP;Salto de Pirapora;46285
+3545407;SP;Salto Grande;9396
+3545506;SP;Sandovalina;4405
+3545605;SP;Santa Ad�lia;15639
+3545704;SP;Santa Albertina;6036
+3545803;SP;Santa B�rbara d'Oeste;195278
+3546009;SP;Santa Branca;14925
+3546108;SP;Santa Clara d'Oeste;2111
+3546207;SP;Santa Cruz da Concei��o;4584
+3546256;SP;Santa Cruz da Esperan�a;2166
+3546306;SP;Santa Cruz das Palmeiras;35102
+3546405;SP;Santa Cruz do Rio Pardo;48207
+3546504;SP;Santa Ernestina;5577
+3546603;SP;Santa F� do Sul;32796
+3546702;SP;Santa Gertrudes;27850
+3546801;SP;Santa Isabel;58529
+3546900;SP;Santa L�cia;8889
+3547007;SP;Santa Maria da Serra;6298
+3547106;SP;Santa Mercedes;2947
+3547205;SP;Santana da Ponte Pensa;1448
+3547304;SP;Santana de Parna�ba;145073
+3547403;SP;Santa Rita d'Oeste;2476
+3547502;SP;Santa Rita do Passa Quatro;27641
+3547601;SP;Santa Rosa de Viterbo;26960
+3547650;SP;Santa Salete;1558
+3547700;SP;Santo Anast�cio;20855
+3547809;SP;Santo Andr�;723889
+3547908;SP;Santo Ant�nio da Alegria;7024
+3548005;SP;Santo Ant�nio de Posse;23742
+3548054;SP;Santo Ant�nio do Aracangu�;8541
+3548104;SP;Santo Ant�nio do Jardim;5926
+3548203;SP;Santo Ant�nio do Pinhal;6843
+3548302;SP;Santo Expedito;3159
+3548401;SP;Sant�polis do Aguape�;4856
+3548500;SP;Santos;433991
+3548609;SP;S�o Bento do Sapuca�;10907
+3548708;SP;S�o Bernardo do Campo;849874
+3548807;SP;S�o Caetano do Sul;162763
+3548906;SP;S�o Carlos;256915
+3549003;SP;S�o Francisco;2813
+3549102;SP;S�o Jo�o da Boa Vista;92315
+3549201;SP;S�o Jo�o das Duas Pontes;2555
+3549250;SP;S�o Jo�o de Iracema;1942
+3549300;SP;S�o Jo�o do Pau d'Alho;2095
+3549409;SP;S�o Joaquim da Barra;52737
+3549508;SP;S�o Jos� da Bela Vista;8991
+3549607;SP;S�o Jos� do Barreiro;4141
+3549706;SP;S�o Jos� do Rio Pardo;55298
+3549805;SP;S�o Jos� do Rio Preto;469173
+3549904;SP;S�o Jos� dos Campos;737310
+3549953;SP;S�o Louren�o da Serra;16127
+3550001;SP;S�o Luiz do Paraitinga;10693
+3550100;SP;S�o Manuel;41287
+3550209;SP;S�o Miguel Arcanjo;33071
+3550308;SP;S�o Paulo;sao-paulo
+3550407;SP;S�o Pedro;36298
+3550506;SP;S�o Pedro do Turvo;7724
+3550605;SP;S�o Roque;93076
+3550704;SP;S�o Sebasti�o;91637
+3550803;SP;S�o Sebasti�o da Grama;12137
+3550902;SP;S�o Sim�o;15446
+3551009;SP;S�o Vicente;370839
+3551108;SP;Sarapu�;10493
+3551207;SP;Sarutai�;3623
+3551306;SP;Sebastian�polis do Sul;3595
+3551405;SP;Serra Azul;15292
+3551504;SP;Serrana;46166
+3551603;SP;Serra Negra;29669
+3551702;SP;Sert�ozinho;128432
+3551801;SP;Sete Barras;12731
+3551900;SP;Sever�nia;17820
+3552007;SP;Silveiras;6375
+3552106;SP;Socorro;41690
+3552205;SP;Sorocaba;695328
+3552304;SP;Sud Mennucci;7738
+3552403;SP;Sumar�;289875
+3552502;SP;Suzano;303397
+3552551;SP;Suzan�polis;4063
+3552601;SP;Tabapu�;12561
+3552700;SP;Tabatinga;16787
+3552809;SP;Tabo�o da Serra;297528
+3552908;SP;Taciba;6371
+3553005;SP;Tagua�;14415
+3553104;SP;Taia�u;6346
+3553203;SP;Tai�va;5562
+3553302;SP;Tamba�;23255
+3553401;SP;Tanabi;26231
+3553500;SP;Tapira�;7725
+3553609;SP;Tapiratiba;12940
+3553658;SP;Taquaral;2815
+3553708;SP;Taquaritinga;57547
+3553807;SP;Taquarituba;23292
+3553856;SP;Taquariva�;5968
+3553906;SP;Tarabai;7609
+3553955;SP;Tarum�;15361
+3554003;SP;Tatu�;124134
+3554102;SP;Taubat�;320820
+3554201;SP;Tejup�;4452
+3554300;SP;Teodoro Sampaio;23395
+3554409;SP;Terra Roxa;9502
+3554508;SP;Tiet�;42946
+3554607;SP;Timburi;2647
+3554656;SP;Torre de Pedra;2432
+3554706;SP;Torrinha;10100
+3554755;SP;Trabiju;1752
+3554805;SP;Trememb�;48228
+3554904;SP;Tr�s Fronteiras;5856
+3554953;SP;Tuiuti;7058
+3555000;SP;Tup�;65615
+3555109;SP;Tupi Paulista;15670
+3555208;SP;Turi�ba;2024
+3555307;SP;Turmalina;1667
+3555356;SP;Ubarana;6488
+3555406;SP;Ubatuba;92819
+3555505;SP;Ubirajara;4828
+3555604;SP;Uchoa;10191
+3555703;SP;Uni�o Paulista;1886
+3555802;SP;Ur�nia;9125
+3555901;SP;Uru;1142
+3556008;SP;Urup�s;13965
+3556107;SP;Valentim Gentil;13732
+3556206;SP;Valinhos;133169
+3556305;SP;Valpara�so;27154
+3556354;SP;Vargem;10842
+3556404;SP;Vargem Grande do Sul;43368
+3556453;SP;Vargem Grande Paulista;54315
+3556503;SP;V�rzea Paulista;124269
+3556602;SP;Vera Cruz;10804
+3556701;SP;Vinhedo;81516
+3556800;SP;Viradouro;19133
+3556909;SP;Vista Alegre do Alto;9163
+3556958;SP;Vit�ria Brasil;1852
+3557006;SP;Votorantim;124468
+3557105;SP;Votuporanga;96106
+3557154;SP;Zacarias;2784
+3557204;SP;Chavantes;12418
+3557303;SP;Estiva Gerbi;11507
+4100103;PR;Abati�;7360
+4100202;PR;Adrian�polis;5797
+4100301;PR;Agudos do Sul;9567
+4100400;PR;Almirante Tamandar�;121420
+4100459;PR;Altamira do Paran�;1429
+4100509;PR;Alt�nia;22293
+4100608;PR;Alto Paran�;14945
+4100707;PR;Alto Piquiri;9722
+4100806;PR;Alvorada do Sul;11598
+4100905;PR;Amapor�;6405
+4101002;PR;Amp�re;19466
+4101051;PR;Anahy;2774
+4101101;PR;Andir�;19823
+4101150;PR;�ngulo;2931
+4101200;PR;Antonina;18919
+4101309;PR;Ant�nio Olinto;7421
+4101408;PR;Apucarana;137438
+4101507;PR;Arapongas;126545
+4101606;PR;Arapoti;28480
+4101655;PR;Arapu�;2951
+4101705;PR;Araruna;14029
+4101804;PR;Arauc�ria;148522
+4101853;PR;Ariranha do Iva�;2026
+4101903;PR;Assa�;14792
+4102000;PR;Assis Chateaubriand;33306
+4102109;PR;Astorga;26304
+4102208;PR;Atalaia;3871
+4102307;PR;Balsa Nova;13238
+4102406;PR;Bandeirantes;31061
+4102505;PR;Barbosa Ferraz;11287
+4102604;PR;Barrac�o;10347
+4102703;PR;Barra do Jacar�;2781
+4102752;PR;Bela Vista da Caroba;3404
+4102802;PR;Bela Vista do Para�so;15400
+4102901;PR;Bituruna;16411
+4103008;PR;Boa Esperan�a;3991
+4103024;PR;Boa Esperan�a do Igua�u;2437
+4103040;PR;Boa Ventura de S�o Roque;6343
+4103057;PR;Boa Vista da Aparecida;7524
+4103107;PR;Bocai�va do Sul;13308
+4103156;PR;Bom Jesus do Sul;3472
+4103206;PR;Bom Sucesso;7103
+4103222;PR;Bom Sucesso do Sul;3244
+4103305;PR;Borraz�polis;6290
+4103354;PR;Braganey;5338
+4103370;PR;Brasil�ndia do Sul;2521
+4103404;PR;Cafeara;2973
+4103453;PR;Cafel�ndia;18783
+4103479;PR;Cafezal do Sul;3975
+4103503;PR;Calif�rnia;8641
+4103602;PR;Cambar�;25569
+4103701;PR;Camb�;108126
+4103800;PR;Cambira;7967
+4103909;PR;Campina da Lagoa;13888
+4103958;PR;Campina do Sim�o;3831
+4104006;PR;Campina Grande do Sul;44072
+4104055;PR;Campo Bonito;3694
+4104105;PR;Campo do Tenente;8118
+4104204;PR;Campo Largo;135678
+4104253;PR;Campo Magro;30151
+4104303;PR;Campo Mour�o;96102
+4104402;PR;C�ndido de Abreu;14606
+4104428;PR;Cand�i;16126
+4104451;PR;Cantagalo;13340
+4104501;PR;Capanema;19172
+4104600;PR;Capit�o Le�nidas Marques;15887
+4104659;PR;Carambe�;24225
+4104709;PR;Carl�polis;14391
+4104808;PR;Cascavel;336073
+4104907;PR;Castro;72125
+4105003;PR;Catanduvas;10144
+4105102;PR;Centen�rio do Sul;10704
+4105201;PR;Cerro Azul;17884
+4105300;PR;C�u Azul;11872
+4105409;PR;Chopinzinho;19083
+4105508;PR;Cianorte;84980
+4105607;PR;Cidade Ga�cha;12939
+4105706;PR;Clevel�ndia;16344
+4105805;PR;Colombo;249277
+4105904;PR;Colorado;24271
+4106001;PR;Congonhinhas;8896
+4106100;PR;Conselheiro Mairinck;3891
+4106209;PR;Contenda;19082
+4106308;PR;Corb�lia;17162
+4106407;PR;Corn�lio Proc�pio;47840
+4106456;PR;Coronel Domingos Soares;7538
+4106506;PR;Coronel Vivida;20430
+4106555;PR;Corumbata� do Sul;3038
+4106571;PR;Cruzeiro do Igua�u;4229
+4106605;PR;Cruzeiro do Oeste;20962
+4106704;PR;Cruzeiro do Sul;4430
+4106803;PR;Cruz Machado;18772
+4106852;PR;Cruzmaltina;2892
+4106902;PR;Curitiba;curitiba
+4107009;PR;Curi�va;15289
+4107108;PR;Diamante do Norte;4975
+4107124;PR;Diamante do Sul;3409
+4107157;PR;Diamante d'Oeste;5279
+4107207;PR;Dois Vizinhos;41424
+4107256;PR;Douradina;8988
+4107306;PR;Doutor Camargo;5987
+4107405;PR;En�as Marques;5906
+4107504;PR;Engenheiro Beltr�o;13962
+4107520;PR;Esperan�a Nova;1633
+4107538;PR;Entre Rios do Oeste;4651
+4107546;PR;Espig�o Alto do Igua�u;3980
+4107553;PR;Farol;2995
+4107603;PR;Faxinal;17379
+4107652;PR;Fazenda Rio Grande;103750
+4107702;PR;F�nix;4734
+4107736;PR;Fernandes Pinheiro;5561
+4107751;PR;Figueira;7625
+4107801;PR;Flora�;4883
+4107850;PR;Flor da Serra do Sul;4583
+4107900;PR;Floresta;6926
+4108007;PR;Florest�polis;10360
+4108106;PR;Fl�rida;2709
+4108205;PR;Formosa do Oeste;6345
+4108304;PR;Foz do Igua�u;257971
+4108320;PR;Francisco Alves;5942
+4108403;PR;Francisco Beltr�o;93308
+4108452;PR;Foz do Jord�o;4466
+4108502;PR;General Carneiro;13661
+4108551;PR;Godoy Moreira;2850
+4108601;PR;Goioer�;28734
+4108650;PR;Goioxim;6997
+4108700;PR;Grandes Rios;5379
+4108809;PR;Gua�ra;33497
+4108908;PR;Guaira��;6635
+4108957;PR;Guamiranga;8881
+4109005;PR;Guapirama;3767
+4109104;PR;Guaporema;2239
+4109203;PR;Guaraci;5557
+4109302;PR;Guarania�u;11969
+4109401;PR;Guarapuava;183755
+4109500;PR;Guaraque�aba;7554
+4109609;PR;Guaratuba;37974
+4109658;PR;Hon�rio Serpa;5030
+4109708;PR;Ibaiti;31854
+4109757;PR;Ibema;6387
+4109807;PR;Ibipor�;55688
+4109906;PR;Icara�ma;7671
+4110003;PR;Iguara�u;4475
+4110052;PR;Iguatu;2251
+4110078;PR;Imba�;13449
+4110102;PR;Imbituva;33306
+4110201;PR;In�cio Martins;11117
+4110300;PR;Inaj�;3122
+4110409;PR;Indian�polis;4472
+4110508;PR;Ipiranga;15327
+4110607;PR;Ipor�;13642
+4110656;PR;Iracema do Oeste;2216
+4110706;PR;Irati;61439
+4110805;PR;Iretama;10029
+4110904;PR;Itaguaj�;4426
+4110953;PR;Itaipul�ndia;11588
+4111001;PR;Itambarac�;6516
+4111100;PR;Itamb�;6110
+4111209;PR;Itapejara d'Oeste;12220
+4111258;PR;Itaperu�u;29493
+4111308;PR;Ita�na do Sul;2700
+4111407;PR;Iva�;14049
+4111506;PR;Ivaipor�;31886
+4111555;PR;Ivat�;8294
+4111605;PR;Ivatuba;3299
+4111704;PR;Jaboti;5332
+4111803;PR;Jacarezinho;39268
+4111902;PR;Jaguapit�;13861
+4112009;PR;Jaguaria�va;35192
+4112108;PR;Jandaia do Sul;21281
+4112207;PR;Jani�polis;4948
+4112306;PR;Japira;4929
+4112405;PR;Japur�;9573
+4112504;PR;Jardim Alegre;11067
+4112603;PR;Jardim Olinda;1309
+4112702;PR;Jataizinho;12687
+4112751;PR;Jesu�tas;8251
+4112801;PR;Joaquim T�vora;12108
+4112900;PR;Jundia� do Sul;3248
+4112959;PR;Juranda;7244
+4113007;PR;Jussara;7069
+4113106;PR;Kalor�;3996
+4113205;PR;Lapa;48651
+4113254;PR;Laranjal;5719
+4113304;PR;Laranjeiras do Sul;32167
+4113403;PR;Le�polis;3896
+4113429;PR;Lidian�polis;3155
+4113452;PR;Lindoeste;4488
+4113502;PR;Loanda;23393
+4113601;PR;Lobato;4850
+4113700;PR;Londrina;580870
+4113734;PR;Luiziana;7217
+4113759;PR;Lunardelli;4695
+4113809;PR;Lupion�polis;4969
+4113908;PR;Mallet;13697
+4114005;PR;Mambor�;12900
+4114104;PR;Mandagua�u;23373
+4114203;PR;Mandaguari;34628
+4114302;PR;Mandirituba;27750
+4114351;PR;Manfrin�polis;2442
+4114401;PR;Mangueirinha;16572
+4114500;PR;Manoel Ribas;13517
+4114609;PR;Marechal C�ndido Rondon;54031
+4114708;PR;Maria Helena;5593
+4114807;PR;Marialva;36103
+4114906;PR;Maril�ndia do Sul;8793
+4115002;PR;Marilena;7093
+4115101;PR;Mariluz;10327
+4115200;PR;Maring�;436472
+4115309;PR;Mari�polis;6655
+4115358;PR;Marip�;5562
+4115408;PR;Marmeleiro;14407
+4115457;PR;Marquinho;4283
+4115507;PR;Marumbi;4676
+4115606;PR;Matel�ndia;18266
+4115705;PR;Matinhos;35705
+4115739;PR;Mato Rico;3142
+4115754;PR;Mau� da Serra;10994
+4115804;PR;Medianeira;46940
+4115853;PR;Mercedes;5617
+4115903;PR;Mirador;2180
+4116000;PR;Miraselva;1786
+4116059;PR;Missal;10706
+4116109;PR;Moreira Sales;11966
+4116208;PR;Morretes;16485
+4116307;PR;Munhoz de Melo;4034
+4116406;PR;Nossa Senhora das Gra�as;4009
+4116505;PR;Nova Alian�a do Iva�;1560
+4116604;PR;Nova Am�rica da Colina;3424
+4116703;PR;Nova Aurora;10131
+4116802;PR;Nova Cantu;4827
+4116901;PR;Nova Esperan�a;28062
+4116950;PR;Nova Esperan�a do Sudoeste;5014
+4117008;PR;Nova F�tima;8120
+4117057;PR;Nova Laranjeiras;11462
+4117107;PR;Nova Londrina;13188
+4117206;PR;Nova Ol�mpia;5846
+4117214;PR;Nova Santa B�rbara;4304
+4117222;PR;Nova Santa Rosa;8311
+4117255;PR;Nova Prata do Igua�u;10540
+4117271;PR;Nova Tebas;5252
+4117297;PR;Novo Itacolomi;2836
+4117305;PR;Ortigueira;21783
+4117404;PR;Ourizona;3423
+4117453;PR;Ouro Verde do Oeste;6036
+4117503;PR;Pai�andu;42251
+4117602;PR;Palmas;52503
+4117701;PR;Palmeira;34109
+4117800;PR;Palmital;12755
+4117909;PR;Palotina;32389
+4118006;PR;Para�so do Norte;14211
+4118105;PR;Paranacity;11685
+4118204;PR;Paranagu�;157378
+4118303;PR;Paranapoema;3277
+4118402;PR;Paranava�;89454
+4118451;PR;Pato Bragado;5755
+4118501;PR;Pato Branco;84779
+4118600;PR;Paula Freitas;5942
+4118709;PR;Paulo Frontin;7418
+4118808;PR;Peabiru;14017
+4118857;PR;Perobal;6194
+4118907;PR;P�rola;11406
+4119004;PR;P�rola d'Oeste;6232
+4119103;PR;Pi�n;13015
+4119152;PR;Pinhais;134788
+4119202;PR;Pinhal�o;6323
+4119251;PR;Pinhal de S�o Bento;2742
+4119301;PR;Pinh�o;32722
+4119400;PR;Pira� do Sul;25779
+4119509;PR;Piraquara;116852
+4119608;PR;Pitanga;29686
+4119657;PR;Pitangueiras;3298
+4119707;PR;Planaltina do Paran�;4281
+4119806;PR;Planalto;13385
+4119905;PR;Ponta Grossa;358838
+4119954;PR;Pontal do Paran�;28529
+4120002;PR;Porecatu;12587
+4120101;PR;Porto Amazonas;4899
+4120150;PR;Porto Barreiro;3133
+4120200;PR;Porto Rico;2554
+4120309;PR;Porto Vit�ria;4057
+4120333;PR;Prado Ferreira;3806
+4120358;PR;Pranchita;5035
+4120408;PR;Presidente Castelo Branco;5395
+4120507;PR;Primeiro de Maio;11138
+4120606;PR;Prudent�polis;52776
+4120655;PR;Quarto Centen�rio;4420
+4120705;PR;Quatigu�;7504
+4120804;PR;Quatro Barras;24253
+4120853;PR;Quatro Pontes;4043
+4120903;PR;Quedas do Igua�u;34707
+4121000;PR;Quer�ncia do Norte;12257
+4121109;PR;Quinta do Sol;4444
+4121208;PR;Quitandinha;19388
+4121257;PR;Ramil�ndia;4500
+4121307;PR;Rancho Alegre;3760
+4121356;PR;Rancho Alegre d'Oeste;2602
+4121406;PR;Realeza;16976
+4121505;PR;Rebou�as;14991
+4121604;PR;Renascen�a;6772
+4121703;PR;Reserva;26933
+4121752;PR;Reserva do Igua�u;8127
+4121802;PR;Ribeir�o Claro;10622
+4121901;PR;Ribeir�o do Pinhal;12869
+4122008;PR;Rio Azul;15433
+4122107;PR;Rio Bom;3162
+4122156;PR;Rio Bonito do Igua�u;13240
+4122172;PR;Rio Branco do Iva�;4121
+4122206;PR;Rio Branco do Sul;32635
+4122305;PR;Rio Negro;34645
+4122404;PR;Rol�ndia;68165
+4122503;PR;Roncador;9447
+4122602;PR;Rondon;9664
+4122651;PR;Ros�rio do Iva�;4595
+4122701;PR;Sab�udia;6954
+4122800;PR;Salgado Filho;3389
+4122909;PR;Salto do Itarar�;4862
+4123006;PR;Salto do Lontra;14957
+4123105;PR;Santa Am�lia;3208
+4123204;PR;Santa Cec�lia do Pav�o;3253
+4123303;PR;Santa Cruz de Monte Castelo;7705
+4123402;PR;Santa F�;12330
+4123501;PR;Santa Helena;27036
+4123600;PR;Santa In�s;1568
+4123709;PR;Santa Isabel do Iva�;8484
+4123808;PR;Santa Izabel do Oeste;14924
+4123824;PR;Santa L�cia;3795
+4123857;PR;Santa Maria do Oeste;9210
+4123907;PR;Santa Mariana;11523
+4123956;PR;Santa M�nica;4052
+4124004;PR;Santana do Itarar�;4916
+4124020;PR;Santa Tereza do Oeste;10055
+4124053;PR;Santa Terezinha de Itaipu;23927
+4124103;PR;Santo Ant�nio da Platina;46503
+4124202;PR;Santo Ant�nio do Caiu�;2611
+4124301;PR;Santo Ant�nio do Para�so;2032
+4124400;PR;Santo Ant�nio do Sudoeste;20354
+4124509;PR;Santo In�cio;5422
+4124608;PR;S�o Carlos do Iva�;6961
+4124707;PR;S�o Jer�nimo da Serra;11088
+4124806;PR;S�o Jo�o;10122
+4124905;PR;S�o Jo�o do Caiu�;5819
+4125001;PR;S�o Jo�o do Iva�;9897
+4125100;PR;S�o Jo�o do Triunfo;15359
+4125209;PR;S�o Jorge d'Oeste;9005
+4125308;PR;S�o Jorge do Iva�;5535
+4125357;PR;S�o Jorge do Patroc�nio;5532
+4125407;PR;S�o Jos� da Boa Vista;6115
+4125456;PR;S�o Jos� das Palmeiras;3601
+4125506;PR;S�o Jos� dos Pinhais;334620
+4125555;PR;S�o Manoel do Paran�;2165
+4125605;PR;S�o Mateus do Sul;47137
+4125704;PR;S�o Miguel do Igua�u;27696
+4125753;PR;S�o Pedro do Igua�u;5745
+4125803;PR;S�o Pedro do Iva�;11109
+4125902;PR;S�o Pedro do Paran�;2265
+4126009;PR;S�o Sebasti�o da Amoreira;8865
+4126108;PR;S�o Tom�;5778
+4126207;PR;Sapopema;6708
+4126256;PR;Sarandi;98888
+4126272;PR;Saudade do Igua�u;5578
+4126306;PR;Seng�s;19441
+4126355;PR;Serran�polis do Igua�u;4460
+4126405;PR;Sertaneja;5149
+4126504;PR;Sertan�polis;16456
+4126603;PR;Siqueira Campos;21476
+4126652;PR;Sulina;2880
+4126678;PR;Tamarana;15277
+4126702;PR;Tamboara;5196
+4126801;PR;Tapejara;16480
+4126900;PR;Tapira;5452
+4127007;PR;Teixeira Soares;12761
+4127106;PR;Tel�maco Borba;80588
+4127205;PR;Terra Boa;17304
+4127304;PR;Terra Rica;17054
+4127403;PR;Terra Roxa;17562
+4127502;PR;Tibagi;20688
+4127601;PR;Tijucas do Sul;17295
+4127700;PR;Toledo;144601
+4127809;PR;Tomazina;7699
+4127858;PR;Tr�s Barras do Paran�;12036
+4127882;PR;Tunas do Paran�;9269
+4127908;PR;Tuneiras do Oeste;8502
+4127957;PR;Tup�ssi;8105
+4127965;PR;Turvo;12977
+4128005;PR;Ubirat�;20809
+4128104;PR;Umuarama;113416
+4128203;PR;Uni�o da Vit�ria;58298
+4128302;PR;Uniflor;2623
+4128401;PR;Ura�;11233
+4128500;PR;Wenceslau Braz;19358
+4128534;PR;Ventania;12267
+4128559;PR;Vera Cruz do Oeste;8389
+4128609;PR;Ver�;7094
+4128625;PR;Alto Para�so;2630
+4128633;PR;Doutor Ulysses;5525
+4128658;PR;Virmond;4051
+4128708;PR;Vitorino;6879
+4128807;PR;Xambr�;5584
+4200051;SC;Abdon Batista;2534
+4200101;SC;Abelardo Luz;18015
+4200200;SC;Agrol�ndia;11160
+4200309;SC;Agron�mica;5570
+4200408;SC;�gua Doce;7160
+4200507;SC;�guas de Chapec�;6544
+4200556;SC;�guas Frias;2341
+4200606;SC;�guas Mornas;6646
+4200705;SC;Alfredo Wagner;10136
+4200754;SC;Alto Bela Vista;1915
+4200804;SC;Anchieta;5477
+4200903;SC;Angelina;4686
+4201000;SC;Anita Garibaldi;6783
+4201109;SC;Anit�polis;3223
+4201208;SC;Ant�nio Carlos;8712
+4201257;SC;Api�na;10951
+4201273;SC;Arabut�;4268
+4201307;SC;Araquari;40890
+4201406;SC;Ararangu�;69493
+4201505;SC;Armaz�m;8843
+4201604;SC;Arroio Trinta;3547
+4201653;SC;Arvoredo;2228
+4201703;SC;Ascurra;8021
+4201802;SC;Atalanta;3179
+4201901;SC;Aurora;5687
+4201950;SC;Balne�rio Arroio do Silva;13782
+4202008;SC;Balne�rio Cambori�;149227
+4202057;SC;Balne�rio Barra do Sul;11271
+4202073;SC;Balne�rio Gaivota;11537
+4202081;SC;Bandeirante;2618
+4202099;SC;Barra Bonita;1625
+4202107;SC;Barra Velha;30539
+4202131;SC;Bela Vista do Toldo;6386
+4202156;SC;Belmonte;2712
+4202206;SC;Benedito Novo;11896
+4202305;SC;Bigua�u;70471
+4202404;SC;Blumenau;366418
+4202438;SC;Bocaina do Sul;3501
+4202453;SC;Bombinhas;20889
+4202503;SC;Bom Jardim da Serra;4801
+4202537;SC;Bom Jesus;3104
+4202578;SC;Bom Jesus do Oeste;2136
+4202602;SC;Bom Retiro;10153
+4202701;SC;Botuver�;5396
+4202800;SC;Bra�o do Norte;34294
+4202859;SC;Bra�o do Trombudo;3794
+4202875;SC;Brun�polis;2318
+4202909;SC;Brusque;140597
+4203006;SC;Ca�ador;80017
+4203105;SC;Caibi;6112
+4203154;SC;Calmon;3325
+4203204;SC;Cambori�;87179
+4203253;SC;Cap�o Alto;2467
+4203303;SC;Campo Alegre;11985
+4203402;SC;Campo Belo do Sul;6889
+4203501;SC;Campo Er�;8312
+4203600;SC;Campos Novos;36861
+4203709;SC;Canelinha;12553
+4203808;SC;Canoinhas;54558
+4203907;SC;Capinzal;23218
+4203956;SC;Capivari de Baixo;25477
+4204004;SC;Catanduvas;11106
+4204103;SC;Caxambu do Sul;3462
+4204152;SC;Celso Ramos;2709
+4204178;SC;Cerro Negro;3013
+4204194;SC;Chapad�o do Lageado;3025
+4204202;SC;Chapec�;227587
+4204251;SC;Cocal do Sul;16956
+4204301;SC;Conc�rdia;75683
+4204350;SC;Cordilheira Alta;4585
+4204400;SC;Coronel Freitas;9900
+4204459;SC;Coronel Martins;2560
+4204509;SC;Corup�;16300
+4204558;SC;Correia Pinto;12315
+4204608;SC;Crici�ma;219393
+4204707;SC;Cunha Por�;11150
+4204756;SC;Cunhata�;1972
+4204806;SC;Curitibanos;40037
+4204905;SC;Descanso;8136
+4205001;SC;Dion�sio Cerqueira;15592
+4205100;SC;Dona Emma;4224
+4205159;SC;Doutor Pedrinho;4164
+4205175;SC;Entre Rios;3232
+4205191;SC;Ermo;2059
+4205209;SC;Erval Velho;4423
+4205308;SC;Faxinal dos Guedes;10630
+4205357;SC;Flor do Sert�o;1575
+4205407;SC;Florian�polis;florianopolis
+4205431;SC;Formosa do Sul;2481
+4205456;SC;Forquilhinha;27621
+4205506;SC;Fraiburgo;36723
+4205555;SC;Frei Rog�rio;1918
+4205605;SC;Galv�o;2711
+4205704;SC;Garopaba;24070
+4205803;SC;Garuva;18816
+4205902;SC;Gaspar;71925
+4206009;SC;Governador Celso Ramos;14739
+4206108;SC;Gr�o Par�;6621
+4206207;SC;Gravatal;11652
+4206306;SC;Guabiruba;24922
+4206405;SC;Guaraciaba;9964
+4206504;SC;Guaramirim;46757
+4206603;SC;Guaruj� do Sul;5196
+4206652;SC;Guatamb�;4692
+4206702;SC;Herval d'Oeste;22820
+4206751;SC;Ibiam;1952
+4206801;SC;Ibicar�;3154
+4206900;SC;Ibirama;19238
+4207007;SC;I�ara;58055
+4207106;SC;Ilhota;14531
+4207205;SC;Imaru�;9764
+4207304;SC;Imbituba;45711
+4207403;SC;Imbuia;6284
+4207502;SC;Indaial;72346
+4207577;SC;Iomer�;2979
+4207601;SC;Ipira;4367
+4207650;SC;Ipor� do Oeste;9093
+4207684;SC;Ipua�u;7643
+4207700;SC;Ipumirim;7647
+4207759;SC;Iraceminha;3901
+4207809;SC;Irani;10575
+4207858;SC;Irati;1887
+4207908;SC;Irine�polis;11354
+4208005;SC;It�;6091
+4208104;SC;Itai�polis;21889
+4208203;SC;Itaja�;226617
+4208302;SC;Itapema;69323
+4208401;SC;Itapiranga;17139
+4208450;SC;Itapo�;21766
+4208500;SC;Ituporanga;25619
+4208609;SC;Jabor�;3899
+4208708;SC;Jacinto Machado;10337
+4208807;SC;Jaguaruna;20547
+4208906;SC;Jaragu� do Sul;184579
+4208955;SC;Jardin�polis;1520
+4209003;SC;Joa�aba;30684
+4209102;SC;Joinville;604708
+4209151;SC;Jos� Boiteux;5019
+4209177;SC;Jupi�;2083
+4209201;SC;Lacerd�polis;2248
+4209300;SC;Lages;157158
+4209409;SC;Laguna;46424
+4209458;SC;Lajeado Grande;1408
+4209508;SC;Laurentino;7154
+4209607;SC;Lauro M�ller;15380
+4209706;SC;Lebon R�gis;12122
+4209805;SC;Leoberto Leal;2960
+4209854;SC;Lind�ia do Sul;4530
+4209904;SC;Lontras;12497
+4210001;SC;Luiz Alves;13347
+4210035;SC;Luzerna;5683
+4210050;SC;Macieira;1757
+4210100;SC;Mafra;56825
+4210209;SC;Major Gercino;3465
+4210308;SC;Major Vieira;8209
+4210407;SC;Maracaj�;7461
+4210506;SC;Maravilha;26463
+4210555;SC;Marema;1703
+4210605;SC;Massaranduba;17330
+4210704;SC;Matos Costa;2442
+4210803;SC;Meleiro;6989
+4210852;SC;Mirim Doce;2257
+4210902;SC;Modelo;4227
+4211009;SC;Monda�;12034
+4211058;SC;Monte Carlo;9945
+4211108;SC;Monte Castelo;8263
+4211207;SC;Morro da Fuma�a;18095
+4211256;SC;Morro Grande;2884
+4211306;SC;Navegantes;85734
+4211405;SC;Nova Erechim;5163
+4211454;SC;Nova Itaberaba;4327
+4211504;SC;Nova Trento;15010
+4211603;SC;Nova Veneza;15515
+4211652;SC;Novo Horizonte;2366
+4211702;SC;Orleans;23161
+4211751;SC;Otac�lio Costa;19201
+4211801;SC;Ouro;7251
+4211850;SC;Ouro Verde;2197
+4211876;SC;Paial;1444
+4211892;SC;Painel;2352
+4211900;SC;Palho�a;178679
+4212007;SC;Palma Sola;7321
+4212056;SC;Palmeira;2673
+4212106;SC;Palmitos;16144
+4212205;SC;Papanduva;19521
+4212239;SC;Para�so;3284
+4212254;SC;Passo de Torres;9269
+4212270;SC;Passos Maia;4072
+4212304;SC;Paulo Lopes;7642
+4212403;SC;Pedras Grandes;3931
+4212502;SC;Penha;34022
+4212601;SC;Peritiba;2733
+4212650;SC;Pescaria Brava;10225
+4212700;SC;Petrol�ndia;5873
+4212809;SC;Balne�rio Pi�arras;24385
+4212908;SC;Pinhalzinho;21103
+4213005;SC;Pinheiro Preto;3635
+4213104;SC;Piratuba;3637
+4213153;SC;Planalto Alegre;2907
+4213203;SC;Pomerode;34561
+4213302;SC;Ponte Alta;4619
+4213351;SC;Ponte Alta do Norte;3426
+4213401;SC;Ponte Serrada;11674
+4213500;SC;Porto Belo;22466
+4213609;SC;Porto Uni�o;35685
+4213708;SC;Pouso Redondo;17965
+4213807;SC;Praia Grande;7305
+4213906;SC;Presidente Castello Branco;1526
+4214003;SC;Presidente Get�lio;17973
+4214102;SC;Presidente Nereu;2279
+4214151;SC;Princesa;2950
+4214201;SC;Quilombo;9773
+4214300;SC;Rancho Queimado;2897
+4214409;SC;Rio das Antas;6199
+4214508;SC;Rio do Campo;5864
+4214607;SC;Rio do Oeste;7552
+4214706;SC;Rio dos Cedros;11937
+4214805;SC;Rio do Sul;72931
+4214904;SC;Rio Fortuna;4630
+4215000;SC;Rio Negrinho;42684
+4215059;SC;Rio Rufino;2484
+4215075;SC;Riqueza;4525
+4215109;SC;Rodeio;11647
+4215208;SC;Romel�ndia;4584
+4215307;SC;Salete;7674
+4215356;SC;Saltinho;3727
+4215406;SC;Salto Veloso;4792
+4215455;SC;Sang�o;13128
+4215505;SC;Santa Cec�lia;17004
+4215554;SC;Santa Helena;2178
+4215604;SC;Santa Rosa de Lima;2151
+4215653;SC;Santa Rosa do Sul;8397
+4215679;SC;Santa Terezinha;8760
+4215687;SC;Santa Terezinha do Progresso;2317
+4215695;SC;Santiago do Sul;1211
+4215703;SC;Santo Amaro da Imperatriz;23907
+4215752;SC;S�o Bernardino;2239
+4215802;SC;S�o Bento do Sul;86317
+4215901;SC;S�o Bonif�cio;2791
+4216008;SC;S�o Carlos;11456
+4216057;SC;S�o Crist�v�o do Sul;5646
+4216107;SC;S�o Domingos;9422
+4216206;SC;S�o Francisco do Sul;54751
+4216255;SC;S�o Jo�o do Oeste;6423
+4216305;SC;S�o Jo�o Batista;39719
+4216354;SC;S�o Jo�o do Itaperi�;3784
+4216404;SC;S�o Jo�o do Sul;7332
+4216503;SC;S�o Joaquim;27322
+4216602;SC;S�o Jos�;253705
+4216701;SC;S�o Jos� do Cedro;13811
+4216800;SC;S�o Jos� do Cerrito;8054
+4216909;SC;S�o Louren�o do Oeste;24501
+4217006;SC;S�o Ludgero;13886
+4217105;SC;S�o Martinho;3162
+4217154;SC;S�o Miguel da Boa Vista;1794
+4217204;SC;S�o Miguel do Oeste;41246
+4217253;SC;S�o Pedro de Alc�ntara;6046
+4217303;SC;Saudades;9874
+4217402;SC;Schroeder;22605
+4217501;SC;Seara;17610
+4217550;SC;Serra Alta;3249
+4217600;SC;Sider�polis;14176
+4217709;SC;Sombrio;31084
+4217758;SC;Sul Brasil;2386
+4217808;SC;Tai�;18576
+4217907;SC;Tangar�;8648
+4217956;SC;Tigrinhos;1606
+4218004;SC;Tijucas;39889
+4218103;SC;Timb� do Sul;5338
+4218202;SC;Timb�;45703
+4218251;SC;Timb� Grande;8003
+4218301;SC;Tr�s Barras;19455
+4218350;SC;Treviso;4002
+4218400;SC;Treze de Maio;7104
+4218509;SC;Treze T�lias;8138
+4218608;SC;Trombudo Central;7506
+4218707;SC;Tubar�o;107143
+4218756;SC;Tun�polis;4507
+4218806;SC;Turvo;13080
+4218855;SC;Uni�o do Oeste;2364
+4218905;SC;Urubici;11311
+4218954;SC;Urupema;2453
+4219002;SC;Urussanga;21419
+4219101;SC;Varge�o;3569
+4219150;SC;Vargem;2387
+4219176;SC;Vargem Bonita;4411
+4219200;SC;Vidal Ramos;6321
+4219309;SC;Videira;54145
+4219358;SC;Vitor Meireles;4907
+4219408;SC;Witmarsum;4032
+4219507;SC;Xanxer�;52290
+4219606;SC;Xavantina;3873
+4219705;SC;Xaxim;29254
+4219853;SC;Zort�a;3432
+4220000;SC;Balne�rio Rinc�o;13129
+4300034;RS;Acegu�;4981
+4300059;RS;�gua Santa;3738
+4300109;RS;Agudo;16344
+4300208;RS;Ajuricaba;6951
+4300307;RS;Alecrim;5710
+4300406;RS;Alegrete;72493
+4300455;RS;Alegria;3287
+4300471;RS;Almirante Tamandar� do Sul;1935
+4300505;RS;Alpestre;5885
+4300554;RS;Alto Alegre;1590
+4300570;RS;Alto Feliz;3043
+4300604;RS;Alvorada;212352
+4300638;RS;Amaral Ferrador;7136
+4300646;RS;Ametista do Sul;7396
+4300661;RS;Andr� da Rocha;1351
+4300703;RS;Anta Gorda;5941
+4300802;RS;Ant�nio Prado;13041
+4300851;RS;Arambar�;3544
+4300877;RS;Araric�;5840
+4300901;RS;Aratiba;6145
+4301008;RS;Arroio do Meio;21121
+4301057;RS;Arroio do Sal;10483
+4301073;RS;Arroio do Padre;2966
+4301107;RS;Arroio dos Ratos;14201
+4301206;RS;Arroio do Tigre;13452
+4301305;RS;Arroio Grande;18185
+4301404;RS;Arvorezinha;10422
+4301503;RS;Augusto Pestana;6545
+4301552;RS;�urea;3517
+4301602;RS;Bag�;121518
+4301636;RS;Balne�rio Pinhal;14645
+4301651;RS;Bar�o;6232
+4301701;RS;Bar�o de Cotegipe;6616
+4301750;RS;Bar�o do Triunfo;7550
+4301800;RS;Barrac�o;5237
+4301859;RS;Barra do Guarita;3266
+4301875;RS;Barra do Quara�;4238
+4301909;RS;Barra do Ribeiro;13618
+4301925;RS;Barra do Rio Azul;1621
+4301958;RS;Barra Funda;2563
+4302006;RS;Barros Cassal;11167
+4302055;RS;Benjamin Constant do Sul;1924
+4302105;RS;Bento Gon�alves;123090
+4302154;RS;Boa Vista das Miss�es;2087
+4302204;RS;Boa Vista do Buric�;6712
+4302220;RS;Boa Vista do Cadeado;2466
+4302238;RS;Boa Vista do Incra;2628
+4302253;RS;Boa Vista do Sul;2773
+4302303;RS;Bom Jesus;11270
+4302352;RS;Bom Princ�pio;14446
+4302378;RS;Bom Progresso;1858
+4302402;RS;Bom Retiro do Sul;12448
+4302451;RS;Boqueir�o do Le�o;7691
+4302501;RS;Bossoroca;6135
+4302584;RS;Bozano;2099
+4302600;RS;Braga;3271
+4302659;RS;Brochier;5132
+4302709;RS;Buti�;20963
+4302808;RS;Ca�apava do Sul;33476
+4302907;RS;Cacequi;12291
+4303004;RS;Cachoeira do Sul;81552
+4303103;RS;Cachoeirinha;132144
+4303202;RS;Cacique Doble;5083
+4303301;RS;Caibat�;4802
+4303400;RS;Cai�ara;4659
+4303509;RS;Camaqu�;66686
+4303558;RS;Camargo;2750
+4303608;RS;Cambar� do Sul;6383
+4303673;RS;Campestre da Serra;3402
+4303707;RS;Campina das Miss�es;5325
+4303806;RS;Campinas do Sul;5422
+4303905;RS;Campo Bom;69981
+4304002;RS;Campo Novo;4273
+4304101;RS;Campos Borges;3272
+4304200;RS;Candel�ria;31475
+4304309;RS;C�ndido God�i;6106
+4304358;RS;Candiota;9707
+4304408;RS;Canela;45957
+4304507;RS;Cangu�u;56370
+4304606;RS;Canoas;349728
+4304614;RS;Canudos do Vale;1693
+4304622;RS;Cap�o Bonito do Sul;1628
+4304630;RS;Cap�o da Canoa;55009
+4304655;RS;Cap�o do Cip�;3745
+4304663;RS;Cap�o do Le�o;25462
+4304671;RS;Capivari do Sul;4793
+4304689;RS;Capela de Santana;12183
+4304697;RS;Capit�o;2770
+4304705;RS;Carazinho;62413
+4304713;RS;Cara�;8426
+4304804;RS;Carlos Barbosa;30630
+4304853;RS;Carlos Gomes;1327
+4304903;RS;Casca;9070
+4304952;RS;Caseiros;3228
+4305009;RS;Catu�pe;8631
+4305108;RS;Caxias do Sul;523716
+4305116;RS;Centen�rio;2865
+4305124;RS;Cerrito;6005
+4305132;RS;Cerro Branco;4720
+4305157;RS;Cerro Grande;2281
+4305173;RS;Cerro Grande do Sul;12579
+4305207;RS;Cerro Largo;14243
+4305306;RS;Chapada;9211
+4305355;RS;Charqueadas;41705
+4305371;RS;Charrua;3228
+4305405;RS;Chiapetta;3684
+4305439;RS;Chu�;6832
+4305447;RS;Chuvisca;5518
+4305454;RS;Cidreira;16897
+4305504;RS;Cir�aco;4693
+4305587;RS;Colinas;2466
+4305603;RS;Colorado;3088
+4305702;RS;Condor;6766
+4305801;RS;Constantina;9903
+4305835;RS;Coqueiro Baixo;1490
+4305850;RS;Coqueiros do Sul;2267
+4305871;RS;Coronel Barros;2521
+4305900;RS;Coronel Bicaco;7213
+4305934;RS;Coronel Pilar;1602
+4305959;RS;Cotipor�;3824
+4305975;RS;Coxilha;2731
+4306007;RS;Crissiumal;13269
+4306056;RS;Cristal;8121
+4306072;RS;Cristal do Sul;2840
+4306106;RS;Cruz Alta;59561
+4306130;RS;Cruzaltense;1765
+4306205;RS;Cruzeiro do Sul;12457
+4306304;RS;David Canabarro;4732
+4306320;RS;Derrubadas;2718
+4306353;RS;Dezesseis de Novembro;2331
+4306379;RS;Dilermando de Aguiar;2991
+4306403;RS;Dois Irm�os;33547
+4306429;RS;Dois Irm�os das Miss�es;1992
+4306452;RS;Dois Lajeados;3410
+4306502;RS;Dom Feliciano;15556
+4306551;RS;Dom Pedro de Alc�ntara;2520
+4306601;RS;Dom Pedrito;38222
+4306700;RS;Dona Francisca;2958
+4306734;RS;Doutor Maur�cio Cardoso;4380
+4306759;RS;Doutor Ricardo;1967
+4306767;RS;Eldorado do Sul;42490
+4306809;RS;Encantado;23047
+4306908;RS;Encruzilhada do Sul;26039
+4306924;RS;Engenho Velho;932
+4306932;RS;Entre-Iju�s;8350
+4306957;RS;Entre Rios do Sul;2724
+4306973;RS;Erebango;2978
+4307005;RS;Erechim;107368
+4307054;RS;Ernestina;3171
+4307104;RS;Herval;6807
+4307203;RS;Erval Grande;4780
+4307302;RS;Erval Seco;6697
+4307401;RS;Esmeralda;3291
+4307450;RS;Esperan�a do Sul;2846
+4307500;RS;Espumoso;15594
+4307559;RS;Esta��o;5924
+4307609;RS;Est�ncia Velha;51292
+4307708;RS;Esteio;83352
+4307807;RS;Estrela;34669
+4307815;RS;Estrela Velha;3646
+4307831;RS;Eug�nio de Castro;2310
+4307864;RS;Fagundes Varela;2750
+4307906;RS;Farroupilha;73758
+4308003;RS;Faxinal do Soturno;6651
+4308052;RS;Faxinalzinho;2256
+4308078;RS;Fazenda Vilanova;4680
+4308102;RS;Feliz;13728
+4308201;RS;Flores da Cunha;31352
+4308250;RS;Floriano Peixoto;1709
+4308300;RS;Fontoura Xavier;10181
+4308409;RS;Formigueiro;6569
+4308433;RS;Forquetinha;2389
+4308458;RS;Fortaleza dos Valos;4252
+4308508;RS;Frederico Westphalen;31675
+4308607;RS;Garibaldi;35794
+4308656;RS;Garruchos;2851
+4308706;RS;Gaurama;5447
+4308805;RS;General C�mara;8339
+4308854;RS;Gentil;1619
+4308904;RS;Get�lio Vargas;16158
+4309001;RS;Giru�;15729
+4309050;RS;Glorinha;8304
+4309100;RS;Gramado;36864
+4309126;RS;Gramado dos Loureiros;2036
+4309159;RS;Gramado Xavier;4378
+4309209;RS;Gravata�;285564
+4309258;RS;Guabiju;1478
+4309308;RS;Gua�ba;98331
+4309407;RS;Guapor�;26199
+4309506;RS;Guarani das Miss�es;7393
+4309555;RS;Harmonia;4967
+4309571;RS;Herveiras;3019
+4309605;RS;Horizontina;19446
+4309654;RS;Hulha Negra;6894
+4309704;RS;Humait�;4712
+4309753;RS;Ibarama;4393
+4309803;RS;Ibia��;4690
+4309902;RS;Ibiraiaras;7267
+4309951;RS;Ibirapuit�;3988
+4310009;RS;Ibirub�;20474
+4310108;RS;Igrejinha;37754
+4310207;RS;Iju�;84041
+4310306;RS;Il�polis;4054
+4310330;RS;Imb�;23721
+4310363;RS;Imigrante;3103
+4310405;RS;Independ�ncia;6054
+4310413;RS;Inhacor�;2207
+4310439;RS;Ip�;6736
+4310462;RS;Ipiranga do Sul;1871
+4310504;RS;Ira�;7046
+4310538;RS;Itaara;5573
+4310553;RS;Itacurubi;3456
+4310579;RS;Itapuca;2037
+4310603;RS;Itaqui;37363
+4310652;RS;Itati;2377
+4310702;RS;Itatiba do Sul;3143
+4310751;RS;Ivor�;1854
+4310801;RS;Ivoti;25068
+4310850;RS;Jaboticaba;3738
+4310876;RS;Jacuizinho;2718
+4310900;RS;Jacutinga;3532
+4311007;RS;Jaguar�o;26327
+4311106;RS;Jaguari;10684
+4311122;RS;Jaquirana;3611
+4311130;RS;Jari;3472
+4311155;RS;J�ia;8571
+4311205;RS;J�lio de Castilhos;19159
+4311239;RS;Lagoa Bonita do Sul;2939
+4311254;RS;Lago�o;6469
+4311270;RS;Lagoa dos Tr�s Cantos;1604
+4311304;RS;Lagoa Vermelha;27751
+4311403;RS;Lajeado;86005
+4311429;RS;Lajeado do Bugre;2569
+4311502;RS;Lavras do Sul;7410
+4311601;RS;Liberato Salzano;5087
+4311627;RS;Lindolfo Collor;6193
+4311643;RS;Linha Nova;1724
+4311700;RS;Machadinho;5411
+4311718;RS;Ma�ambar�;4539
+4311734;RS;Mampituba;2965
+4311759;RS;Manoel Viana;7315
+4311775;RS;Maquin�;6747
+4311791;RS;Marat�;2713
+4311809;RS;Marau;45523
+4311908;RS;Marcelino Ramos;4239
+4311981;RS;Mariana Pimentel;3892
+4312005;RS;Mariano Moro;1987
+4312054;RS;Marques de Souza;3981
+4312104;RS;Mata;4760
+4312138;RS;Mato Castelhano;2543
+4312153;RS;Mato Leit�o;4627
+4312179;RS;Mato Queimado;1611
+4312203;RS;Maximiliano de Almeida;4254
+4312252;RS;Minas do Le�o;8130
+4312302;RS;Miragua�;4899
+4312351;RS;Montauri;1430
+4312377;RS;Monte Alegre dos Campos;3237
+4312385;RS;Monte Belo do Sul;2514
+4312401;RS;Montenegro;66157
+4312427;RS;Morma�o;3139
+4312443;RS;Morrinhos do Sul;2891
+4312450;RS;Morro Redondo;6609
+4312476;RS;Morro Reuter;6570
+4312500;RS;Mostardas;12888
+4312609;RS;Mu�um;4967
+4312617;RS;Muitos Cap�es;3184
+4312625;RS;Muliterno;1901
+4312658;RS;N�o-Me-Toque;17886
+4312674;RS;Nicolau Vergueiro;1667
+4312708;RS;Nonoai;11574
+4312757;RS;Nova Alvorada;3698
+4312807;RS;Nova Ara��;4890
+4312906;RS;Nova Bassano;10089
+4312955;RS;Nova Boa Vista;1731
+4313003;RS;Nova Br�scia;3345
+4313011;RS;Nova Candel�ria;2677
+4313037;RS;Nova Esperan�a do Sul;5465
+4313060;RS;Nova Hartz;22147
+4313086;RS;Nova P�dua;2563
+4313102;RS;Nova Palma;6519
+4313201;RS;Nova Petr�polis;21717
+4313300;RS;Nova Prata;28021
+4313334;RS;Nova Ramada;2195
+4313359;RS;Nova Roma do Sul;3743
+4313375;RS;Nova Santa Rita;30482
+4313391;RS;Novo Cabrais;4246
+4313409;RS;Novo Hamburgo;247303
+4313425;RS;Novo Machado;3191
+4313441;RS;Novo Tiradentes;2189
+4313466;RS;Novo Xingu;1705
+4313490;RS;Novo Barreiro;4185
+4313508;RS;Os�rio;46815
+4313607;RS;Paim Filho;3731
+4313656;RS;Palmares do Sul;11342
+4313706;RS;Palmeira das Miss�es;32967
+4313805;RS;Palmitinho;7056
+4313904;RS;Panambi;44583
+4313953;RS;Pantano Grande;8995
+4314001;RS;Para�;7793
+4314027;RS;Para�so do Sul;7635
+4314035;RS;Pareci Novo;3885
+4314050;RS;Parob�;59419
+4314068;RS;Passa Sete;5790
+4314076;RS;Passo do Sobrado;6612
+4314100;RS;Passo Fundo;206103
+4314134;RS;Paulo Bento;2303
+4314159;RS;Paverama;8541
+4314175;RS;Pedras Altas;1928
+4314209;RS;Pedro Os�rio;7683
+4314308;RS;Peju�ara;3840
+4314407;RS;Pelotas;343826
+4314423;RS;Picada Caf�;5780
+4314456;RS;Pinhal;2581
+4314464;RS;Pinhal da Serra;1896
+4314472;RS;Pinhal Grande;4309
+4314498;RS;Pinheirinho do Vale;4926
+4314506;RS;Pinheiro Machado;12122
+4314548;RS;Pinto Bandeira;3068
+4314555;RS;Pirap�;2205
+4314605;RS;Piratini;20743
+4314704;RS;Planalto;9957
+4314753;RS;Po�o das Antas;2105
+4314779;RS;Pont�o;3898
+4314787;RS;Ponte Preta;1501
+4314803;RS;Port�o;38081
+4314902;RS;Porto Alegre;porto-alegre
+4315008;RS;Porto Lucena;4514
+4315057;RS;Porto Mau�;2332
+4315073;RS;Porto Vera Cruz;1258
+4315107;RS;Porto Xavier;10144
+4315131;RS;Pouso Novo;1586
+4315149;RS;Presidente Lucena;2972
+4315156;RS;Progresso;6235
+4315172;RS;Prot�sio Alves;1929
+4315206;RS;Putinga;3861
+4315305;RS;Quara�;22531
+4315313;RS;Quatro Irm�os;1860
+4315321;RS;Quevedos;2793
+4315354;RS;Quinze de Novembro;3810
+4315404;RS;Redentora;11782
+4315453;RS;Relvado;2068
+4315503;RS;Restinga S�ca;15702
+4315552;RS;Rio dos �ndios;2571
+4315602;RS;Rio Grande;212881
+4315701;RS;Rio Pardo;38257
+4315750;RS;Riozinho;4698
+4315800;RS;Roca Sales;11556
+4315909;RS;Rodeio Bonito;5868
+4315958;RS;Rolador;2270
+4316006;RS;Rolante;21591
+4316105;RS;Ronda Alta;10633
+4316204;RS;Rondinha;5033
+4316303;RS;Roque Gonzales;6750
+4316402;RS;Ros�rio do Sul;39210
+4316428;RS;Sagrada Fam�lia;2601
+4316436;RS;Saldanha Marinho;2596
+4316451;RS;Salto do Jacu�;12512
+4316477;RS;Salvador das Miss�es;2734
+4316501;RS;Salvador do Sul;7975
+4316600;RS;Sananduva;16382
+4316709;RS;Santa B�rbara do Sul;7813
+4316733;RS;Santa Cec�lia do Sul;1630
+4316758;RS;Santa Clara do Sul;6755
+4316808;RS;Santa Cruz do Sul;132271
+4316907;RS;Santa Maria;285159
+4316956;RS;Santa Maria do Herval;6382
+4316972;RS;Santa Margarida do Sul;2593
+4317004;RS;Santana da Boa Vista;8037
+4317103;RS;Sant'Ana do Livramento;75647
+4317202;RS;Santa Rosa;73882
+4317251;RS;Santa Tereza;1722
+4317301;RS;Santa Vit�ria do Palmar;29298
+4317400;RS;Santiago;49298
+4317509;RS;Santo �ngelo;77544
+4317558;RS;Santo Ant�nio do Palma;2118
+4317608;RS;Santo Ant�nio da Patrulha;43397
+4317707;RS;Santo Ant�nio das Miss�es;9930
+4317756;RS;Santo Ant�nio do Planalto;2018
+4317806;RS;Santo Augusto;13813
+4317905;RS;Santo Cristo;14177
+4317954;RS;Santo Expedito do Sul;2287
+4318002;RS;S�o Borja;59768
+4318051;RS;S�o Domingos do Sul;3091
+4318101;RS;S�o Francisco de Assis;18081
+4318200;RS;S�o Francisco de Paula;21871
+4318309;RS;S�o Gabriel;62187
+4318408;RS;S�o Jer�nimo;24569
+4318424;RS;S�o Jo�o da Urtiga;4625
+4318432;RS;S�o Jo�o do Pol�sine;2535
+4318440;RS;S�o Jorge;2808
+4318457;RS;S�o Jos� das Miss�es;2491
+4318465;RS;S�o Jos� do Herval;1917
+4318481;RS;S�o Jos� do Hort�ncio;4924
+4318499;RS;S�o Jos� do Inhacor�;2040
+4318507;RS;S�o Jos� do Norte;27866
+4318606;RS;S�o Jos� do Ouro;6911
+4318614;RS;S�o Jos� do Sul;2464
+4318622;RS;S�o Jos� dos Ausentes;3559
+4318705;RS;S�o Leopoldo;240378
+4318804;RS;S�o Louren�o do Sul;43501
+4318903;RS;S�o Luiz Gonzaga;33124
+4319000;RS;S�o Marcos;21756
+4319109;RS;S�o Martinho;5336
+4319125;RS;S�o Martinho da Serra;3228
+4319158;RS;S�o Miguel das Miss�es;7692
+4319208;RS;S�o Nicolau;5153
+4319307;RS;S�o Paulo das Miss�es;5654
+4319356;RS;S�o Pedro da Serra;3881
+4319364;RS;S�o Pedro das Miss�es;2025
+4319372;RS;S�o Pedro do Buti�;2950
+4319406;RS;S�o Pedro do Sul;16100
+4319505;RS;S�o Sebasti�o do Ca�;26161
+4319604;RS;S�o Sep�;23492
+4319703;RS;S�o Valentim;3220
+4319711;RS;S�o Valentim do Sul;2248
+4319737;RS;S�o Val�rio do Sul;2732
+4319752;RS;S�o Vendelino;2288
+4319802;RS;S�o Vicente do Sul;8742
+4319901;RS;Sapiranga;80514
+4320008;RS;Sapucaia do Sul;142508
+4320107;RS;Sarandi;25024
+4320206;RS;Seberi;10678
+4320230;RS;Sede Nova;2875
+4320263;RS;Segredo;7465
+4320305;RS;Selbach;5114
+4320321;RS;Senador Salgado Filho;2761
+4320354;RS;Sentinela do Sul;5635
+4320404;RS;Serafina Corr�a;18074
+4320453;RS;S�rio;1889
+4320503;RS;Sert�o;5220
+4320552;RS;Sert�o Santana;6586
+4320578;RS;Sete de Setembro;1931
+4320602;RS;Severiano de Almeida;3607
+4320651;RS;Silveira Martins;2365
+4320677;RS;Sinimbu;10152
+4320701;RS;Sobradinho;15041
+4320800;RS;Soledade;31067
+4320859;RS;Taba�;4816
+4320909;RS;Tapejara;24973
+4321006;RS;Tapera;10569
+4321105;RS;Tapes;17363
+4321204;RS;Taquara;57740
+4321303;RS;Taquari;26907
+4321329;RS;Taquaru�u do Sul;3081
+4321352;RS;Tavares;5484
+4321402;RS;Tenente Portela;13385
+4321436;RS;Terra de Areia;11323
+4321451;RS;Teut�nia;34275
+4321469;RS;Tio Hugo;3078
+4321477;RS;Tiradentes do Sul;5532
+4321493;RS;Toropi;2753
+4321501;RS;Torres;39381
+4321600;RS;Tramanda�;53507
+4321626;RS;Travesseiro;2331
+4321634;RS;Tr�s Arroios;2620
+4321667;RS;Tr�s Cachoeiras;11174
+4321709;RS;Tr�s Coroas;28948
+4321808;RS;Tr�s de Maio;23846
+4321832;RS;Tr�s Forquilhas;2643
+4321857;RS;Tr�s Palmeiras;4232
+4321907;RS;Tr�s Passos;23799
+4321956;RS;Trindade do Sul;5781
+4322004;RS;Triunfo;30159
+4322103;RS;Tucunduva;5612
+4322152;RS;Tunas;4585
+4322186;RS;Tupanci do Sul;1447
+4322202;RS;Tupanciret�;24182
+4322251;RS;Tupandi;5019
+4322301;RS;Tuparendi;7730
+4322327;RS;Turu�u;3408
+4322343;RS;Ubiretama;1952
+4322350;RS;Uni�o da Serra;1084
+4322376;RS;Unistalda;2306
+4322400;RS;Uruguaiana;126766
+4322509;RS;Vacaria;66916
+4322525;RS;Vale Verde;3531
+4322533;RS;Vale do Sol;11873
+4322541;RS;Vale Real;6046
+4322558;RS;Vanini;2130
+4322608;RS;Ven�ncio Aires;72373
+4322707;RS;Vera Cruz;27325
+4322806;RS;Veran�polis;26813
+4322855;RS;Vespasiano Correa;1776
+4322905;RS;Viadutos;4628
+4323002;RS;Viam�o;257330
+4323101;RS;Vicente Dutra;4530
+4323200;RS;Victor Graeff;2840
+4323309;RS;Vila Flores;3407
+4323358;RS;Vila L�ngaro;2070
+4323408;RS;Vila Maria;4368
+4323457;RS;Vila Nova do Sul;4274
+4323507;RS;Vista Alegre;2726
+4323606;RS;Vista Alegre do Prata;1553
+4323705;RS;Vista Ga�cha;2858
+4323754;RS;Vit�ria das Miss�es;3052
+4323770;RS;Westf�lia;3046
+4323804;RS;Xangri-l�;17126
+5000203;MS;�gua Clara;16025
+5000252;MS;Alcin�polis;5489
+5000609;MS;Amambai;40247
+5000708;MS;Anast�cio;25336
+5000807;MS;Anauril�ndia;9116
+5000856;MS;Ang�lica;11081
+5000906;MS;Ant�nio Jo�o;9082
+5001003;MS;Aparecida do Taboado;26386
+5001102;MS;Aquidauana;48184
+5001243;MS;Aral Moreira;12511
+5001508;MS;Bandeirantes;7281
+5001904;MS;Bataguassu;23620
+5002001;MS;Bataypor�;11368
+5002100;MS;Bela Vista;24842
+5002159;MS;Bodoquena;7802
+5002209;MS;Bonito;22401
+5002308;MS;Brasil�ndia;11835
+5002407;MS;Caarap�;31005
+5002605;MS;Camapu�;13675
+5002704;MS;Campo Grande;campo-grande
+5002803;MS;Caracol;6247
+5002902;MS;Cassil�ndia;22063
+5002951;MS;Chapad�o do Sul;26499
+5003108;MS;Corguinho;6158
+5003157;MS;Coronel Sapucaia;15449
+5003207;MS;Corumb�;112669
+5003256;MS;Costa Rica;21456
+5003306;MS;Coxim;33547
+5003454;MS;Deod�polis;13043
+5003488;MS;Dois Irm�os do Buriti;11547
+5003504;MS;Douradina;6025
+5003702;MS;Dourados;227990
+5003751;MS;Eldorado;12447
+5003801;MS;F�tima do Sul;19152
+5003900;MS;Figueir�o;3066
+5004007;MS;Gl�ria de Dourados;9934
+5004106;MS;Guia Lopes da Laguna;9754
+5004304;MS;Iguatemi;16273
+5004403;MS;Inoc�ncia;7566
+5004502;MS;Itapor�;25478
+5004601;MS;Itaquira�;21604
+5004700;MS;Ivinhema;23277
+5004809;MS;Japor�;9372
+5004908;MS;Jaraguari;7342
+5005004;MS;Jardim;26375
+5005103;MS;Jate�;4015
+5005152;MS;Juti;6861
+5005202;MS;Lad�rio;24040
+5005251;MS;Laguna Carap�;7496
+5005400;MS;Maracaju;48944
+5005608;MS;Miranda;28423
+5005681;MS;Mundo Novo;18578
+5005707;MS;Navira�;56484
+5005806;MS;Nioaque;13794
+5006002;MS;Nova Alvorada do Sul;22967
+5006200;MS;Nova Andradina;56057
+5006259;MS;Novo Horizonte do Sul;3556
+5006275;MS;Para�so das �guas;5751
+5006309;MS;Parana�ba;42401
+5006358;MS;Paranhos;14576
+5006408;MS;Pedro Gomes;7568
+5006606;MS;Ponta Por�;95320
+5006903;MS;Porto Murtinho;17460
+5007109;MS;Ribas do Rio Pardo;25310
+5007208;MS;Rio Brilhante;38844
+5007307;MS;Rio Negro;4758
+5007406;MS;Rio Verde de Mato Grosso;20025
+5007505;MS;Rochedo;5120
+5007554;MS;Santa Rita do Pardo;7948
+5007695;MS;S�o Gabriel do Oeste;27660
+5007703;MS;Sete Quedas;10751
+5007802;MS;Selv�ria;6555
+5007901;MS;Sidrol�ndia;60792
+5007935;MS;Sonora;20158
+5007950;MS;Tacuru;11795
+5007976;MS;Taquarussu;3588
+5008008;MS;Terenos;22721
+5008305;MS;Tr�s Lagoas;125137
+5008404;MS;Vicentina;6115
+5100102;MT;Acorizal;5309
+5100201;MT;�gua Boa;26679
+5100250;MT;Alta Floresta;52105
+5100300;MT;Alto Araguaia;19714
+5100359;MT;Alto Boa Vista;7092
+5100409;MT;Alto Gar�as;12323
+5100508;MT;Alto Paraguai;11587
+5100607;MT;Alto Taquari;11413
+5100805;MT;Apiac�s;10431
+5101001;MT;Araguaiana;3064
+5101209;MT;Araguainha;909
+5101258;MT;Araputanga;17078
+5101308;MT;Aren�polis;9399
+5101407;MT;Aripuan�;23067
+5101605;MT;Bar�o de Melga�o;8165
+5101704;MT;Barra do Bugres;35642
+5101803;MT;Barra do Gar�as;61702
+5101852;MT;Bom Jesus do Araguaia;6830
+5101902;MT;Brasnorte;20571
+5102504;MT;C�ceres;95339
+5102603;MT;Campin�polis;16223
+5102637;MT;Campo Novo do Parecis;36917
+5102678;MT;Campo Verde;44033
+5102686;MT;Campos de J�lio;7245
+5102694;MT;Canabrava do Norte;4711
+5102702;MT;Canarana;22101
+5102793;MT;Carlinda;10094
+5102850;MT;Castanheira;8782
+5103007;MT;Chapada dos Guimar�es;22521
+5103056;MT;Cl�udia;12338
+5103106;MT;Cocalinho;5716
+5103205;MT;Col�der;33855
+5103254;MT;Colniza;41117
+5103304;MT;Comodoro;21249
+5103353;MT;Confresa;32076
+5103361;MT;Conquista d'Oeste;4163
+5103379;MT;Cotrigua�u;20717
+5103403;MT;Cuiab�;cuiaba
+5103437;MT;Curvel�ndia;5267
+5103452;MT;Denise;9626
+5103502;MT;Diamantino;22311
+5103601;MT;Dom Aquino;8087
+5103700;MT;Feliz Natal;14847
+5103809;MT;Figueir�polis d'Oeste;3411
+5103858;MT;Ga�cha do Norte;7913
+5103908;MT;General Carneiro;5726
+5103957;MT;Gl�ria d'Oeste;2990
+5104104;MT;Guarant� do Norte;36439
+5104203;MT;Guiratinga;15740
+5104500;MT;Indiava�;2806
+5104526;MT;Ipiranga do Norte;8182
+5104542;MT;Itanhang�;7030
+5104559;MT;Ita�ba;3609
+5104609;MT;Itiquira;13727
+5104807;MT;Jaciara;27696
+5104906;MT;Jangada;8420
+5105002;MT;Jauru;8377
+5105101;MT;Juara;35275
+5105150;MT;Ju�na;41190
+5105176;MT;Juruena;16811
+5105200;MT;Juscimeira;11124
+5105234;MT;Lambari d'Oeste;6246
+5105259;MT;Lucas do Rio Verde;69671
+5105309;MT;Luciara;2036
+5105507;MT;Vila Bela da Sant�ssima Trindade;16412
+5105580;MT;Marcel�ndia;10107
+5105606;MT;Matup�;17017
+5105622;MT;Mirassol d'Oeste;28135
+5105903;MT;Nobres;15332
+5106000;MT;Nortel�ndia;5858
+5106109;MT;Nossa Senhora do Livramento;13093
+5106158;MT;Nova Bandeirantes;16052
+5106174;MT;Nova Nazar�;4013
+5106182;MT;Nova Lacerda;6861
+5106190;MT;Nova Santa Helena;3755
+5106208;MT;Nova Brasil�ndia;3656
+5106216;MT;Nova Cana� do Norte;12876
+5106224;MT;Nova Mutum;48222
+5106232;MT;Nova Ol�mpia;20820
+5106240;MT;Nova Ubirat�;12492
+5106257;MT;Nova Xavantina;21695
+5106265;MT;Novo Mundo;9545
+5106273;MT;Novo Horizonte do Norte;4069
+5106281;MT;Novo S�o Joaquim;4837
+5106299;MT;Parana�ta;11291
+5106307;MT;Paranatinga;23250
+5106315;MT;Novo Santo Ant�nio;2769
+5106372;MT;Pedra Preta;17547
+5106422;MT;Peixoto de Azevedo;35695
+5106455;MT;Planalto da Serra;2637
+5106505;MT;Pocon�;33386
+5106653;MT;Pontal do Araguaia;6972
+5106703;MT;Ponte Branca;1525
+5106752;MT;Pontes e Lacerda;46105
+5106778;MT;Porto Alegre do Norte;12849
+5106802;MT;Porto dos Ga�chos;5344
+5106828;MT;Porto Esperidi�o;12176
+5106851;MT;Porto Estrela;2794
+5107008;MT;Poxor�u;15936
+5107040;MT;Primavera do Leste;63876
+5107065;MT;Quer�ncia;18386
+5107107;MT;S�o Jos� dos Quatro Marcos;18788
+5107156;MT;Reserva do Caba�al;2754
+5107180;MT;Ribeir�o Cascalheira;10450
+5107198;MT;Ribeir�ozinho;2439
+5107206;MT;Rio Branco;5147
+5107248;MT;Santa Carmem;4600
+5107263;MT;Santo Afonso;3164
+5107297;MT;S�o Jos� do Povo;4102
+5107305;MT;S�o Jos� do Rio Claro;21351
+5107354;MT;S�o Jos� do Xingu;5646
+5107404;MT;S�o Pedro da Cipa;4823
+5107578;MT;Rondol�ndia;4069
+5107602;MT;Rondon�polis;239613
+5107701;MT;Ros�rio Oeste;16999
+5107743;MT;Santa Cruz do Xingu;2700
+5107750;MT;Salto do C�u;3226
+5107768;MT;Santa Rita do Trivelato;3602
+5107776;MT;Santa Terezinha;8547
+5107792;MT;Santo Ant�nio do Leste;5459
+5107800;MT;Santo Ant�nio do Leverger;17188
+5107859;MT;S�o F�lix do Araguaia;11934
+5107875;MT;Sapezal;27485
+5107883;MT;Serra Nova Dourada;1705
+5107909;MT;Sinop;148960
+5107925;MT;Sorriso;94941
+5107941;MT;Tabapor�;9357
+5107958;MT;Tangar� da Serra;107631
+5108006;MT;Tapurah;14380
+5108055;MT;Terra Nova do Norte;9284
+5108105;MT;Tesouro;3761
+5108204;MT;Torixor�u;3487
+5108303;MT;Uni�o do Sul;3455
+5108352;MT;Vale de S�o Domingos;3124
+5108402;MT;V�rzea Grande;290383
+5108501;MT;Vera;11731
+5108600;MT;Vila Rica;26946
+5108808;MT;Nova Guarita;4407
+5108857;MT;Nova Maril�ndia;3332
+5108907;MT;Nova Maring�;9056
+5108956;MT;Nova Monte Verde;9375
+5200050;GO;Abadia de Goi�s;9158
+5200100;GO;Abadi�nia;20873
+5200134;GO;Acre�na;22710
+5200159;GO;Adel�ndia;2515
+5200175;GO;�gua Fria de Goi�s;5843
+5200209;GO;�gua Limpa;1809
+5200258;GO;�guas Lindas de Goi�s;222850
+5200308;GO;Alex�nia;28360
+5200506;GO;Alo�ndia;1976
+5200555;GO;Alto Horizonte;6796
+5200605;GO;Alto Para�so de Goi�s;7751
+5200803;GO;Alvorada do Norte;8749
+5200829;GO;Amaralina;3875
+5200852;GO;Americano do Brasil;6220
+5200902;GO;Amorin�polis;3011
+5201108;GO;An�polis;396526
+5201207;GO;Anhanguera;1171
+5201306;GO;Anicuns;22113
+5201405;GO;Aparecida de Goi�nia;601844
+5201454;GO;Aparecida do Rio Doce;2474
+5201504;GO;Apor�;4266
+5201603;GO;Ara�u;3450
+5201702;GO;Aragar�as;20410
+5201801;GO;Aragoi�nia;10680
+5202155;GO;Araguapaz;7795
+5202353;GO;Aren�polis;2462
+5202502;GO;Aruan�;10340
+5202601;GO;Auril�ndia;3000
+5202809;GO;Avelin�polis;2401
+5203104;GO;Baliza;5418
+5203203;GO;Barro Alto;11643
+5203302;GO;Bela Vista de Goi�s;31004
+5203401;GO;Bom Jardim de Goi�s;8912
+5203500;GO;Bom Jesus de Goi�s;26069
+5203559;GO;Bonfin�polis;10120
+5203575;GO;Bon�polis;4579
+5203609;GO;Brazabrantes;3812
+5203807;GO;Brit�nia;5815
+5203906;GO;Buriti Alegre;9515
+5203939;GO;Buriti de Goi�s;2464
+5203962;GO;Buritin�polis;3272
+5204003;GO;Cabeceiras;8098
+5204102;GO;Cachoeira Alta;12843
+5204201;GO;Cachoeira de Goi�s;1336
+5204250;GO;Cachoeira Dourada;7997
+5204300;GO;Ca�u;16525
+5204409;GO;Caiap�nia;19304
+5204508;GO;Caldas Novas;95183
+5204557;GO;Caldazinha;3900
+5204607;GO;Campestre de Goi�s;3662
+5204656;GO;Campina�u;3628
+5204706;GO;Campinorte;12880
+5204805;GO;Campo Alegre de Goi�s;7884
+5204854;GO;Campo Limpo de Goi�s;8087
+5204904;GO;Campos Belos;20124
+5204953;GO;Campos Verdes;1526
+5205000;GO;Carmo do Rio Verde;10299
+5205059;GO;Castel�ndia;3380
+5205109;GO;Catal�o;113091
+5205208;GO;Catura�;5132
+5205307;GO;Cavalcante;9740
+5205406;GO;Ceres;22407
+5205455;GO;Cezarina;8794
+5205471;GO;Chapad�o do C�u;10797
+5205497;GO;Cidade Ocidental;74370
+5205513;GO;Cocalzinho de Goi�s;20771
+5205521;GO;Colinas do Sul;3339
+5205703;GO;C�rrego do Ouro;2254
+5205802;GO;Corumb� de Goi�s;11223
+5205901;GO;Corumba�ba;10012
+5206206;GO;Cristalina;61385
+5206305;GO;Cristian�polis;2962
+5206404;GO;Crix�s;17136
+5206503;GO;Crom�nia;3458
+5206602;GO;Cumari;2820
+5206701;GO;Damian�polis;3302
+5206800;GO;Damol�ndia;2944
+5206909;GO;Davin�polis;2094
+5207105;GO;Diorama;2477
+5207253;GO;Doverl�ndia;7174
+5207352;GO;Edealina;3678
+5207402;GO;Ed�ia;12559
+5207501;GO;Estrela do Norte;3253
+5207535;GO;Faina;6527
+5207600;GO;Fazenda Nova;5471
+5207808;GO;Firmin�polis;13604
+5207907;GO;Flores de Goi�s;17415
+5208004;GO;Formosa;125705
+5208103;GO;Formoso;4098
+5208152;GO;Gameleira de Goi�s;3923
+5208301;GO;Divin�polis de Goi�s;4701
+5208400;GO;Goian�polis;11217
+5208509;GO;Goiandira;5650
+5208608;GO;Goian�sia;72045
+5208707;GO;Goi�nia;goiania
+5208806;GO;Goianira;46278
+5208905;GO;Goi�s;22122
+5209101;GO;Goiatuba;34307
+5209150;GO;Gouvel�ndia;6076
+5209200;GO;Guap�;14206
+5209291;GO;Guara�ta;1905
+5209408;GO;Guarani de Goi�s;3801
+5209457;GO;Guarinos;1681
+5209606;GO;Heitora�;3742
+5209705;GO;Hidrol�ndia;22533
+5209804;GO;Hidrolina;3450
+5209903;GO;Iaciara;14215
+5209937;GO;Inaciol�ndia;6275
+5209952;GO;Indiara;15962
+5210000;GO;Inhumas;53655
+5210109;GO;Ipameri;27365
+5210158;GO;Ipiranga de Goi�s;2892
+5210208;GO;Ipor�;31471
+5210307;GO;Israel�ndia;2772
+5210406;GO;Itabera�;44329
+5210562;GO;Itaguari;4684
+5210604;GO;Itaguaru;5184
+5210802;GO;Itaj�;4412
+5210901;GO;Itapaci;23850
+5211008;GO;Itapirapu�;4380
+5211206;GO;Itapuranga;25597
+5211305;GO;Itarum�;7337
+5211404;GO;Itau�u;8968
+5211503;GO;Itumbiara;106845
+5211602;GO;Ivol�ndia;2295
+5211701;GO;Jandaia;6001
+5211800;GO;Jaragu�;52160
+5211909;GO;Jata�;103221
+5212006;GO;Jaupaci;2843
+5212055;GO;Jes�polis;2497
+5212105;GO;Jovi�nia;7417
+5212204;GO;Jussara;18266
+5212253;GO;Lagoa Santa;1652
+5212303;GO;Leopoldo de Bulh�es;7663
+5212501;GO;Luzi�nia;214645
+5212600;GO;Mairipotaba;2358
+5212709;GO;Mamba�;9277
+5212808;GO;Mara Rosa;9234
+5212907;GO;Marzag�o;2263
+5212956;GO;Matrinch�;4321
+5213004;GO;Mauril�ndia;14568
+5213053;GO;Mimoso de Goi�s;2575
+5213087;GO;Mina�u;28518
+5213103;GO;Mineiros;69477
+5213400;GO;Moipor�;1471
+5213509;GO;Monte Alegre de Goi�s;8759
+5213707;GO;Montes Claros de Goi�s;8037
+5213756;GO;Montividiu;13935
+5213772;GO;Montividiu do Norte;4538
+5213806;GO;Morrinhos;46955
+5213855;GO;Morro Agudo de Goi�s;2217
+5213905;GO;Moss�medes;4120
+5214002;GO;Mozarl�ndia;16077
+5214051;GO;Mundo Novo;4540
+5214101;GO;Mutun�polis;3749
+5214408;GO;Naz�rio;9375
+5214507;GO;Ner�polis;30931
+5214606;GO;Niquel�ndia;47064
+5214705;GO;Nova Am�rica;2362
+5214804;GO;Nova Aurora;2236
+5214838;GO;Nova Crix�s;13020
+5214861;GO;Nova Gl�ria;8063
+5214879;GO;Nova Igua�u de Goi�s;2939
+5214903;GO;Nova Roma;3208
+5215009;GO;Nova Veneza;10193
+5215207;GO;Novo Brasil;2775
+5215231;GO;Novo Gama;119649
+5215256;GO;Novo Planalto;4592
+5215306;GO;Orizona;15834
+5215405;GO;Ouro Verde de Goi�s;3679
+5215504;GO;Ouvidor;6895
+5215603;GO;Padre Bernardo;35011
+5215652;GO;Palestina de Goi�s;3470
+5215702;GO;Palmeiras de Goi�s;29915
+5215801;GO;Palmelo;2382
+5215900;GO;Palmin�polis;3578
+5216007;GO;Panam�;2590
+5216304;GO;Paranaiguara;10221
+5216403;GO;Para�na;10988
+5216452;GO;Perol�ndia;3156
+5216809;GO;Petrolina de Goi�s;10240
+5216908;GO;Pilar de Goi�s;2135
+5217104;GO;Piracanjuba;24543
+5217203;GO;Piranhas;10161
+5217302;GO;Piren�polis;25218
+5217401;GO;Pires do Rio;31909
+5217609;GO;Planaltina;91345
+5217708;GO;Pontalina;17899
+5218003;GO;Porangatu;45866
+5218052;GO;Porteir�o;3979
+5218102;GO;Portel�ndia;4032
+5218300;GO;Posse;37924
+5218391;GO;Professor Jamil;3211
+5218508;GO;Quirin�polis;51323
+5218607;GO;Rialma;10961
+5218706;GO;Rian�polis;4832
+5218789;GO;Rio Quente;4728
+5218805;GO;Rio Verde;247259
+5218904;GO;Rubiataba;20012
+5219001;GO;Sanclerl�ndia;7630
+5219100;GO;Santa B�rbara de Goi�s;6701
+5219209;GO;Santa Cruz de Goi�s;2782
+5219258;GO;Santa F� de Goi�s;5585
+5219308;GO;Santa Helena de Goi�s;38962
+5219357;GO;Santa Isabel;3821
+5219407;GO;Santa Rita do Araguaia;9110
+5219456;GO;Santa Rita do Novo Destino;3367
+5219506;GO;Santa Rosa de Goi�s;2200
+5219605;GO;Santa Tereza de Goi�s;3207
+5219704;GO;Santa Terezinha de Goi�s;8386
+5219712;GO;Santo Ant�nio da Barra;4886
+5219738;GO;Santo Ant�nio de Goi�s;6593
+5219753;GO;Santo Ant�nio do Descoberto;76871
+5219803;GO;S�o Domingos;13305
+5219902;GO;S�o Francisco de Goi�s;6265
+5220009;GO;S�o Jo�o d'Alian�a;14423
+5220058;GO;S�o Jo�o da Para�na;1312
+5220108;GO;S�o Lu�s de Montes Belos;34488
+5220157;GO;S�o Luiz do Norte;5263
+5220207;GO;S�o Miguel do Araguaia;21849
+5220264;GO;S�o Miguel do Passa Quatro;4105
+5220280;GO;S�o Patr�cio;2040
+5220405;GO;S�o Sim�o;21318
+5220454;GO;Senador Canedo;121447
+5220504;GO;Serran�polis;8737
+5220603;GO;Silv�nia;20938
+5220686;GO;Simol�ndia;6895
+5220702;GO;S�tio d'Abadia;3040
+5221007;GO;Taquaral de Goi�s;3506
+5221080;GO;Teresina de Goi�s;3538
+5221197;GO;Terez�polis de Goi�s;8326
+5221304;GO;Tr�s Ranchos;2830
+5221403;GO;Trindade;132006
+5221452;GO;Trombas;3497
+5221502;GO;Turv�nia;4526
+5221551;GO;Turvel�ndia;5447
+5221577;GO;Uirapuru;2829
+5221601;GO;Urua�u;41150
+5221700;GO;Uruana;13795
+5221809;GO;Uruta�;3056
+5221858;GO;Valpara�so de Goi�s;175720
+5221908;GO;Varj�o;3848
+5222005;GO;Vian�polis;14088
+5222054;GO;Vicentin�polis;9002
+5222203;GO;Vila Boa;6451
+5222302;GO;Vila Prop�cio;5941
+5300108;DF;Bras�lia;brasilia

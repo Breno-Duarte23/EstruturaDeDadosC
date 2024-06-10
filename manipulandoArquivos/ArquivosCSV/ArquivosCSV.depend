@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1717555713 source:c:\users\breno duarte\documents\github\estruturadedadosc\manipulandoarquivos\arquivoscsv\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
